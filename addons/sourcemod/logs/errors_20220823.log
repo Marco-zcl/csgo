@@ -1,0 +1,15 @@
+L 08/23/2022 - 20:21:56: SourceMod error session started
+L 08/23/2022 - 20:21:56: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220823.log")
+L 08/23/2022 - 20:21:56: [levelsranks.smx] SQL_TransactionFailure (1): Lost connection to MySQL server during query (-1)
+L 08/23/2022 - 20:21:57: Error log file session closed.
+L 08/23/2022 - 20:22:00: SourceMod error session started
+L 08/23/2022 - 20:22:00: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220823.log")
+L 08/23/2022 - 20:22:00: [levelsranks.smx] SQL_TransactionFailure (1): Can't connect to MySQL server on '112.124.92.31' (4) (-1)
+L 08/23/2022 - 20:22:00: [levelsranks.smx] SQL_TransactionFailure (1): Can't connect to MySQL server on '112.124.92.31' (4) (-1)
+L 08/23/2022 - 20:22:00: [levelsranks.smx] SQL_TransactionFailure (1): Can't connect to MySQL server on '112.124.92.31' (4) (-1)
+L 08/23/2022 - 20:22:00: [levelsranks.smx] SQL_TransactionFailure (1): Can't connect to MySQL server on '112.124.92.31' (4) (-1)
+L 08/23/2022 - 20:22:00: [levelsranks.smx] SQL_TransactionFailure (1): Can't connect to MySQL server on '112.124.92.31' (4) (-1)
+L 08/23/2022 - 20:22:00: [levelsranks.smx] SQL_TransactionFailure (1): Can't connect to MySQL server on '112.124.92.31' (4) (-1)
+L 08/23/2022 - 20:22:00: [levelsranks.smx] SQL_TransactionFailure (1): Can't connect to MySQL server on '112.124.92.31' (4) (-1)
+L 08/23/2022 - 20:22:00: [levelsranks.smx] SQL_Callback Error (1505): Can't connect to MySQL server on '112.124.92.31' (4)
+L 08/23/2022 - 20:39:29: Error log file session closed.

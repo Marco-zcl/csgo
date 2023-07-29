@@ -1,0 +1,11 @@
+L 12/01/2022 - 18:20:17: SourceMod log file session started (file "/csgoserver/server1/csgo/addons/sourcemod/logs/L20221201.log") (Version "1.11.0.6913")
+L 12/01/2022 - 18:20:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 12/01/2022 - 18:20:19: [warmod.smx] Current Map: de_mirage, Warmod Version: 22.10.29.1916
+L 12/01/2022 - 18:20:19: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 12/01/2022 - 18:20:19: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 12/01/2022 - 21:33:02: -------- Mapchange to de_mirage --------
+L 12/01/2022 - 21:33:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 12/01/2022 - 21:33:04: [warmod.smx] Current Map: de_mirage, Warmod Version: 22.10.29.1916
+L 12/01/2022 - 21:33:04: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 12/01/2022 - 21:33:04: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 12/02/2022 - 11:22:59: Log file closed.

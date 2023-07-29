@@ -1,0 +1,23 @@
+L 11/22/2022 - 12:08:04: SourceMod error session started
+L 11/22/2022 - 12:08:04: Info (map "de_mirage") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221122.log")
+L 11/22/2022 - 12:08:04: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 11/22/2022 - 12:08:04: [admin-flatfile.smx]  (line 64) Invalid flag detected: x
+L 11/22/2022 - 12:41:15: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/22/2022 - 12:41:15: [SM] Blaming: weapon_restrict.smx
+L 11/22/2022 - 12:41:15: [SM] Call stack trace:
+L 11/22/2022 - 12:41:15: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/22/2022 - 12:42:03: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/22/2022 - 12:42:03: [SM] Blaming: weapon_restrict.smx
+L 11/22/2022 - 12:42:03: [SM] Call stack trace:
+L 11/22/2022 - 12:42:03: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/22/2022 - 16:26:53: Error log file session closed.
+L 11/22/2022 - 16:26:53: SourceMod error session started
+L 11/22/2022 - 16:26:53: Info (map "de_mirage") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221122.log")
+L 11/22/2022 - 16:26:53: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 11/22/2022 - 16:26:53: [admin-flatfile.smx]  (line 64) Invalid flag detected: x
+L 11/22/2022 - 17:37:47: Error log file session closed.
+L 11/22/2022 - 17:37:47: SourceMod error session started
+L 11/22/2022 - 17:37:47: Info (map "de_mirage") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221122.log")
+L 11/22/2022 - 17:37:47: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 11/22/2022 - 17:37:47: [admin-flatfile.smx]  (line 64) Invalid flag detected: x
+L 11/23/2022 - 20:38:59: Error log file session closed.

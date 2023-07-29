@@ -1,0 +1,4 @@
+L 07/31/2022 - 21:51:30: SourceMod error session started
+L 07/31/2022 - 21:51:30: Info (map "de_nuke") (file "/home/csgo5/csgo/addons/sourcemod/logs/errors_20220731.log")
+L 07/31/2022 - 21:51:30: [c5_pug.smx] GOTV demo could not be recorded since tv_enable is not set to 1
+L 07/31/2022 - 21:58:54: Error log file session closed.

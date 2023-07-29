@@ -1,0 +1,29 @@
+L 08/05/2022 - 19:58:23: SourceMod log file session started (file "/home/csgo/csgo/addons/sourcemod/logs/L20220805.log") (Version "1.12.0.6912")
+L 08/05/2022 - 19:58:23: -------- Mapchange to de_inferno --------
+L 08/05/2022 - 19:59:08: -------- Mapchange to de_inferno --------
+L 08/05/2022 - 20:38:56: -------- Mapchange to de_inferno --------
+L 08/05/2022 - 21:15:22: -------- Mapchange to de_inferno --------
+L 08/05/2022 - 21:42:24: -------- Mapchange to de_inferno --------
+L 08/05/2022 - 22:01:43: [basecommands.smx] "HVH你爹<59><STEAM_1:0:515881234><>" changed map to "mir"
+L 08/05/2022 - 22:01:46: [SM] Changed map to "mir"
+L 08/05/2022 - 22:01:47: -------- Mapchange to de_mirage --------
+L 08/05/2022 - 22:07:44: -------- Mapchange to de_mirage --------
+L 08/05/2022 - 22:08:07: -------- Mapchange to de_mirage --------
+L 08/05/2022 - 22:09:07: -------- Mapchange to de_mirage --------
+L 08/05/2022 - 22:10:43: [weapon_restrict.smx] "Sadman<60><STEAM_1:0:151680565><>" setup a knives only round for the next round.
+L 08/05/2022 - 22:11:45: -------- Mapchange to de_overpass --------
+L 08/05/2022 - 22:14:15: -------- Mapchange to de_mirage --------
+L 08/05/2022 - 22:15:22: [basecommands.smx] "Sadman<60><STEAM_1:0:151680565><>" changed cvar (cvar "game_mode") (value "1")
+L 08/05/2022 - 22:15:28: [basecommands.smx] "Sadman<60><STEAM_1:0:151680565><>" changed map to "MIR"
+L 08/05/2022 - 22:15:31: [SM] Changed map to "MIR"
+L 08/05/2022 - 22:15:32: -------- Mapchange to de_mirage --------
+L 08/05/2022 - 22:18:42: [basechat.smx] "11<62><STEAM_1:0:584945062><>" triggered sm_say (text 不好说)
+L 08/05/2022 - 22:18:47: [basechat.smx] "11<62><STEAM_1:0:584945062><>" triggered sm_say (text 我也想打)
+L 08/05/2022 - 23:09:11: [basecommands.smx] "11<62><STEAM_1:0:584945062><>" changed map to "mir"
+L 08/05/2022 - 23:09:14: [SM] Changed map to "mir"
+L 08/05/2022 - 23:09:15: -------- Mapchange to de_mirage --------
+L 08/05/2022 - 23:17:24: -------- Mapchange to de_overpass --------
+L 08/05/2022 - 23:21:58: [basecommands.smx] "11<72><STEAM_1:0:584945062><>" changed map to "over"
+L 08/05/2022 - 23:22:01: [SM] Changed map to "over"
+L 08/05/2022 - 23:22:02: -------- Mapchange to de_overpass --------
+L 08/06/2022 - 00:01:03: Log file closed.

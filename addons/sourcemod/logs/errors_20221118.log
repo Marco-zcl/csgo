@@ -1,0 +1,7 @@
+L 11/18/2022 - 23:05:51: SourceMod error session started
+L 11/18/2022 - 23:05:51: Info (map "de_stmarc") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221118.log")
+L 11/18/2022 - 23:05:51: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/18/2022 - 23:05:51: [SM] Blaming: weapon_restrict.smx
+L 11/18/2022 - 23:05:51: [SM] Call stack trace:
+L 11/18/2022 - 23:05:51: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/18/2022 - 23:17:37: Error log file session closed.

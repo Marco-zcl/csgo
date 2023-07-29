@@ -1,0 +1,43 @@
+L 08/09/2022 - 00:47:07: SourceMod log file session started (file "/home/csgo/csgo/addons/sourcemod/logs/L20220809.log") (Version "1.12.0.6912")
+L 08/09/2022 - 00:47:07: -------- Mapchange to de_mirage --------
+L 08/09/2022 - 00:47:42: -------- Mapchange to de_mirage --------
+L 08/09/2022 - 10:47:30: -------- Mapchange to de_mirage --------
+L 08/09/2022 - 11:48:37: -------- Mapchange to de_mirage --------
+L 08/09/2022 - 14:26:41: -------- Mapchange to de_mirage --------
+L 08/09/2022 - 14:36:23: [basecommands.smx] "35<127><STEAM_1:0:515881234><>" changed map to "inf"
+L 08/09/2022 - 14:36:26: [SM] Changed map to "inf"
+L 08/09/2022 - 14:36:27: -------- Mapchange to de_inferno --------
+L 08/09/2022 - 14:37:18: [basecommands.smx] "35<127><STEAM_1:0:515881234><>" changed cvar (cvar "game_mode") (value "2")
+L 08/09/2022 - 14:37:23: [basecommands.smx] "35<127><STEAM_1:0:515881234><>" changed map to "inf"
+L 08/09/2022 - 14:37:26: [SM] Changed map to "inf"
+L 08/09/2022 - 14:37:27: -------- Mapchange to de_inferno --------
+L 08/09/2022 - 14:38:04: [basecommands.smx] "35<127><STEAM_1:0:515881234><>" changed cvar (cvar "mp_maxrounds") (value "16")
+L 08/09/2022 - 14:57:54: [basechat.smx] "www<130><STEAM_1:0:110600653><>" triggered sm_say (text 在哪个开黑啦呢？)
+L 08/09/2022 - 14:58:12: [basechat.smx] "www<130><STEAM_1:0:110600653><>" triggered sm_say (text 没看到啊)
+L 08/09/2022 - 14:58:53: [basechat.smx] "www<130><STEAM_1:0:110600653><>" triggered sm_say (text 代出我想扫其实)
+L 08/09/2022 - 14:59:33: [basechat.smx] "www<130><STEAM_1:0:110600653><>" triggered sm_say (text 你32位给我我给你上管理)
+L 08/09/2022 - 15:08:13: [basecommands.smx] "www<130><STEAM_1:0:110600653><>" changed cvar (cvar "mp_maxrounds") (value "16")
+L 08/09/2022 - 16:30:08: -------- Mapchange to de_inferno --------
+L 08/09/2022 - 17:32:22: -------- Mapchange to de_inferno --------
+L 08/09/2022 - 17:39:26: -------- Mapchange to de_inferno --------
+L 08/09/2022 - 18:19:02: -------- Mapchange to de_inferno --------
+L 08/09/2022 - 18:27:48: -------- Mapchange to de_inferno --------
+L 08/09/2022 - 18:57:41: [basecommands.smx] "www<137><STEAM_1:0:110600653><>" changed map to "mir"
+L 08/09/2022 - 18:57:44: [SM] Changed map to "mir"
+L 08/09/2022 - 18:57:45: -------- Mapchange to de_mirage --------
+L 08/09/2022 - 19:26:44: [basecommands.smx] "www<137><STEAM_1:0:110600653><>" changed map to "mir"
+L 08/09/2022 - 19:26:47: [SM] Changed map to "mir"
+L 08/09/2022 - 19:26:48: -------- Mapchange to de_mirage --------
+L 08/09/2022 - 19:28:04: -------- Mapchange to de_mirage --------
+L 08/09/2022 - 19:52:52: -------- Mapchange to de_mirage --------
+L 08/09/2022 - 20:33:27: -------- Mapchange to de_mirage --------
+L 08/09/2022 - 21:03:46: [basecommands.smx] "www<142><STEAM_1:0:110600653><>" changed map to "mir"
+L 08/09/2022 - 21:03:49: [SM] Changed map to "mir"
+L 08/09/2022 - 21:03:50: -------- Mapchange to de_mirage --------
+L 08/09/2022 - 21:04:33: -------- Mapchange to de_mirage --------
+L 08/09/2022 - 21:26:28: [basecommands.smx] "www<142><STEAM_1:0:110600653><>" changed map to "mir"
+L 08/09/2022 - 21:26:31: [SM] Changed map to "mir"
+L 08/09/2022 - 21:26:32: -------- Mapchange to de_mirage --------
+L 08/09/2022 - 22:56:15: -------- Mapchange to de_mirage --------
+L 08/09/2022 - 23:52:11: -------- Mapchange to de_mirage --------
+L 08/10/2022 - 00:07:41: Log file closed.

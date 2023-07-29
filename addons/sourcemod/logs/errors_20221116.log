@@ -1,0 +1,121 @@
+L 11/16/2022 - 00:01:37: SourceMod error session started
+L 11/16/2022 - 00:01:37: Info (map "de_mirage") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221116.log")
+L 11/16/2022 - 00:01:37: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/16/2022 - 00:01:37: [SM] Blaming: weapon_restrict.smx
+L 11/16/2022 - 00:01:37: [SM] Call stack trace:
+L 11/16/2022 - 00:01:37: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/16/2022 - 00:02:15: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/16/2022 - 00:02:15: [SM] Blaming: weapon_restrict.smx
+L 11/16/2022 - 00:02:15: [SM] Call stack trace:
+L 11/16/2022 - 00:02:15: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/16/2022 - 09:26:09: Error log file session closed.
+L 11/16/2022 - 09:59:33: SourceMod error session started
+L 11/16/2022 - 09:59:33: Info (map "de_mirage") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221116.log")
+L 11/16/2022 - 09:59:33: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 11/16/2022 - 09:59:33: [SM] Exception reported: Mapcycle Not Found
+L 11/16/2022 - 09:59:33: [SM] Blaming: nextmap.smx
+L 11/16/2022 - 09:59:33: [SM] Call stack trace:
+L 11/16/2022 - 09:59:33: [SM]   [0] SetFailState
+L 11/16/2022 - 09:59:33: [SM]   [1] Line 142, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::FindAndSetNextMap
+L 11/16/2022 - 09:59:33: [SM]   [2] Line 112, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::OnConfigsExecuted
+L 11/16/2022 - 13:15:07: Error log file session closed.
+L 11/16/2022 - 13:15:09: SourceMod error session started
+L 11/16/2022 - 13:15:09: Info (map "de_mirage") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221116.log")
+L 11/16/2022 - 13:15:09: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 11/16/2022 - 13:15:09: [SM] Exception reported: Mapcycle Not Found
+L 11/16/2022 - 13:15:09: [SM] Blaming: nextmap.smx
+L 11/16/2022 - 13:15:09: [SM] Call stack trace:
+L 11/16/2022 - 13:15:09: [SM]   [0] SetFailState
+L 11/16/2022 - 13:15:09: [SM]   [1] Line 142, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::FindAndSetNextMap
+L 11/16/2022 - 13:15:09: [SM]   [2] Line 112, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::OnConfigsExecuted
+L 11/16/2022 - 14:00:40: Error log file session closed.
+L 11/16/2022 - 14:00:42: SourceMod error session started
+L 11/16/2022 - 14:00:42: Info (map "de_mirage") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221116.log")
+L 11/16/2022 - 14:00:42: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 11/16/2022 - 14:00:42: [SM] Exception reported: Mapcycle Not Found
+L 11/16/2022 - 14:00:42: [SM] Blaming: nextmap.smx
+L 11/16/2022 - 14:00:42: [SM] Call stack trace:
+L 11/16/2022 - 14:00:42: [SM]   [0] SetFailState
+L 11/16/2022 - 14:00:42: [SM]   [1] Line 142, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::FindAndSetNextMap
+L 11/16/2022 - 14:00:42: [SM]   [2] Line 112, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::OnConfigsExecuted
+L 11/16/2022 - 14:27:50: Error log file session closed.
+L 11/16/2022 - 14:27:52: SourceMod error session started
+L 11/16/2022 - 14:27:52: Info (map "de_mirage") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221116.log")
+L 11/16/2022 - 14:27:52: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 11/16/2022 - 14:27:52: [SM] Exception reported: Mapcycle Not Found
+L 11/16/2022 - 14:27:52: [SM] Blaming: nextmap.smx
+L 11/16/2022 - 14:27:52: [SM] Call stack trace:
+L 11/16/2022 - 14:27:52: [SM]   [0] SetFailState
+L 11/16/2022 - 14:27:52: [SM]   [1] Line 142, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::FindAndSetNextMap
+L 11/16/2022 - 14:27:52: [SM]   [2] Line 112, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::OnConfigsExecuted
+L 11/16/2022 - 14:57:04: Error log file session closed.
+L 11/16/2022 - 14:57:06: SourceMod error session started
+L 11/16/2022 - 14:57:06: Info (map "de_mirage") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221116.log")
+L 11/16/2022 - 14:57:06: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 11/16/2022 - 14:57:06: [SM] Exception reported: Mapcycle Not Found
+L 11/16/2022 - 14:57:06: [SM] Blaming: nextmap.smx
+L 11/16/2022 - 14:57:06: [SM] Call stack trace:
+L 11/16/2022 - 14:57:06: [SM]   [0] SetFailState
+L 11/16/2022 - 14:57:06: [SM]   [1] Line 142, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::FindAndSetNextMap
+L 11/16/2022 - 14:57:06: [SM]   [2] Line 112, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::OnConfigsExecuted
+L 11/16/2022 - 21:54:29: Error log file session closed.
+L 11/16/2022 - 21:54:31: SourceMod error session started
+L 11/16/2022 - 21:54:31: Info (map "de_mirage") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221116.log")
+L 11/16/2022 - 21:54:31: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 11/16/2022 - 21:54:31: [SM] Exception reported: Mapcycle Not Found
+L 11/16/2022 - 21:54:31: [SM] Blaming: nextmap.smx
+L 11/16/2022 - 21:54:31: [SM] Call stack trace:
+L 11/16/2022 - 21:54:31: [SM]   [0] SetFailState
+L 11/16/2022 - 21:54:31: [SM]   [1] Line 142, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::FindAndSetNextMap
+L 11/16/2022 - 21:54:31: [SM]   [2] Line 112, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::OnConfigsExecuted
+L 11/16/2022 - 21:58:36: Error log file session closed.
+L 11/16/2022 - 21:58:38: SourceMod error session started
+L 11/16/2022 - 21:58:38: Info (map "de_mirage") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221116.log")
+L 11/16/2022 - 21:58:38: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 11/16/2022 - 21:58:38: [SM] Exception reported: Mapcycle Not Found
+L 11/16/2022 - 21:58:38: [SM] Blaming: nextmap.smx
+L 11/16/2022 - 21:58:38: [SM] Call stack trace:
+L 11/16/2022 - 21:58:38: [SM]   [0] SetFailState
+L 11/16/2022 - 21:58:38: [SM]   [1] Line 142, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::FindAndSetNextMap
+L 11/16/2022 - 21:58:38: [SM]   [2] Line 112, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::OnConfigsExecuted
+L 11/16/2022 - 23:12:03: Error log file session closed.
+L 11/16/2022 - 23:12:05: SourceMod error session started
+L 11/16/2022 - 23:12:05: Info (map "de_mirage") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221116.log")
+L 11/16/2022 - 23:12:05: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 11/16/2022 - 23:12:05: [SM] Exception reported: Mapcycle Not Found
+L 11/16/2022 - 23:12:05: [SM] Blaming: nextmap.smx
+L 11/16/2022 - 23:12:05: [SM] Call stack trace:
+L 11/16/2022 - 23:12:05: [SM]   [0] SetFailState
+L 11/16/2022 - 23:12:05: [SM]   [1] Line 142, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::FindAndSetNextMap
+L 11/16/2022 - 23:12:05: [SM]   [2] Line 112, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::OnConfigsExecuted
+L 11/16/2022 - 23:30:34: Error log file session closed.
+L 11/16/2022 - 23:30:36: SourceMod error session started
+L 11/16/2022 - 23:30:36: Info (map "de_mirage") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221116.log")
+L 11/16/2022 - 23:30:36: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 11/16/2022 - 23:30:36: [SM] Exception reported: Mapcycle Not Found
+L 11/16/2022 - 23:30:36: [SM] Blaming: nextmap.smx
+L 11/16/2022 - 23:30:36: [SM] Call stack trace:
+L 11/16/2022 - 23:30:36: [SM]   [0] SetFailState
+L 11/16/2022 - 23:30:36: [SM]   [1] Line 142, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::FindAndSetNextMap
+L 11/16/2022 - 23:30:36: [SM]   [2] Line 112, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::OnConfigsExecuted
+L 11/16/2022 - 23:43:20: Error log file session closed.
+L 11/16/2022 - 23:43:22: SourceMod error session started
+L 11/16/2022 - 23:43:22: Info (map "de_mirage") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221116.log")
+L 11/16/2022 - 23:43:22: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 11/16/2022 - 23:43:22: [SM] Exception reported: Mapcycle Not Found
+L 11/16/2022 - 23:43:22: [SM] Blaming: nextmap.smx
+L 11/16/2022 - 23:43:22: [SM] Call stack trace:
+L 11/16/2022 - 23:43:22: [SM]   [0] SetFailState
+L 11/16/2022 - 23:43:22: [SM]   [1] Line 142, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::FindAndSetNextMap
+L 11/16/2022 - 23:43:22: [SM]   [2] Line 112, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::OnConfigsExecuted
+L 11/16/2022 - 23:49:42: Error log file session closed.
+L 11/16/2022 - 23:49:44: SourceMod error session started
+L 11/16/2022 - 23:49:44: Info (map "de_mirage") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221116.log")
+L 11/16/2022 - 23:49:44: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 11/16/2022 - 23:49:44: [SM] Exception reported: Mapcycle Not Found
+L 11/16/2022 - 23:49:44: [SM] Blaming: nextmap.smx
+L 11/16/2022 - 23:49:44: [SM] Call stack trace:
+L 11/16/2022 - 23:49:44: [SM]   [0] SetFailState
+L 11/16/2022 - 23:49:44: [SM]   [1] Line 142, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::FindAndSetNextMap
+L 11/16/2022 - 23:49:44: [SM]   [2] Line 112, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::OnConfigsExecuted
+L 11/17/2022 - 00:07:09: Error log file session closed.

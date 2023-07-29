@@ -1,0 +1,108 @@
+L 11/14/2022 - 00:32:42: SourceMod error session started
+L 11/14/2022 - 00:32:42: Info (map "de_mirage") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221114.log")
+L 11/14/2022 - 00:32:42: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/14/2022 - 00:32:42: [SM] Blaming: weapon_restrict.smx
+L 11/14/2022 - 00:32:42: [SM] Call stack trace:
+L 11/14/2022 - 00:32:42: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/14/2022 - 00:33:03: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/14/2022 - 00:33:03: [SM] Blaming: weapon_restrict.smx
+L 11/14/2022 - 00:33:03: [SM] Call stack trace:
+L 11/14/2022 - 00:33:03: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/14/2022 - 00:33:27: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/14/2022 - 00:33:27: [SM] Blaming: weapon_restrict.smx
+L 11/14/2022 - 00:33:27: [SM] Call stack trace:
+L 11/14/2022 - 00:33:27: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/14/2022 - 00:33:43: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/14/2022 - 00:33:43: [SM] Blaming: weapon_restrict.smx
+L 11/14/2022 - 00:33:43: [SM] Call stack trace:
+L 11/14/2022 - 00:33:43: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/14/2022 - 00:37:33: Error log file session closed.
+L 11/14/2022 - 00:39:01: SourceMod error session started
+L 11/14/2022 - 00:39:01: Info (map "de_mirage") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221114.log")
+L 11/14/2022 - 00:39:01: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/14/2022 - 00:39:01: [SM] Blaming: weapon_restrict.smx
+L 11/14/2022 - 00:39:01: [SM] Call stack trace:
+L 11/14/2022 - 00:39:01: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/14/2022 - 00:44:32: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/14/2022 - 00:44:32: [SM] Blaming: weapon_restrict.smx
+L 11/14/2022 - 00:44:32: [SM] Call stack trace:
+L 11/14/2022 - 00:44:32: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/14/2022 - 01:07:12: Error log file session closed.
+L 11/14/2022 - 01:16:18: SourceMod error session started
+L 11/14/2022 - 01:16:18: Info (map "de_overpass") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221114.log")
+L 11/14/2022 - 01:16:18: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/14/2022 - 01:16:18: [SM] Blaming: weapon_restrict.smx
+L 11/14/2022 - 01:16:18: [SM] Call stack trace:
+L 11/14/2022 - 01:16:18: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/14/2022 - 01:16:22: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/14/2022 - 01:16:22: [SM] Blaming: weapon_restrict.smx
+L 11/14/2022 - 01:16:22: [SM] Call stack trace:
+L 11/14/2022 - 01:16:22: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/14/2022 - 01:16:23: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/14/2022 - 01:16:23: [SM] Blaming: weapon_restrict.smx
+L 11/14/2022 - 01:16:23: [SM] Call stack trace:
+L 11/14/2022 - 01:16:23: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/14/2022 - 01:16:38: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/14/2022 - 01:16:38: [SM] Blaming: weapon_restrict.smx
+L 11/14/2022 - 01:16:38: [SM] Call stack trace:
+L 11/14/2022 - 01:16:38: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/14/2022 - 01:17:33: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/14/2022 - 01:17:33: [SM] Blaming: weapon_restrict.smx
+L 11/14/2022 - 01:17:33: [SM] Call stack trace:
+L 11/14/2022 - 01:17:33: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/14/2022 - 01:19:01: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/14/2022 - 01:19:01: [SM] Blaming: weapon_restrict.smx
+L 11/14/2022 - 01:19:01: [SM] Call stack trace:
+L 11/14/2022 - 01:19:01: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/14/2022 - 01:20:53: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/14/2022 - 01:20:53: [SM] Blaming: weapon_restrict.smx
+L 11/14/2022 - 01:20:53: [SM] Call stack trace:
+L 11/14/2022 - 01:20:53: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/14/2022 - 01:30:42: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/14/2022 - 01:30:42: [SM] Blaming: weapon_restrict.smx
+L 11/14/2022 - 01:30:42: [SM] Call stack trace:
+L 11/14/2022 - 01:30:42: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/14/2022 - 01:30:49: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/14/2022 - 01:30:49: [SM] Blaming: weapon_restrict.smx
+L 11/14/2022 - 01:30:49: [SM] Call stack trace:
+L 11/14/2022 - 01:30:49: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/14/2022 - 01:32:35: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/14/2022 - 01:32:35: [SM] Blaming: weapon_restrict.smx
+L 11/14/2022 - 01:32:35: [SM] Call stack trace:
+L 11/14/2022 - 01:32:35: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/14/2022 - 01:33:45: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/14/2022 - 01:33:45: [SM] Blaming: weapon_restrict.smx
+L 11/14/2022 - 01:33:45: [SM] Call stack trace:
+L 11/14/2022 - 01:33:45: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/14/2022 - 01:37:45: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/14/2022 - 01:37:45: [SM] Blaming: weapon_restrict.smx
+L 11/14/2022 - 01:37:45: [SM] Call stack trace:
+L 11/14/2022 - 01:37:45: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/14/2022 - 08:03:19: Error log file session closed.
+L 11/14/2022 - 11:46:53: SourceMod error session started
+L 11/14/2022 - 11:46:53: Info (map "de_mirage") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221114.log")
+L 11/14/2022 - 11:46:53: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/14/2022 - 11:46:53: [SM] Blaming: weapon_restrict.smx
+L 11/14/2022 - 11:46:53: [SM] Call stack trace:
+L 11/14/2022 - 11:46:53: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/14/2022 - 11:47:25: [warmod.smx] Plug-in tEasyFTP.smx required to auto upload demos
+L 11/14/2022 - 11:49:46: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/14/2022 - 11:49:46: [SM] Blaming: weapon_restrict.smx
+L 11/14/2022 - 11:49:46: [SM] Call stack trace:
+L 11/14/2022 - 11:49:46: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/14/2022 - 11:52:05: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/14/2022 - 11:52:05: [SM] Blaming: weapon_restrict.smx
+L 11/14/2022 - 11:52:05: [SM] Call stack trace:
+L 11/14/2022 - 11:52:05: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/14/2022 - 17:23:27: Error log file session closed.
+L 11/14/2022 - 20:41:17: SourceMod error session started
+L 11/14/2022 - 20:41:17: Info (map "de_mirage") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221114.log")
+L 11/14/2022 - 20:41:17: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/14/2022 - 20:41:17: [SM] Blaming: weapon_restrict.smx
+L 11/14/2022 - 20:41:17: [SM] Call stack trace:
+L 11/14/2022 - 20:41:17: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/14/2022 - 20:58:45: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/14/2022 - 20:58:45: [SM] Blaming: weapon_restrict.smx
+L 11/14/2022 - 20:58:45: [SM] Call stack trace:
+L 11/14/2022 - 20:58:45: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/14/2022 - 22:47:20: Error log file session closed.

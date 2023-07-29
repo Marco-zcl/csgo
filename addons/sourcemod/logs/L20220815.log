@@ -1,0 +1,242 @@
+L 08/15/2022 - 01:36:55: SourceMod log file session started (file "/home/csgo/csgo/addons/sourcemod/logs/L20220815.log") (Version "1.12.0.6912")
+L 08/15/2022 - 01:36:55: [basebans.smx] "www<318><STEAM_1:0:110600653><>" banned "铁头<319><STEAM_1:1:635526756><>" (minutes "10") (reason "Abusive")
+L 08/15/2022 - 07:34:56: -------- Mapchange to de_mirage --------
+L 08/15/2022 - 07:37:42: [basecommands.smx] "uR<320><STEAM_1:1:100521373><>" changed cvar (cvar "sv_infinite_ammo") (value "1")
+L 08/15/2022 - 08:31:09: [basecommands.smx] "uR<320><STEAM_1:1:100521373><>" changed map to "mir"
+L 08/15/2022 - 08:31:12: [SM] Changed map to "mir"
+L 08/15/2022 - 08:31:13: -------- Mapchange to de_mirage --------
+L 08/15/2022 - 08:32:17: [basecommands.smx] "uR<320><STEAM_1:1:100521373><>" kicked "呆呆的呆<322><STEAM_1:0:631855846><>" (reason "")
+L 08/15/2022 - 08:37:28: -------- Mapchange to de_inferno --------
+L 08/15/2022 - 08:37:55: [basecommands.smx] "uR<320><STEAM_1:1:100521373><>" changed map to "mir"
+L 08/15/2022 - 08:37:58: [SM] Changed map to "mir"
+L 08/15/2022 - 08:37:59: -------- Mapchange to de_mirage --------
+L 08/15/2022 - 10:02:58: -------- Mapchange to de_mirage --------
+L 08/15/2022 - 11:33:05: -------- Mapchange to de_mirage --------
+L 08/15/2022 - 11:35:11: [basecommands.smx] "35<328><STEAM_1:0:515881234><>" changed map to "inf"
+L 08/15/2022 - 11:35:14: [SM] Changed map to "inf"
+L 08/15/2022 - 11:35:16: -------- Mapchange to de_inferno --------
+L 08/15/2022 - 11:36:26: [basecommands.smx] "35<328><STEAM_1:0:515881234><>" changed map to "inf"
+L 08/15/2022 - 11:36:29: [SM] Changed map to "inf"
+L 08/15/2022 - 11:36:31: -------- Mapchange to de_inferno --------
+L 08/15/2022 - 11:36:45: [basecommands.smx] "35<328><STEAM_1:0:515881234><>" changed cvar (cvar "game_mode") (value "2")
+L 08/15/2022 - 11:36:49: [basecommands.smx] "35<328><STEAM_1:0:515881234><>" changed map to "INF"
+L 08/15/2022 - 11:36:52: [SM] Changed map to "INF"
+L 08/15/2022 - 11:36:54: -------- Mapchange to de_inferno --------
+L 08/15/2022 - 12:16:12: -------- Mapchange to de_inferno --------
+L 08/15/2022 - 12:25:48: [basecommands.smx] "uR<336><STEAM_1:1:100521373><>" changed cvar (cvar "sv_infinite_ammo") (value "1")
+L 08/15/2022 - 12:30:30: [basecommands.smx] "uR<336><STEAM_1:1:100521373><>" kicked "五岁小朋友<339><STEAM_1:1:648750718><>" (reason "")
+L 08/15/2022 - 12:32:25: [basecommands.smx] "uR<336><STEAM_1:1:100521373><>" changed cvar (cvar "mp_maxrounds") (value "16")
+L 08/15/2022 - 12:41:35: [basecommands.smx] "uR<336><STEAM_1:1:100521373><>" changed map to "pass"
+L 08/15/2022 - 12:41:38: [SM] Changed map to "pass"
+L 08/15/2022 - 12:41:39: -------- Mapchange to de_overpass --------
+L 08/15/2022 - 12:42:48: [basecomm.smx] "uR<336><STEAM_1:1:100521373><>" gagged "五岁小朋友<340><STEAM_1:1:648750718><>"
+L 08/15/2022 - 12:42:56: [basecomm.smx] "uR<336><STEAM_1:1:100521373><>" ungagged "五岁小朋友<340><STEAM_1:1:648750718><>"
+L 08/15/2022 - 12:43:21: [basecommands.smx] "uR<336><STEAM_1:1:100521373><>" changed cvar (cvar "MP_MAXROUNDS") (value "16")
+L 08/15/2022 - 13:06:10: [basecommands.smx] "uR<336><STEAM_1:1:100521373><>" changed map to "nuke"
+L 08/15/2022 - 13:06:13: [SM] Changed map to "nuke"
+L 08/15/2022 - 13:06:13: -------- Mapchange to de_shortnuke --------
+L 08/15/2022 - 13:20:13: [basecommands.smx] "uR<336><STEAM_1:1:100521373><>" changed cvar (cvar "mp_maxrounds") (value "16")
+L 08/15/2022 - 13:40:17: [basecommands.smx] "uR<336><STEAM_1:1:100521373><>" changed map to "mir"
+L 08/15/2022 - 13:40:19: [basecommands.smx] "uR<336><STEAM_1:1:100521373><>" changed map to "nuke"
+L 08/15/2022 - 13:40:20: [SM] Changed map to "mir"
+L 08/15/2022 - 13:40:21: -------- Mapchange to de_mirage --------
+L 08/15/2022 - 13:40:26: [SM] Changed map to "nuke"
+L 08/15/2022 - 13:40:27: -------- Mapchange to de_shortnuke --------
+L 08/15/2022 - 13:41:23: [basecommands.smx] "uR<336><STEAM_1:1:100521373><>" changed cvar (cvar "sv_infinite_ammo") (value "1")
+L 08/15/2022 - 13:53:48: [basecommands.smx] "uR<336><STEAM_1:1:100521373><>" changed map to "nuke"
+L 08/15/2022 - 13:53:51: [SM] Changed map to "nuke"
+L 08/15/2022 - 13:53:52: -------- Mapchange to de_shortnuke --------
+L 08/15/2022 - 13:55:12: [basecommands.smx] "uR<336><STEAM_1:1:100521373><>" changed cvar (cvar "sv_infinite_ammo") (value "1")
+L 08/15/2022 - 14:01:04: -------- Mapchange to de_mirage --------
+L 08/15/2022 - 14:07:19: [basecommands.smx] "Little orange<354><STEAM_1:0:612260891><>" refreshed the admin cache.
+L 08/15/2022 - 14:13:47: -------- Mapchange to de_mirage --------
+L 08/15/2022 - 14:14:15: [basecommands.smx] "uR<365><STEAM_1:1:100521373><>" changed map to "vertigo"
+L 08/15/2022 - 14:14:18: [SM] Changed map to "vertigo"
+L 08/15/2022 - 14:14:19: -------- Mapchange to de_vertigo --------
+L 08/15/2022 - 14:18:14: [basecommands.smx] "uR<365><STEAM_1:1:100521373><>" changed cvar (cvar "mp_maxrounds") (value "16")
+L 08/15/2022 - 14:18:44: [playercommands.smx] "uR<365><STEAM_1:1:100521373><>" slayed "SeaStar<367><STEAM_1:0:532402803><>"
+L 08/15/2022 - 14:28:15: [basecommands.smx] "uR<365><STEAM_1:1:100521373><>" changed map to "pass"
+L 08/15/2022 - 14:28:19: [SM] Changed map to "pass"
+L 08/15/2022 - 14:28:20: -------- Mapchange to de_overpass --------
+L 08/15/2022 - 14:28:56: [basecommands.smx] "uR<365><STEAM_1:1:100521373><>" kicked "SeaStar<367><STEAM_1:0:532402803><>" (reason "")
+L 08/15/2022 - 14:30:34: [basecomm.smx] "uR<365><STEAM_1:1:100521373><>" gagged "SeaStar<369><STEAM_1:0:532402803><>"
+L 08/15/2022 - 14:30:56: [basecommands.smx] "uR<365><STEAM_1:1:100521373><>" changed cvar (cvar "mp_maxrounds") (value "16")
+L 08/15/2022 - 14:54:18: [basecommands.smx] "uR<374><STEAM_1:1:100521373><>" changed map to "nuke"
+L 08/15/2022 - 14:54:21: [SM] Changed map to "nuke"
+L 08/15/2022 - 14:54:22: -------- Mapchange to de_shortnuke --------
+L 08/15/2022 - 14:54:59: [basecommands.smx] "uR<374><STEAM_1:1:100521373><>" changed cvar (cvar "sv_cheats") (value "1")
+L 08/15/2022 - 14:55:08: [basecommands.smx] "uR<374><STEAM_1:1:100521373><>" changed cvar (cvar "sv_infinite_ammo") (value "1")
+L 08/15/2022 - 14:58:04: [basebans.smx] "uR<374><STEAM_1:1:100521373><>" banned "SeaStar<369><STEAM_1:0:532402803><>" (minutes "10") (reason "1")
+L 08/15/2022 - 15:34:08: -------- Mapchange to de_mirage --------
+L 08/15/2022 - 15:35:12: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "z1ppEr<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:35:13: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "z1ppEr<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:35:13: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "z1ppEr<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:35:13: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "z1ppEr<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:35:13: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "z1ppEr<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:35:13: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "z1ppEr<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:35:13: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "z1ppEr<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:35:14: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "z1ppEr<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:35:14: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "z1ppEr<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:35:14: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "z1ppEr<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:35:14: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "z1ppEr<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:35:14: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "z1ppEr<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:35:14: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "z1ppEr<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:35:15: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "z1ppEr<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:35:15: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "z1ppEr<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:35:15: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "z1ppEr<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:35:15: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "z1ppEr<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:35:15: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "z1ppEr<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:35:16: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "z1ppEr<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:35:16: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "z1ppEr<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:35:27: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" set a beacon on "z1ppEr<384><STEAM_1:1:645997219><>"
+L 08/15/2022 - 15:35:36: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" set blind on "z1ppEr<384><STEAM_1:1:645997219><>" (amount "255")
+L 08/15/2022 - 15:36:36: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" set blind on "z1ppEr<384><STEAM_1:1:645997219><>" (amount "255")
+L 08/15/2022 - 15:36:52: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" set blind on "z1ppEr<384><STEAM_1:1:645997219><>" (amount "240")
+L 08/15/2022 - 15:37:06: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" set a FreezeBomb on "z1ppEr<384><STEAM_1:1:645997219><>"
+L 08/15/2022 - 15:37:34: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" renamed "z1ppEr<384><STEAM_1:1:645997219><>" (to "zEE1p1")
+L 08/15/2022 - 15:37:36: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" renamed "zEE1p1<384><STEAM_1:1:645997219><>" (to "pEEEEp")
+L 08/15/2022 - 15:37:37: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" renamed "pEEEEp<384><STEAM_1:1:645997219><>" (to "EEEppp")
+L 08/15/2022 - 15:37:43: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" toggled noclip on "Little orange<383><STEAM_1:0:612260891><>"
+L 08/15/2022 - 15:38:25: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" toggled noclip on "EEEppp<384><STEAM_1:1:645997219><>"
+L 08/15/2022 - 15:38:34: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" toggled noclip on "EEEppp<384><STEAM_1:1:645997219><>"
+L 08/15/2022 - 15:38:35: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" toggled noclip on "Little orange<383><STEAM_1:0:612260891><>"
+L 08/15/2022 - 15:38:39: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" toggled noclip on "Little orange<383><STEAM_1:0:612260891><>"
+L 08/15/2022 - 15:38:43: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" toggled noclip on "EEEppp<384><STEAM_1:1:645997219><>"
+L 08/15/2022 - 15:38:44: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" toggled noclip on "EEEppp<384><STEAM_1:1:645997219><>"
+L 08/15/2022 - 15:38:56: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" toggled noclip on "Little orange<383><STEAM_1:0:612260891><>"
+L 08/15/2022 - 15:39:05: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" drugged "EEEppp<384><STEAM_1:1:645997219><>"
+L 08/15/2022 - 15:40:06: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" set gravity on "EEEppp<384><STEAM_1:1:645997219><>" (amount "4.000000")
+L 08/15/2022 - 15:40:15: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" set gravity on "EEEppp<384><STEAM_1:1:645997219><>" (amount "0.100000")
+L 08/15/2022 - 15:40:24: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" set gravity on "Little orange<383><STEAM_1:0:612260891><>" (amount "0.100000")
+L 08/15/2022 - 15:40:36: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" set gravity on "Little orange<383><STEAM_1:0:612260891><>" (amount "0.100000")
+L 08/15/2022 - 15:40:52: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" froze "EEEppp<384><STEAM_1:1:645997219><>"
+L 08/15/2022 - 15:41:28: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:28: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:28: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:28: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:28: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:28: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:29: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:29: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:29: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:29: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:29: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:29: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:30: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:30: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:30: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:30: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:30: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:30: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:30: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:31: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:31: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:31: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:31: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:31: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:31: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:32: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:32: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:32: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:32: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:32: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:40: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:43: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:43: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:44: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:46: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:47: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:47: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:48: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:48: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:48: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:48: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:48: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:49: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:49: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:49: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:49: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:50: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:50: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:50: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:50: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:50: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:50: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:51: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:51: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:51: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:51: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:51: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:51: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:51: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:52: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:52: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:41:52: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" slapped "EEEppp<384><STEAM_1:1:645997219><>" (damage "0")
+L 08/15/2022 - 15:42:02: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" ignited "EEEppp<384><STEAM_1:1:645997219><>" (seconds "20.000000")
+L 08/15/2022 - 15:42:07: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" ignited "EEEppp<384><STEAM_1:1:645997219><>" (seconds "20.000000")
+L 08/15/2022 - 15:42:07: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" ignited "EEEppp<384><STEAM_1:1:645997219><>" (seconds "20.000000")
+L 08/15/2022 - 15:42:08: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" ignited "EEEppp<384><STEAM_1:1:645997219><>" (seconds "20.000000")
+L 08/15/2022 - 15:44:15: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" renamed "EEEppp<384><STEAM_1:1:645997219><>" (to "EpEpEp")
+L 08/15/2022 - 15:44:16: [playercommands.smx] "Little orange<383><STEAM_1:0:612260891><>" renamed "EpEpEp<384><STEAM_1:1:645997219><>" (to "pEpEpE")
+L 08/15/2022 - 15:47:48: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" drugged "pEpEpE<384><STEAM_1:1:645997219><>"
+L 08/15/2022 - 15:48:01: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" set blind on "pEpEpE<384><STEAM_1:1:645997219><>" (amount "255")
+L 08/15/2022 - 15:49:20: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" toggled noclip on "Little orange<383><STEAM_1:0:612260891><>"
+L 08/15/2022 - 15:49:47: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" toggled noclip on "Little orange<383><STEAM_1:0:612260891><>"
+L 08/15/2022 - 15:49:49: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" toggled noclip on "Little orange<383><STEAM_1:0:612260891><>"
+L 08/15/2022 - 15:49:50: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" toggled noclip on "Little orange<383><STEAM_1:0:612260891><>"
+L 08/15/2022 - 15:49:50: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" toggled noclip on "Little orange<383><STEAM_1:0:612260891><>"
+L 08/15/2022 - 15:49:58: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" toggled noclip on "Little orange<383><STEAM_1:0:612260891><>"
+L 08/15/2022 - 15:50:03: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" toggled noclip on "Little orange<383><STEAM_1:0:612260891><>"
+L 08/15/2022 - 15:50:10: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" toggled noclip on "Little orange<383><STEAM_1:0:612260891><>"
+L 08/15/2022 - 15:50:13: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" toggled noclip on "Little orange<383><STEAM_1:0:612260891><>"
+L 08/15/2022 - 15:50:14: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" toggled noclip on "Little orange<383><STEAM_1:0:612260891><>"
+L 08/15/2022 - 15:50:16: [funcommands.smx] "Little orange<383><STEAM_1:0:612260891><>" toggled noclip on "Little orange<383><STEAM_1:0:612260891><>"
+L 08/15/2022 - 16:26:22: -------- Mapchange to de_mirage --------
+L 08/15/2022 - 16:41:04: -------- Mapchange to de_mirage --------
+L 08/15/2022 - 16:41:43: -------- Mapchange to de_mirage --------
+L 08/15/2022 - 16:51:48: -------- Mapchange to de_mirage --------
+L 08/15/2022 - 16:58:01: [basecommands.smx] "后室草拟吗<394><STEAM_1:0:584945062><>" kicked "watermelon<399><STEAM_1:1:30632058><>" (reason "")
+L 08/15/2022 - 16:58:03: [basecommands.smx] "后室草拟吗<394><STEAM_1:0:584945062><>" kicked "嫌疑人<402><STEAM_1:1:623229667><>" (reason "")
+L 08/15/2022 - 17:00:07: [basecommands.smx] "后室草拟吗<394><STEAM_1:0:584945062><>" changed map to "bank"
+L 08/15/2022 - 17:00:10: [SM] Changed map to "bank"
+L 08/15/2022 - 17:00:11: -------- Mapchange to de_bank --------
+L 08/15/2022 - 17:40:42: -------- Mapchange to de_mirage --------
+L 08/15/2022 - 18:32:20: -------- Mapchange to de_mirage --------
+L 08/15/2022 - 18:37:20: -------- Mapchange to de_mirage --------
+L 08/15/2022 - 19:04:13: [basebans.smx] "后室草拟吗<416><STEAM_1:0:584945062><>" banned "小苏代出请看我主页！<419><STEAM_1:1:641124905><>" (minutes "10") (reason "Abusive")
+L 08/15/2022 - 19:18:30: [basecommands.smx] "后室草拟吗<416><STEAM_1:0:584945062><>" changed map to "mir"
+L 08/15/2022 - 19:18:33: [SM] Changed map to "mir"
+L 08/15/2022 - 19:18:34: -------- Mapchange to de_mirage --------
+L 08/15/2022 - 19:20:33: [basechat.smx] "uR<431><STEAM_1:1:100521373><>" triggered sm_say (text OMG)
+L 08/15/2022 - 19:20:35: [basechat.smx] "uR<431><STEAM_1:1:100521373><>" triggered sm_say (text s)
+L 08/15/2022 - 19:20:38: [basechat.smx] "uR<431><STEAM_1:1:100521373><>" triggered sm_say (text cnm)
+L 08/15/2022 - 19:20:44: [basechat.smx] "uR<431><STEAM_1:1:100521373><>" triggered sm_say (text 骂我不送地狱火)
+L 08/15/2022 - 19:20:47: [basechat.smx] "uR<431><STEAM_1:1:100521373><>" triggered sm_say (text uuu)
+L 08/15/2022 - 19:32:06: -------- Mapchange to de_mirage --------
+L 08/15/2022 - 19:32:11: -------- Mapchange to de_vertigo --------
+L 08/15/2022 - 19:33:56: [basecommands.smx] "uR<434><STEAM_1:1:100521373><>" changed cvar (cvar "mp_maxrounds") (value "16")
+L 08/15/2022 - 19:34:09: [basecommands.smx] "uR<434><STEAM_1:1:100521373><>" changed map to "vertigo"
+L 08/15/2022 - 19:34:12: [SM] Changed map to "vertigo"
+L 08/15/2022 - 19:34:13: -------- Mapchange to de_vertigo --------
+L 08/15/2022 - 19:35:42: [basecommands.smx] "uR<434><STEAM_1:1:100521373><>" changed cvar (cvar "mp_maxrounds") (value "16")
+L 08/15/2022 - 19:45:00: [basecommands.smx] "后室草拟吗<433><STEAM_1:0:584945062><>" changed map to "nuke"
+L 08/15/2022 - 19:45:03: [SM] Changed map to "nuke"
+L 08/15/2022 - 19:45:04: -------- Mapchange to de_shortnuke --------
+L 08/15/2022 - 20:25:20: [basecommands.smx] "后室草拟吗<433><STEAM_1:0:584945062><>" kicked "Voi<432><STEAM_1:1:515004150><>" (reason "")
+L 08/15/2022 - 20:25:58: [basecommands.smx] "后室草拟吗<433><STEAM_1:0:584945062><>" changed cvar (cvar "game_mode") (value "1")
+L 08/15/2022 - 20:26:32: [basecommands.smx] "后室草拟吗<433><STEAM_1:0:584945062><>" changed map to "mir"
+L 08/15/2022 - 20:26:35: [SM] Changed map to "mir"
+L 08/15/2022 - 20:26:36: -------- Mapchange to de_mirage --------
+L 08/15/2022 - 20:28:57: [basecommands.smx] "后室草拟吗<433><STEAM_1:0:584945062><>" kicked "aimwhere<436><STEAM_1:1:213080734><>" (reason "")
+L 08/15/2022 - 20:32:20: [basecommands.smx] "后室草拟吗<433><STEAM_1:0:584945062><>" changed map to "off"
+L 08/15/2022 - 20:32:23: [SM] Changed map to "off"
+L 08/15/2022 - 20:32:26: -------- Mapchange to cs_office --------
+L 08/15/2022 - 20:34:09: [basecommands.smx] "后室草拟吗<433><STEAM_1:0:584945062><>" kicked "5<453><STEAM_1:0:1228678><>" (reason "")
+L 08/15/2022 - 21:02:07: [basecommands.smx] "后室草拟吗<433><STEAM_1:0:584945062><>" kicked "挽风<439><STEAM_1:0:652740261><>" (reason "")
+L 08/15/2022 - 22:03:08: [basecommands.smx] "uR<461><STEAM_1:1:100521373><>" changed cvar (cvar "game_mode") (value "2")
+L 08/15/2022 - 22:03:27: [basecommands.smx] "uR<461><STEAM_1:1:100521373><>" changed map to "mir"
+L 08/15/2022 - 22:03:30: [SM] Changed map to "mir"
+L 08/15/2022 - 22:03:31: -------- Mapchange to de_mirage --------
+L 08/15/2022 - 22:49:29: -------- Mapchange to de_mirage --------
+L 08/15/2022 - 23:26:12: -------- Mapchange to de_mirage --------
+L 08/16/2022 - 00:34:14: Log file closed.

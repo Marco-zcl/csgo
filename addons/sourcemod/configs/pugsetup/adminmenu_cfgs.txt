@@ -1,0 +1,11 @@
+/**
+ * List config files here (relative to moddir) to have them added to the exec config menu list
+ * Left side is the filename, right side is the text to be added to the menu
+ */
+Configs
+{
+    "cfg/sm_competitive.cfg"		      "竞技"
+    "cfg/sm_competitive2v2.cfg"	                "搭档"
+    "cfg/sm_unrestrict"                               "无限制武器"
+    "cfg/server.cfg"			"Standard Server Setup"
+}

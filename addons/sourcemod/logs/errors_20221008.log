@@ -1,0 +1,7 @@
+L 10/08/2022 - 14:48:38: SourceMod error session started
+L 10/08/2022 - 14:48:38: Info (map "de_inferno") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221008.log")
+L 10/08/2022 - 14:48:38: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/08/2022 - 14:48:38: [SM] Blaming: weapon_restrict.smx
+L 10/08/2022 - 14:48:38: [SM] Call stack trace:
+L 10/08/2022 - 14:48:38: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/08/2022 - 14:52:01: Error log file session closed.

@@ -1,0 +1,71 @@
+L 11/25/2022 - 12:59:14: SourceMod log file session started (file "/csgoserver/server1/csgo/addons/sourcemod/logs/L20221125.log") (Version "1.11.0.6913")
+L 11/25/2022 - 12:59:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 11/25/2022 - 12:59:16: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 11/25/2022 - 12:59:16: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/25/2022 - 13:04:02: [pugsetup.smx] Recording to pug_2022-11-25_1304_de_mirage
+L 11/25/2022 - 13:28:37: -------- Mapchange to de_mirage --------
+L 11/25/2022 - 13:28:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 11/25/2022 - 13:28:39: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 11/25/2022 - 13:28:39: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/25/2022 - 13:29:05: [ServerChangeER.smx] addadmin --STEAM_1:1:426286971
+L 11/25/2022 - 13:29:05: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 11/25/2022 - 16:40:11: -------- Mapchange to de_mirage --------
+L 11/25/2022 - 16:40:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 11/25/2022 - 16:40:13: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 11/25/2022 - 16:40:13: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/25/2022 - 18:51:52: -------- Mapchange to de_mirage --------
+L 11/25/2022 - 18:51:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 11/25/2022 - 18:51:54: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 11/25/2022 - 18:51:54: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/25/2022 - 19:25:07: -------- Mapchange to de_mirage --------
+L 11/25/2022 - 19:25:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 11/25/2022 - 19:25:09: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 11/25/2022 - 19:25:09: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/25/2022 - 19:35:17: -------- Mapchange to de_mirage --------
+L 11/25/2022 - 19:35:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 11/25/2022 - 19:35:20: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 11/25/2022 - 19:35:20: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/25/2022 - 19:36:38: [ServerChangeER.smx] addadmin --STEAM_1:1:86120286
+L 11/25/2022 - 19:36:38: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 11/25/2022 - 20:05:27: -------- Mapchange to de_mirage --------
+L 11/25/2022 - 20:05:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 11/25/2022 - 20:05:29: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 11/25/2022 - 20:05:29: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/25/2022 - 20:43:11: -------- Mapchange to de_mirage --------
+L 11/25/2022 - 20:43:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 11/25/2022 - 20:43:13: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 11/25/2022 - 20:43:13: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/25/2022 - 21:24:56: -------- Mapchange to de_mirage --------
+L 11/25/2022 - 21:24:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 11/25/2022 - 21:24:58: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 11/25/2022 - 21:24:58: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/25/2022 - 21:36:53: [pugsetup.smx] Recording to pug_2022-11-25_2136_de_mirage
+L 11/25/2022 - 22:12:25: [basecommands.smx] "не оставляй меня<183><STEAM_1:1:115461458><>" changed map to "stmarc"
+L 11/25/2022 - 22:12:28: [SM] Changed map to "stmarc"
+L 11/25/2022 - 22:12:30: -------- Mapchange to de_stmarc --------
+L 11/25/2022 - 22:12:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 11/25/2022 - 22:12:32: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 11/25/2022 - 22:12:32: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/25/2022 - 22:14:26: [pugsetup.smx] Recording to pug_2022-11-25_2214_de_stmarc
+L 11/25/2022 - 22:14:34: [basecommands.smx] "не оставляй меня<183><STEAM_1:1:115461458><>" changed cvar (cvar "mp_maxrounds") (value "16")
+L 11/25/2022 - 22:25:06: [basecommands.smx] "не оставляй меня<183><STEAM_1:1:115461458><>" changed map to "cache"
+L 11/25/2022 - 22:25:09: [SM] Changed map to "cache"
+L 11/25/2022 - 22:25:12: -------- Mapchange to de_cache --------
+L 11/25/2022 - 22:25:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 11/25/2022 - 22:25:15: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 11/25/2022 - 22:25:15: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/25/2022 - 22:29:11: [pugsetup.smx] Recording to pug_2022-11-25_2229_de_cache
+L 11/25/2022 - 22:30:52: [basecommands.smx] "не оставляй меня<183><STEAM_1:1:115461458><>" changed cvar (cvar "game_mode") (value "2")
+L 11/25/2022 - 22:31:01: [basecommands.smx] "не оставляй меня<183><STEAM_1:1:115461458><>" changed map to "CACHE"
+L 11/25/2022 - 22:31:04: [SM] Changed map to "CACHE"
+L 11/25/2022 - 22:31:07: -------- Mapchange to de_cache --------
+L 11/25/2022 - 22:31:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 11/25/2022 - 22:31:10: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 11/25/2022 - 22:31:10: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/25/2022 - 22:32:07: [movecommands.smx] "не оставляй меня<183><STEAM_1:1:115461458><>" was moved to CT by "не оставляй меня<183><STEAM_1:1:115461458><>"
+L 11/25/2022 - 22:32:07: [movecommands.smx] "橘右京1337<184><STEAM_1:0:612235843><>" was moved to T by "не оставляй меня<183><STEAM_1:1:115461458><>"
+L 11/25/2022 - 22:57:13: -------- Mapchange to de_cache --------
+L 11/25/2022 - 22:57:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 11/25/2022 - 22:57:15: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 11/25/2022 - 22:57:15: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/27/2022 - 10:14:10: Log file closed.

@@ -1,0 +1,21 @@
+L 10/05/2022 - 07:09:19: SourceMod error session started
+L 10/05/2022 - 07:09:19: Info (map "de_dust2") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221005.log")
+L 10/05/2022 - 07:09:19: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/05/2022 - 07:09:19: [SM] Blaming: weapon_restrict.smx
+L 10/05/2022 - 07:09:19: [SM] Call stack trace:
+L 10/05/2022 - 07:09:19: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/05/2022 - 07:16:32: Error log file session closed.
+L 10/05/2022 - 12:27:31: SourceMod error session started
+L 10/05/2022 - 12:27:31: Info (map "de_dust2") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221005.log")
+L 10/05/2022 - 12:27:31: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/05/2022 - 12:27:31: [SM] Blaming: weapon_restrict.smx
+L 10/05/2022 - 12:27:31: [SM] Call stack trace:
+L 10/05/2022 - 12:27:31: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/05/2022 - 12:38:00: Error log file session closed.
+L 10/05/2022 - 15:07:02: SourceMod error session started
+L 10/05/2022 - 15:07:02: Info (map "de_dust2") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221005.log")
+L 10/05/2022 - 15:07:02: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/05/2022 - 15:07:02: [SM] Blaming: weapon_restrict.smx
+L 10/05/2022 - 15:07:02: [SM] Call stack trace:
+L 10/05/2022 - 15:07:02: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/05/2022 - 15:29:35: Error log file session closed.

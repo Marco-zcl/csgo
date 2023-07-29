@@ -1,0 +1,487 @@
+L 10/21/2022 - 02:53:20: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 02:53:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/21/2022 - 02:53:24: [warmod.smx] Current Map: de_nuke, Warmod Version: 19.11.21.2253
+L 10/21/2022 - 02:53:27: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/21/2022 - 02:53:27: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/21/2022 - 05:24:17: -------- Mapchange to de_nuke --------
+L 10/21/2022 - 05:24:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/21/2022 - 05:24:23: [warmod.smx] Current Map: de_nuke, Warmod Version: 19.11.21.2253
+L 10/21/2022 - 05:24:26: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/21/2022 - 05:24:26: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/21/2022 - 09:54:17: -------- Mapchange to de_nuke --------
+L 10/21/2022 - 09:54:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/21/2022 - 09:54:24: [warmod.smx] Current Map: de_nuke, Warmod Version: 19.11.21.2253
+L 10/21/2022 - 09:54:26: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/21/2022 - 09:54:26: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/21/2022 - 11:06:22: -------- Mapchange to de_nuke --------
+L 10/21/2022 - 11:06:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/21/2022 - 11:06:28: [warmod.smx] Current Map: de_nuke, Warmod Version: 19.11.21.2253
+L 10/21/2022 - 11:06:31: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/21/2022 - 11:06:31: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/21/2022 - 12:00:37: -------- Mapchange to de_nuke --------
+L 10/21/2022 - 12:00:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/21/2022 - 12:00:43: [warmod.smx] Current Map: de_nuke, Warmod Version: 19.11.21.2253
+L 10/21/2022 - 12:00:45: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/21/2022 - 12:00:45: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/21/2022 - 12:44:43: -------- Mapchange to de_nuke --------
+L 10/21/2022 - 12:44:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/21/2022 - 12:44:49: [warmod.smx] Current Map: de_nuke, Warmod Version: 19.11.21.2253
+L 10/21/2022 - 12:44:52: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/21/2022 - 12:44:52: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/21/2022 - 12:47:55: -------- Mapchange to de_nuke --------
+L 10/21/2022 - 12:47:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/21/2022 - 12:48:01: [warmod.smx] Current Map: de_nuke, Warmod Version: 19.11.21.2253
+L 10/21/2022 - 12:48:03: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/21/2022 - 12:48:03: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/21/2022 - 13:30:30: -------- Mapchange to de_nuke --------
+L 10/21/2022 - 13:30:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/21/2022 - 13:30:37: [warmod.smx] Current Map: de_nuke, Warmod Version: 19.11.21.2253
+L 10/21/2022 - 13:30:39: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/21/2022 - 13:30:39: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/21/2022 - 13:49:35: -------- Mapchange to de_nuke --------
+L 10/21/2022 - 13:49:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/21/2022 - 13:49:41: [warmod.smx] Current Map: de_nuke, Warmod Version: 19.11.21.2253
+L 10/21/2022 - 13:49:44: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/21/2022 - 13:49:44: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/21/2022 - 14:50:23: -------- Mapchange to de_nuke --------
+L 10/21/2022 - 14:50:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/21/2022 - 14:50:30: [warmod.smx] Current Map: de_nuke, Warmod Version: 19.11.21.2253
+L 10/21/2022 - 14:50:33: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/21/2022 - 14:50:33: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/21/2022 - 15:33:20: -------- Mapchange to de_nuke --------
+L 10/21/2022 - 15:33:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/21/2022 - 15:33:26: [warmod.smx] Current Map: de_nuke, Warmod Version: 19.11.21.2253
+L 10/21/2022 - 15:33:29: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/21/2022 - 15:33:29: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/21/2022 - 15:39:11: -------- Mapchange to de_nuke --------
+L 10/21/2022 - 15:39:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/21/2022 - 15:39:17: [warmod.smx] Current Map: de_nuke, Warmod Version: 19.11.21.2253
+L 10/21/2022 - 15:39:19: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/21/2022 - 15:39:19: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/21/2022 - 16:29:48: -------- Mapchange to de_nuke --------
+L 10/21/2022 - 16:29:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/21/2022 - 16:29:54: [warmod.smx] Current Map: de_nuke, Warmod Version: 19.11.21.2253
+L 10/21/2022 - 16:29:57: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/21/2022 - 16:29:57: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/21/2022 - 22:16:51: -------- Mapchange to de_nuke --------
+L 10/21/2022 - 22:16:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/21/2022 - 22:16:58: [warmod.smx] Current Map: de_nuke, Warmod Version: 19.11.21.2253
+L 10/21/2022 - 22:17:01: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/21/2022 - 22:17:01: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/21/2022 - 23:07:14: Log file closed.
+L 10/21/2022 - 23:09:45: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:09:45: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:09:45: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:09:45: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:10:15: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:10:15: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:10:15: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:10:15: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:10:42: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:10:42: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:10:42: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:10:42: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:11:19: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:11:19: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:11:19: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:11:19: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:11:54: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:11:54: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:11:54: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:11:54: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:12:23: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:12:23: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:12:23: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:12:23: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:12:53: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:12:53: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:12:53: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:12:53: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:13:21: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:13:21: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:13:21: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:13:21: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:13:49: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:13:49: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:13:49: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:13:49: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:14:17: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:14:17: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:14:17: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:14:17: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:14:46: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:14:46: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:14:46: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:14:46: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:15:15: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:15:15: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:15:15: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:15:15: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:15:48: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:15:48: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:15:48: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:15:48: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:16:17: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:16:17: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:16:17: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:16:17: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:16:49: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:16:49: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:16:49: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:16:49: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:17:17: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:17:17: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:17:17: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:17:17: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:17:45: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:17:45: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:17:45: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:17:45: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:18:13: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:18:13: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:18:13: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:18:13: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:18:44: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:18:44: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:18:44: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:18:44: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:19:14: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:19:14: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:19:14: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:19:14: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:19:43: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:19:43: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:19:43: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:19:43: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:20:12: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:20:12: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:20:12: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:20:12: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:20:41: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:20:41: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:20:41: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:20:41: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:21:09: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:21:09: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:21:09: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:21:09: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:21:39: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:21:39: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:21:39: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:21:39: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:22:07: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:22:07: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:22:07: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:22:07: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:22:37: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:22:37: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:22:37: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:22:37: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:23:07: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:23:07: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:23:07: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:23:07: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:23:29: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:23:29: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:23:29: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:23:29: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:23:58: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:23:58: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:23:58: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:23:58: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:24:29: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:24:29: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:24:29: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:24:29: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:24:58: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:24:58: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:24:58: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:24:58: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:25:27: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:25:27: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:25:27: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:25:27: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:25:55: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:25:55: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:25:55: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:25:55: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:26:23: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:26:23: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:26:23: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:26:23: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:26:52: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:26:52: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:26:52: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:26:52: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:27:19: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:27:19: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:27:19: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:27:19: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:27:48: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:27:48: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:27:48: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:27:48: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:28:18: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:28:18: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:28:18: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:28:18: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:28:46: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:28:46: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:28:46: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:28:46: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:29:17: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:29:17: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:29:17: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:29:17: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:29:48: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:29:48: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:29:48: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:29:48: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:30:16: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:30:16: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:30:16: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:30:16: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:30:48: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:30:48: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:30:48: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:30:48: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:31:19: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:31:19: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:31:19: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:31:19: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:31:48: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:31:48: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:31:48: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:31:48: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:32:17: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:32:17: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:32:17: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:32:17: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:32:45: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:32:45: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:32:45: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:32:45: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:33:19: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:33:19: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:33:19: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:33:19: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:33:48: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:33:48: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:33:48: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:33:48: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:34:10: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:34:10: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:34:10: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:34:10: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:34:43: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:34:43: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:34:43: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:34:43: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:35:12: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:35:12: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:35:12: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:35:12: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:35:40: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:35:40: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:35:40: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:35:40: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:36:11: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:36:11: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:36:11: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:36:11: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:36:41: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:36:41: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:36:41: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:36:41: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:37:09: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:37:09: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:37:09: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:37:09: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:37:37: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:37:37: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:37:37: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:37:37: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:38:04: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:38:04: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:38:04: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:38:04: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:38:32: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:38:32: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:38:32: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:38:32: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:39:00: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:39:00: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:39:00: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:39:00: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:39:30: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:39:30: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:39:30: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:39:30: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:40:02: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:40:02: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:40:02: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:40:02: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:40:32: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:40:32: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:40:32: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:40:32: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:40:58: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:40:58: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:40:58: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:40:58: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:41:27: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:41:27: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:41:27: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:41:27: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:41:55: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:41:55: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:41:55: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:41:55: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:42:24: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:42:24: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:42:24: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:42:24: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:42:53: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:42:53: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:42:53: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:42:53: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:43:14: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:43:14: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:43:14: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:43:14: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:43:43: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:43:43: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:43:43: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:43:43: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:44:11: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:44:11: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:44:11: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:44:11: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:44:33: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:44:33: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:44:33: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:44:33: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:45:04: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:45:04: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:45:04: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:45:04: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:45:33: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:45:33: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:45:33: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:45:33: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:46:01: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:46:01: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:46:01: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:46:01: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:46:32: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:46:32: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:46:32: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:46:32: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:47:01: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:47:01: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:47:01: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:47:01: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:47:29: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:47:29: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:47:29: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:47:29: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:47:58: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:47:58: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:47:58: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:47:58: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:48:27: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:48:27: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:48:27: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:48:27: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:48:56: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:48:56: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:48:56: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:48:56: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:49:24: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:49:24: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:49:24: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:49:24: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:49:47: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:49:47: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:49:47: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:49:47: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:50:17: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:50:17: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:50:17: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:50:17: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:50:47: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:50:47: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:50:47: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:50:47: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:51:18: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:51:18: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:51:18: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:51:18: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:51:46: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:51:46: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:51:46: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:51:46: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:52:15: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:52:15: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:52:15: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:52:15: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:52:39: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:52:39: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:52:39: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:52:39: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:53:07: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:53:07: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:53:07: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:53:07: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:53:35: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:53:35: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:53:35: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:53:35: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:54:04: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:54:04: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:54:04: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:54:04: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:54:31: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:54:31: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:54:31: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:54:31: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:55:00: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:55:00: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:55:00: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:55:00: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:55:25: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:55:25: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:55:25: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:55:25: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:56:04: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:56:04: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:56:04: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:56:04: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:56:32: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:56:32: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:56:32: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:56:32: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:57:00: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:57:00: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:57:00: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:57:00: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:57:31: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:57:31: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:57:31: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:57:31: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:58:00: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:58:00: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:58:00: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:58:00: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:58:32: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:58:32: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:58:32: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:58:32: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:59:04: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:59:04: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:59:04: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:59:04: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 10/21/2022 - 23:59:33: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221021.log") (Version "1.12.0.6912")
+L 10/21/2022 - 23:59:33: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/badfupo/server1/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 10/21/2022 - 23:59:33: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/21/2022 - 23:59:33: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data

@@ -1,0 +1,47 @@
+L 08/13/2022 - 02:30:49: SourceMod log file session started (file "/home/csgo/csgo/addons/sourcemod/logs/L20220813.log") (Version "1.12.0.6912")
+L 08/13/2022 - 02:30:49: -------- Mapchange to de_mirage --------
+L 08/13/2022 - 10:57:44: -------- Mapchange to de_mirage --------
+L 08/13/2022 - 16:24:15: -------- Mapchange to de_mirage --------
+L 08/13/2022 - 16:29:57: [basecommands.smx] "uR<254><STEAM_1:1:100521373><>" executed config (file "sourcemod/sm_warmode_on.cfg")
+L 08/13/2022 - 16:30:10: [basecommands.smx] "uR<254><STEAM_1:1:100521373><>" executed config (file "sourcemod/sm_warmode_off.cfg")
+L 08/13/2022 - 16:30:10: [auto_steam_update.smx] HUD text is supported on this mod. The persistant timer will display.
+L 08/13/2022 - 16:38:37: [basecommands.smx] "uR<254><STEAM_1:1:100521373><>" changed cvar (cvar "game_mode") (value "2")
+L 08/13/2022 - 16:38:41: [basecommands.smx] "uR<254><STEAM_1:1:100521373><>" changed map to "nuke"
+L 08/13/2022 - 16:38:44: [SM] Changed map to "nuke"
+L 08/13/2022 - 16:38:45: -------- Mapchange to de_shortnuke --------
+L 08/13/2022 - 16:41:26: [basecommands.smx] "uR<254><STEAM_1:1:100521373><>" changed cvar (cvar "mp_maxrounds") (value "16")
+L 08/13/2022 - 16:48:51: [basecommands.smx] "uR<254><STEAM_1:1:100521373><>" changed map to "mir"
+L 08/13/2022 - 16:48:54: [SM] Changed map to "mir"
+L 08/13/2022 - 16:48:55: -------- Mapchange to de_mirage --------
+L 08/13/2022 - 16:50:27: [basecommands.smx] "uR<254><STEAM_1:1:100521373><>" changed cvar (cvar "game_mode") (value "1")
+L 08/13/2022 - 16:50:29: [basecommands.smx] "uR<254><STEAM_1:1:100521373><>" changed map to "mir"
+L 08/13/2022 - 16:50:32: [SM] Changed map to "mir"
+L 08/13/2022 - 16:50:33: -------- Mapchange to de_mirage --------
+L 08/13/2022 - 17:23:44: [basecommands.smx] "uR<254><STEAM_1:1:100521373><>" changed cvar (cvar "sv_cheats") (value "1")
+L 08/13/2022 - 17:28:36: [basecommands.smx] "uR<254><STEAM_1:1:100521373><>" changed cvar (cvar "game_mode") (value "2")
+L 08/13/2022 - 17:28:43: [basecommands.smx] "uR<254><STEAM_1:1:100521373><>" changed map to "vertigo"
+L 08/13/2022 - 17:28:46: [SM] Changed map to "vertigo"
+L 08/13/2022 - 17:28:47: -------- Mapchange to de_vertigo --------
+L 08/13/2022 - 17:32:31: [basecommands.smx] "uR<254><STEAM_1:1:100521373><>" changed cvar (cvar "mp_maxrounds") (value "16")
+L 08/13/2022 - 17:47:37: [basecomm.smx] "uR<254><STEAM_1:1:100521373><>" gagged "Small don<259><STEAM_1:0:574055385><>"
+L 08/13/2022 - 17:55:06: [basecomm.smx] "uR<254><STEAM_1:1:100521373><>" gagged ">_<<258><STEAM_1:0:245594311><>"
+L 08/13/2022 - 17:59:30: [basecommands.smx] "uR<254><STEAM_1:1:100521373><>" changed map to "pass"
+L 08/13/2022 - 17:59:33: [SM] Changed map to "pass"
+L 08/13/2022 - 17:59:34: -------- Mapchange to de_overpass --------
+L 08/13/2022 - 18:06:06: [basecommands.smx] "uR<254><STEAM_1:1:100521373><>" changed cvar (cvar "mp_maxrounds") (value "16")
+L 08/13/2022 - 18:17:18: [basecommands.smx] "uR<254><STEAM_1:1:100521373><>" changed map to "train"
+L 08/13/2022 - 18:17:21: [SM] Changed map to "train"
+L 08/13/2022 - 18:17:23: -------- Mapchange to training1 --------
+L 08/13/2022 - 19:04:51: -------- Mapchange to training1 --------
+L 08/13/2022 - 19:05:15: [basecommands.smx] "uR<263><STEAM_1:1:100521373><>" changed map to "pass"
+L 08/13/2022 - 19:05:18: [SM] Changed map to "pass"
+L 08/13/2022 - 19:05:19: -------- Mapchange to de_overpass --------
+L 08/13/2022 - 19:09:39: [funcommands.smx] "uR<263><STEAM_1:1:100521373><>" toggled noclip on "uR<263><STEAM_1:1:100521373><>"
+L 08/13/2022 - 19:09:54: [funcommands.smx] "uR<263><STEAM_1:1:100521373><>" toggled noclip on "uR<263><STEAM_1:1:100521373><>"
+L 08/13/2022 - 19:16:29: [funcommands.smx] "uR<263><STEAM_1:1:100521373><>" toggled noclip on "uR<263><STEAM_1:1:100521373><>"
+L 08/13/2022 - 19:16:36: [funcommands.smx] "uR<263><STEAM_1:1:100521373><>" toggled noclip on "uR<263><STEAM_1:1:100521373><>"
+L 08/13/2022 - 22:03:54: -------- Mapchange to de_overpass --------
+L 08/13/2022 - 22:09:25: -------- Mapchange to de_overpass --------
+L 08/13/2022 - 22:15:38: -------- Mapchange to de_mirage --------
+L 08/13/2022 - 22:18:03: -------- Mapchange to de_dust2 --------
+L 08/14/2022 - 08:37:02: Log file closed.

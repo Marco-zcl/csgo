@@ -1,0 +1,32 @@
+L 08/21/2022 - 21:44:58: SourceMod error session started
+L 08/21/2022 - 21:44:58: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220821.log")
+L 08/21/2022 - 21:44:58: [levelsranks.smx] SQL_TransactionFailure (1): Lost connection to MySQL server during query (-1)
+L 08/21/2022 - 21:44:58: [levelsranks.smx] SQL_TransactionFailure (1): Can't connect to MySQL server on '112.124.92.31' (4) (-1)
+L 08/21/2022 - 21:44:59: Error log file session closed.
+L 08/21/2022 - 21:47:16: SourceMod error session started
+L 08/21/2022 - 21:47:16: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220821.log")
+L 08/21/2022 - 21:47:16: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/21/2022 - 21:47:16: [SM] Blaming: weapon_restrict.smx
+L 08/21/2022 - 21:47:16: [SM] Call stack trace:
+L 08/21/2022 - 21:47:16: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/21/2022 - 21:52:06: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/21/2022 - 21:52:06: [SM] Blaming: weapon_restrict.smx
+L 08/21/2022 - 21:52:06: [SM] Call stack trace:
+L 08/21/2022 - 21:52:06: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/21/2022 - 22:06:09: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/21/2022 - 22:06:09: [SM] Blaming: weapon_restrict.smx
+L 08/21/2022 - 22:06:09: [SM] Call stack trace:
+L 08/21/2022 - 22:06:09: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/21/2022 - 22:15:20: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/21/2022 - 22:15:20: [SM] Blaming: weapon_restrict.smx
+L 08/21/2022 - 22:15:20: [SM] Call stack trace:
+L 08/21/2022 - 22:15:20: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/21/2022 - 22:36:00: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/21/2022 - 22:36:00: [SM] Blaming: weapon_restrict.smx
+L 08/21/2022 - 22:36:00: [SM] Call stack trace:
+L 08/21/2022 - 22:36:00: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/21/2022 - 22:36:35: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/21/2022 - 22:36:35: [SM] Blaming: weapon_restrict.smx
+L 08/21/2022 - 22:36:35: [SM] Call stack trace:
+L 08/21/2022 - 22:36:35: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/22/2022 - 01:11:06: Error log file session closed.

@@ -1,0 +1,18 @@
+L 08/04/2022 - 12:46:15: SourceMod log file session started (file "/home/csgo/csgo/addons/sourcemod/logs/L20220804.log") (Version "1.12.0.6912")
+L 08/04/2022 - 12:46:15: -------- Mapchange to de_mirage --------
+L 08/04/2022 - 12:47:22: -------- Mapchange to de_cbble --------
+L 08/04/2022 - 12:47:40: [basecommands.smx] "NN<31><STEAM_1:0:515881234><>" changed map to "mir"
+L 08/04/2022 - 12:47:43: [SM] Changed map to "mir"
+L 08/04/2022 - 12:47:44: -------- Mapchange to de_mirage --------
+L 08/04/2022 - 15:10:22: [funcommands.smx] "Smile<41><STEAM_1:1:556167744><>" toggled noclip on "Smile<41><STEAM_1:1:556167744><>"
+L 08/04/2022 - 15:45:23: [basecommands.smx] "HVH弟弟<43><STEAM_1:0:110600653><>" changed cvar (cvar "game_mode") (value "2")
+L 08/04/2022 - 15:46:26: [basecommands.smx] "HVH弟弟<43><STEAM_1:0:110600653><>" changed map to "ver"
+L 08/04/2022 - 15:46:29: [SM] Changed map to "ver"
+L 08/04/2022 - 15:46:30: -------- Mapchange to de_vertigo --------
+L 08/04/2022 - 15:48:34: [basecommands.smx] "HVH弟弟<43><STEAM_1:0:110600653><>" kicked "T<33><STEAM_1:0:186191751><>" (reason "")
+L 08/04/2022 - 15:50:04: [basecommands.smx] "HVH弟弟<43><STEAM_1:0:110600653><>" changed cvar (cvar "mp_maxrounds") (value "16")
+L 08/04/2022 - 16:01:25: [basecommands.smx] "HVH弟弟<43><STEAM_1:0:110600653><>" changed map to "inf"
+L 08/04/2022 - 16:01:28: [SM] Changed map to "inf"
+L 08/04/2022 - 16:01:30: -------- Mapchange to de_inferno --------
+L 08/04/2022 - 16:06:15: [basecommands.smx] "HVH弟弟<43><STEAM_1:0:110600653><>" changed cvar (cvar "mp_maxrounds") (value "16")
+L 08/05/2022 - 19:36:51: Log file closed.

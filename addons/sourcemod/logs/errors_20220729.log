@@ -1,0 +1,239 @@
+L 07/29/2022 - 00:03:55: SourceMod error session started
+L 07/29/2022 - 00:03:55: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 00:03:55: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 00:03:55: [SM] Exception reported: Client 1 is not in game
+L 07/29/2022 - 00:03:55: [SM] Blaming: c5_pug_voteend.smx
+L 07/29/2022 - 00:03:55: [SM] Call stack trace:
+L 07/29/2022 - 00:03:55: [SM]   [0] GetClientTeam
+L 07/29/2022 - 00:03:55: [SM]   [1] Line 56, F:\Code\sourcepawn\addons\sourcemod\scripting\c5_pug_voteend.sp::OnClientDisconnect
+L 07/29/2022 - 00:03:59: Error log file session closed.
+L 07/29/2022 - 00:04:16: SourceMod error session started
+L 07/29/2022 - 00:04:16: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 00:04:16: [SM] Unable to load plugin "store_item_zrclass.smx": Native "ZR_GetClassByName" was not found
+L 07/29/2022 - 00:09:48: Error log file session closed.
+L 07/29/2022 - 00:09:48: SourceMod error session started
+L 07/29/2022 - 00:09:48: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 00:09:48: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 00:09:53: [store.smx] SQL error happened.
+Query: DELETE FROM store_logs WHERE `date` < (SELECT DATETIME('now', '-7 day'))
+Error: no such table: store_logs
+L 07/29/2022 - 00:09:54: [SM] Exception reported: Client 1 is not in game
+L 07/29/2022 - 00:09:54: [SM] Blaming: c5_pug_voteend.smx
+L 07/29/2022 - 00:09:54: [SM] Call stack trace:
+L 07/29/2022 - 00:09:54: [SM]   [0] GetClientTeam
+L 07/29/2022 - 00:09:54: [SM]   [1] Line 56, F:\Code\sourcepawn\addons\sourcemod\scripting\c5_pug_voteend.sp::OnClientDisconnect
+L 07/29/2022 - 00:10:52: Error log file session closed.
+L 07/29/2022 - 00:11:10: SourceMod error session started
+L 07/29/2022 - 00:11:10: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 00:11:10: [SM] Unable to load plugin "store_item_zrclass.smx": Native "ZR_GetClassByName" was not found
+L 07/29/2022 - 00:12:18: Error log file session closed.
+L 07/29/2022 - 00:12:18: SourceMod error session started
+L 07/29/2022 - 00:12:18: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 00:12:18: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 00:12:23: [store.smx] SQL error happened.
+Query: DELETE FROM store_logs WHERE `date` < (SELECT DATETIME('now', '-7 day'))
+Error: no such table: store_logs
+L 07/29/2022 - 00:12:24: [SM] Exception reported: Client 1 is not in game
+L 07/29/2022 - 00:12:24: [SM] Blaming: c5_pug_voteend.smx
+L 07/29/2022 - 00:12:24: [SM] Call stack trace:
+L 07/29/2022 - 00:12:24: [SM]   [0] GetClientTeam
+L 07/29/2022 - 00:12:24: [SM]   [1] Line 56, F:\Code\sourcepawn\addons\sourcemod\scripting\c5_pug_voteend.sp::OnClientDisconnect
+L 07/29/2022 - 00:15:45: Error log file session closed.
+L 07/29/2022 - 00:15:51: SourceMod error session started
+L 07/29/2022 - 00:15:51: Info (map "de_dust2") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 00:15:51: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 00:16:29: Error log file session closed.
+L 07/29/2022 - 00:16:34: SourceMod error session started
+L 07/29/2022 - 00:16:34: Info (map "de_dust2") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 00:16:34: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 00:37:56: Error log file session closed.
+L 07/29/2022 - 00:38:02: SourceMod error session started
+L 07/29/2022 - 00:38:02: Info (map "de_dust2") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 00:38:02: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 01:00:18: Error log file session closed.
+L 07/29/2022 - 01:00:23: SourceMod error session started
+L 07/29/2022 - 01:00:23: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 01:00:23: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 01:46:38: [c5_pug.smx] GOTV demo could not be recorded since tv_enable is not set to 1
+L 07/29/2022 - 02:37:58: Error log file session closed.
+L 07/29/2022 - 02:38:04: SourceMod error session started
+L 07/29/2022 - 02:38:04: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 02:38:04: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 02:38:05: [SM] Exception reported: Client 1 is not in game
+L 07/29/2022 - 02:38:05: [SM] Blaming: c5_pug_voteend.smx
+L 07/29/2022 - 02:38:05: [SM] Call stack trace:
+L 07/29/2022 - 02:38:05: [SM]   [0] GetClientTeam
+L 07/29/2022 - 02:38:05: [SM]   [1] Line 56, F:\Code\sourcepawn\addons\sourcemod\scripting\c5_pug_voteend.sp::OnClientDisconnect
+L 07/29/2022 - 03:11:12: Error log file session closed.
+L 07/29/2022 - 03:11:19: SourceMod error session started
+L 07/29/2022 - 03:11:19: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 03:11:19: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 03:11:20: [SM] Exception reported: Client 1 is not in game
+L 07/29/2022 - 03:11:20: [SM] Blaming: c5_pug_voteend.smx
+L 07/29/2022 - 03:11:20: [SM] Call stack trace:
+L 07/29/2022 - 03:11:20: [SM]   [0] GetClientTeam
+L 07/29/2022 - 03:11:20: [SM]   [1] Line 56, F:\Code\sourcepawn\addons\sourcemod\scripting\c5_pug_voteend.sp::OnClientDisconnect
+L 07/29/2022 - 03:21:29: Error log file session closed.
+L 07/29/2022 - 03:21:34: SourceMod error session started
+L 07/29/2022 - 03:21:34: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 03:21:34: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 04:50:41: Error log file session closed.
+L 07/29/2022 - 04:50:47: SourceMod error session started
+L 07/29/2022 - 04:50:47: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 04:50:47: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 04:57:38: Error log file session closed.
+L 07/29/2022 - 04:57:44: SourceMod error session started
+L 07/29/2022 - 04:57:44: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 04:57:44: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 04:57:45: [SM] Exception reported: Client 1 is not in game
+L 07/29/2022 - 04:57:45: [SM] Blaming: c5_pug_voteend.smx
+L 07/29/2022 - 04:57:45: [SM] Call stack trace:
+L 07/29/2022 - 04:57:45: [SM]   [0] GetClientTeam
+L 07/29/2022 - 04:57:45: [SM]   [1] Line 56, F:\Code\sourcepawn\addons\sourcemod\scripting\c5_pug_voteend.sp::OnClientDisconnect
+L 07/29/2022 - 05:08:06: Error log file session closed.
+L 07/29/2022 - 05:08:11: SourceMod error session started
+L 07/29/2022 - 05:08:11: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 05:08:11: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 06:27:13: Error log file session closed.
+L 07/29/2022 - 06:27:19: SourceMod error session started
+L 07/29/2022 - 06:27:19: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 06:27:19: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 06:29:34: Error log file session closed.
+L 07/29/2022 - 06:29:39: SourceMod error session started
+L 07/29/2022 - 06:29:39: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 06:29:39: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 06:44:51: Error log file session closed.
+L 07/29/2022 - 06:44:56: SourceMod error session started
+L 07/29/2022 - 06:44:56: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 06:44:56: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 07:24:14: Error log file session closed.
+L 07/29/2022 - 07:24:20: SourceMod error session started
+L 07/29/2022 - 07:24:20: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 07:24:20: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 07:26:14: Error log file session closed.
+L 07/29/2022 - 07:26:21: SourceMod error session started
+L 07/29/2022 - 07:26:21: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 07:26:21: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 08:13:29: Error log file session closed.
+L 07/29/2022 - 08:13:35: SourceMod error session started
+L 07/29/2022 - 08:13:35: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 08:13:35: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 08:48:34: Error log file session closed.
+L 07/29/2022 - 08:48:40: SourceMod error session started
+L 07/29/2022 - 08:48:40: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 08:48:40: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 08:57:37: Error log file session closed.
+L 07/29/2022 - 08:57:42: SourceMod error session started
+L 07/29/2022 - 08:57:42: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 08:57:42: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 09:03:00: Error log file session closed.
+L 07/29/2022 - 09:03:06: SourceMod error session started
+L 07/29/2022 - 09:03:06: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 09:03:06: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 09:23:13: Error log file session closed.
+L 07/29/2022 - 09:23:19: SourceMod error session started
+L 07/29/2022 - 09:23:19: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 09:23:19: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 09:44:35: Error log file session closed.
+L 07/29/2022 - 09:44:43: SourceMod error session started
+L 07/29/2022 - 09:44:43: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 09:44:43: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 09:46:43: Error log file session closed.
+L 07/29/2022 - 09:46:51: SourceMod error session started
+L 07/29/2022 - 09:46:51: Info (map "de_train") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 09:46:51: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 09:52:45: [c5_pug.smx] GOTV demo could not be recorded since tv_enable is not set to 1
+L 07/29/2022 - 10:17:04: Error log file session closed.
+L 07/29/2022 - 10:17:13: SourceMod error session started
+L 07/29/2022 - 10:17:13: Info (map "de_train") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 10:17:13: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 10:17:14: [SM] Exception reported: Client 1 is not in game
+L 07/29/2022 - 10:17:14: [SM] Blaming: c5_pug_voteend.smx
+L 07/29/2022 - 10:17:14: [SM] Call stack trace:
+L 07/29/2022 - 10:17:14: [SM]   [0] GetClientTeam
+L 07/29/2022 - 10:17:14: [SM]   [1] Line 56, F:\Code\sourcepawn\addons\sourcemod\scripting\c5_pug_voteend.sp::OnClientDisconnect
+L 07/29/2022 - 10:24:56: Error log file session closed.
+L 07/29/2022 - 10:25:03: SourceMod error session started
+L 07/29/2022 - 10:25:03: Info (map "de_train") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 10:25:03: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 11:02:24: Error log file session closed.
+L 07/29/2022 - 11:02:32: SourceMod error session started
+L 07/29/2022 - 11:02:32: Info (map "de_train") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 11:02:32: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 11:02:33: [SM] Exception reported: Client 1 is not in game
+L 07/29/2022 - 11:02:33: [SM] Blaming: c5_pug_voteend.smx
+L 07/29/2022 - 11:02:33: [SM] Call stack trace:
+L 07/29/2022 - 11:02:33: [SM]   [0] GetClientTeam
+L 07/29/2022 - 11:02:33: [SM]   [1] Line 56, F:\Code\sourcepawn\addons\sourcemod\scripting\c5_pug_voteend.sp::OnClientDisconnect
+L 07/29/2022 - 11:05:26: Error log file session closed.
+L 07/29/2022 - 11:05:34: SourceMod error session started
+L 07/29/2022 - 11:05:34: Info (map "de_train") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 11:05:34: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 11:16:26: Error log file session closed.
+L 07/29/2022 - 11:16:47: SourceMod error session started
+L 07/29/2022 - 11:16:47: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 11:16:47: [SM] Unable to load plugin "store_item_zrclass.smx": Native "ZR_GetClassByName" was not found
+L 07/29/2022 - 11:17:27: Error log file session closed.
+L 07/29/2022 - 11:17:27: SourceMod error session started
+L 07/29/2022 - 11:17:27: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 11:17:27: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 11:17:34: [store.smx] SQL error happened.
+Query: DELETE FROM store_logs WHERE `date` < (SELECT DATETIME('now', '-7 day'))
+Error: no such table: store_logs
+L 07/29/2022 - 11:17:34: [SM] Exception reported: Client 1 is not in game
+L 07/29/2022 - 11:17:34: [SM] Blaming: c5_pug_voteend.smx
+L 07/29/2022 - 11:17:34: [SM] Call stack trace:
+L 07/29/2022 - 11:17:34: [SM]   [0] GetClientTeam
+L 07/29/2022 - 11:17:34: [SM]   [1] Line 56, F:\Code\sourcepawn\addons\sourcemod\scripting\c5_pug_voteend.sp::OnClientDisconnect
+L 07/29/2022 - 11:23:41: Error log file session closed.
+L 07/29/2022 - 11:23:48: SourceMod error session started
+L 07/29/2022 - 11:23:48: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 11:23:48: [chat-processor.smx] Error parsing the flag message formatting config for game 'csgo', please verify its integrity.
+L 07/29/2022 - 13:45:36: [SM] Exception reported: Client 9 is not in game
+L 07/29/2022 - 13:45:36: [SM] Blaming: c5_pug_voteend.smx
+L 07/29/2022 - 13:45:36: [SM] Call stack trace:
+L 07/29/2022 - 13:45:36: [SM]   [0] GetClientTeam
+L 07/29/2022 - 13:45:36: [SM]   [1] Line 56, F:\Code\sourcepawn\addons\sourcemod\scripting\c5_pug_voteend.sp::OnClientDisconnect
+L 07/29/2022 - 13:45:37: [SM] Exception reported: Client 9 is not in game
+L 07/29/2022 - 13:45:37: [SM] Blaming: c5_pug_voteend.smx
+L 07/29/2022 - 13:45:37: [SM] Call stack trace:
+L 07/29/2022 - 13:45:37: [SM]   [0] GetClientTeam
+L 07/29/2022 - 13:45:37: [SM]   [1] Line 56, F:\Code\sourcepawn\addons\sourcemod\scripting\c5_pug_voteend.sp::OnClientDisconnect
+L 07/29/2022 - 13:45:46: [SM] Exception reported: Client 9 is not in game
+L 07/29/2022 - 13:45:46: [SM] Blaming: c5_pug_voteend.smx
+L 07/29/2022 - 13:45:46: [SM] Call stack trace:
+L 07/29/2022 - 13:45:46: [SM]   [0] GetClientTeam
+L 07/29/2022 - 13:45:46: [SM]   [1] Line 56, F:\Code\sourcepawn\addons\sourcemod\scripting\c5_pug_voteend.sp::OnClientDisconnect
+L 07/29/2022 - 13:50:59: [SM] Exception reported: Client 7 is not in game
+L 07/29/2022 - 13:50:59: [SM] Blaming: c5_pug_voteend.smx
+L 07/29/2022 - 13:50:59: [SM] Call stack trace:
+L 07/29/2022 - 13:50:59: [SM]   [0] GetClientTeam
+L 07/29/2022 - 13:50:59: [SM]   [1] Line 56, F:\Code\sourcepawn\addons\sourcemod\scripting\c5_pug_voteend.sp::OnClientDisconnect
+L 07/29/2022 - 13:50:59: [SM] Exception reported: Client 7 is not in game
+L 07/29/2022 - 13:50:59: [SM] Blaming: c5_pug_voteend.smx
+L 07/29/2022 - 13:50:59: [SM] Call stack trace:
+L 07/29/2022 - 13:50:59: [SM]   [0] GetClientTeam
+L 07/29/2022 - 13:50:59: [SM]   [1] Line 56, F:\Code\sourcepawn\addons\sourcemod\scripting\c5_pug_voteend.sp::OnClientDisconnect
+L 07/29/2022 - 13:51:00: [SM] Exception reported: Client 7 is not in game
+L 07/29/2022 - 13:51:00: [SM] Blaming: c5_pug_voteend.smx
+L 07/29/2022 - 13:51:00: [SM] Call stack trace:
+L 07/29/2022 - 13:51:00: [SM]   [0] GetClientTeam
+L 07/29/2022 - 13:51:00: [SM]   [1] Line 56, F:\Code\sourcepawn\addons\sourcemod\scripting\c5_pug_voteend.sp::OnClientDisconnect
+L 07/29/2022 - 13:51:00: [SM] Exception reported: Client 7 is not in game
+L 07/29/2022 - 13:51:00: [SM] Blaming: c5_pug_voteend.smx
+L 07/29/2022 - 13:51:00: [SM] Call stack trace:
+L 07/29/2022 - 13:51:00: [SM]   [0] GetClientTeam
+L 07/29/2022 - 13:51:00: [SM]   [1] Line 56, F:\Code\sourcepawn\addons\sourcemod\scripting\c5_pug_voteend.sp::OnClientDisconnect
+L 07/29/2022 - 14:25:42: [SM] Exception reported: Client 3 is not in game
+L 07/29/2022 - 14:25:42: [SM] Blaming: c5_pug_voteend.smx
+L 07/29/2022 - 14:25:42: [SM] Call stack trace:
+L 07/29/2022 - 14:25:42: [SM]   [0] GetClientTeam
+L 07/29/2022 - 14:25:42: [SM]   [1] Line 56, F:\Code\sourcepawn\addons\sourcemod\scripting\c5_pug_voteend.sp::OnClientDisconnect
+L 07/29/2022 - 23:23:54: SourceMod error session started
+L 07/29/2022 - 23:23:54: Info (map "de_mirage") (file "/home/csgo5/csgo/addons/sourcemod/logs/errors_20220729.log")
+L 07/29/2022 - 23:23:54: [SM] Exception reported: Client 1 is not in game
+L 07/29/2022 - 23:23:54: [SM] Blaming: c5_pug_voteend.smx
+L 07/29/2022 - 23:23:54: [SM] Call stack trace:
+L 07/29/2022 - 23:23:54: [SM]   [0] GetClientTeam
+L 07/29/2022 - 23:23:54: [SM]   [1] Line 56, F:\Code\sourcepawn\addons\sourcemod\scripting\c5_pug_voteend.sp::OnClientDisconnect
+L 07/29/2022 - 23:44:22: Error log file session closed.

@@ -1,0 +1,134 @@
+L 11/21/2022 - 12:54:19: SourceMod log file session started (file "/csgoserver/server1/csgo/addons/sourcemod/logs/L20221121.log") (Version "1.11.0.6913")
+L 11/21/2022 - 12:54:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 11/21/2022 - 12:54:21: [warmod.smx] Current Map: de_mirage, Warmod Version: 22.10.29.1916
+L 11/21/2022 - 12:54:21: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 11/21/2022 - 12:54:21: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/21/2022 - 13:41:42: -------- Mapchange to de_mirage --------
+L 11/21/2022 - 13:41:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 11/21/2022 - 13:41:44: [warmod.smx] Current Map: de_mirage, Warmod Version: 22.10.29.1916
+L 11/21/2022 - 13:41:44: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 11/21/2022 - 13:41:44: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/21/2022 - 14:31:15: -------- Mapchange to de_mirage --------
+L 11/21/2022 - 14:31:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 11/21/2022 - 14:31:17: [warmod.smx] Current Map: de_mirage, Warmod Version: 22.10.29.1916
+L 11/21/2022 - 14:31:17: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 11/21/2022 - 14:31:17: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/21/2022 - 14:32:53: -------- Mapchange to de_mirage --------
+L 11/21/2022 - 14:32:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 11/21/2022 - 14:32:55: [warmod.smx] Current Map: de_mirage, Warmod Version: 22.10.29.1916
+L 11/21/2022 - 14:32:55: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 11/21/2022 - 14:32:55: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/21/2022 - 15:17:17: -------- Mapchange to de_mirage --------
+L 11/21/2022 - 15:17:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 11/21/2022 - 15:17:19: [warmod.smx] Current Map: de_mirage, Warmod Version: 22.10.29.1916
+L 11/21/2022 - 15:17:19: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 11/21/2022 - 15:17:19: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/21/2022 - 15:44:07: [warmod.smx] "force_start" (player "L0v1 Z<88><STEAM_1:0:237026989><>")
+L 11/21/2022 - 15:44:31: [warmod.smx] "force_end" (player "L0v1 Z<88><STEAM_1:0:237026989><>")
+L 11/21/2022 - 15:44:42: [warmod.smx] "force_end" (player "L0v1 Z<88><STEAM_1:0:237026989><>")
+L 11/21/2022 - 15:44:58: [basecommands.smx] "L0v1 Z<88><STEAM_1:0:237026989><>" executed config (file "sm_competitive.cfg")
+L 11/21/2022 - 15:47:12: [basecommands.smx] "L0v1 Z<88><STEAM_1:0:237026989><>" executed config (file "sm_competitive2v2.cfg")
+L 11/21/2022 - 15:47:12: [warmod.smx] Current Map: de_mirage, Warmod Version: 22.10.29.1916
+L 11/21/2022 - 15:47:18: [basecommands.smx] "L0v1 Z<88><STEAM_1:0:237026989><>" changed map to "inf"
+L 11/21/2022 - 15:47:21: [SM] Changed map to "inf"
+L 11/21/2022 - 15:47:22: -------- Mapchange to de_inferno --------
+L 11/21/2022 - 15:47:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 11/21/2022 - 15:47:24: [warmod.smx] Current Map: de_inferno, Warmod Version: 22.10.29.1916
+L 11/21/2022 - 15:47:24: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 11/21/2022 - 15:47:24: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/21/2022 - 15:48:43: [warmod.smx] "force_start" (player "L0v1 Z<88><STEAM_1:0:237026989><>")
+L 11/21/2022 - 15:49:05: [warmod.smx] "force_end" (player "L0v1 Z<88><STEAM_1:0:237026989><>")
+L 11/21/2022 - 15:49:20: [warmod.smx] "knife_on_3" (player "L0v1 Z<88><STEAM_1:0:237026989><>")
+L 11/21/2022 - 16:06:25: -------- Mapchange to de_inferno --------
+L 11/21/2022 - 16:06:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 11/21/2022 - 16:06:27: [warmod.smx] Current Map: de_inferno, Warmod Version: 22.10.29.1916
+L 11/21/2022 - 16:06:27: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 11/21/2022 - 16:06:27: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/21/2022 - 16:07:37: [warmod.smx] "knife_on_3" (player "L0v1 Z<95><STEAM_1:0:237026989><>")
+L 11/21/2022 - 16:08:57: [basecommands.smx] "L0v1 Z<95><STEAM_1:0:237026989><>" changed map to "nuke"
+L 11/21/2022 - 16:09:00: [SM] Changed map to "nuke"
+L 11/21/2022 - 16:09:02: -------- Mapchange to de_shortnuke --------
+L 11/21/2022 - 16:09:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 11/21/2022 - 16:09:04: [warmod.smx] Current Map: de_shortnuke, Warmod Version: 22.10.29.1916
+L 11/21/2022 - 16:09:04: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 11/21/2022 - 16:09:04: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/21/2022 - 16:11:56: [warmod.smx] "knife_on_3" (player "L0v1 Z<95><STEAM_1:0:237026989><>")
+L 11/21/2022 - 16:30:55: [warmod.smx] "knife_on_3" (player "L0v1 Z<95><STEAM_1:0:237026989><>")
+L 11/21/2022 - 16:32:45: [basecommands.smx] "L0v1 Z<95><STEAM_1:0:237026989><>" changed map to "cache"
+L 11/21/2022 - 16:32:48: [SM] Changed map to "cache"
+L 11/21/2022 - 16:33:05: -------- Mapchange to de_cache --------
+L 11/21/2022 - 16:33:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 11/21/2022 - 16:33:07: [warmod.smx] Current Map: de_cache, Warmod Version: 22.10.29.1916
+L 11/21/2022 - 16:33:08: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 11/21/2022 - 16:33:08: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/21/2022 - 16:34:44: [warmod.smx] "knife_on_3" (player "L0v1 Z<95><STEAM_1:0:237026989><>")
+L 11/21/2022 - 17:05:55: [warmod.smx] "knife_on_3" (player "L0v1 Z<95><STEAM_1:0:237026989><>")
+L 11/21/2022 - 17:06:01: [warmod.smx] "force_end" (player "L0v1 Z<95><STEAM_1:0:237026989><>")
+L 11/21/2022 - 17:06:23: [warmod.smx] "force_end" (player "L0v1 Z<95><STEAM_1:0:237026989><>")
+L 11/21/2022 - 17:14:52: [warmod.smx] "knife_on_3" (player "L0v1 Z<95><STEAM_1:0:237026989><>")
+L 11/21/2022 - 17:15:46: [basecommands.smx] "L0v1 Z<95><STEAM_1:0:237026989><>" changed map to "ver"
+L 11/21/2022 - 17:15:49: [SM] Changed map to "ver"
+L 11/21/2022 - 17:15:50: -------- Mapchange to de_vertigo --------
+L 11/21/2022 - 17:15:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 11/21/2022 - 17:15:52: [warmod.smx] Current Map: de_vertigo, Warmod Version: 22.10.29.1916
+L 11/21/2022 - 17:15:53: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 11/21/2022 - 17:15:53: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/21/2022 - 17:17:09: [warmod.smx] "knife_on_3" (player "L0v1 Z<95><STEAM_1:0:237026989><>")
+L 11/21/2022 - 17:40:32: -------- Mapchange to de_vertigo --------
+L 11/21/2022 - 17:40:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 11/21/2022 - 17:40:34: [warmod.smx] Current Map: de_vertigo, Warmod Version: 22.10.29.1916
+L 11/21/2022 - 17:40:35: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 11/21/2022 - 17:40:35: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/21/2022 - 19:09:27: -------- Mapchange to de_vertigo --------
+L 11/21/2022 - 19:09:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 11/21/2022 - 19:09:29: [warmod.smx] Current Map: de_vertigo, Warmod Version: 22.10.29.1916
+L 11/21/2022 - 19:09:29: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 11/21/2022 - 19:09:29: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/21/2022 - 19:17:09: [funcommands.smx] "7iour<106><STEAM_1:0:37571034><>" toggled noclip on "7iour<106><STEAM_1:0:37571034><>"
+L 11/21/2022 - 19:17:55: [funcommands.smx] "7iour<106><STEAM_1:0:37571034><>" toggled noclip on "7iour<106><STEAM_1:0:37571034><>"
+L 11/21/2022 - 19:17:56: [funcommands.smx] "7iour<106><STEAM_1:0:37571034><>" toggled noclip on "7iour<106><STEAM_1:0:37571034><>"
+L 11/21/2022 - 19:17:58: [funcommands.smx] "7iour<106><STEAM_1:0:37571034><>" toggled noclip on "7iour<106><STEAM_1:0:37571034><>"
+L 11/21/2022 - 19:18:01: [funcommands.smx] "7iour<106><STEAM_1:0:37571034><>" toggled noclip on "7iour<106><STEAM_1:0:37571034><>"
+L 11/21/2022 - 19:18:14: [funcommands.smx] "7iour<106><STEAM_1:0:37571034><>" toggled noclip on "7iour<106><STEAM_1:0:37571034><>"
+L 11/21/2022 - 19:18:15: [funcommands.smx] "7iour<106><STEAM_1:0:37571034><>" toggled noclip on "7iour<106><STEAM_1:0:37571034><>"
+L 11/21/2022 - 19:18:19: [funcommands.smx] "7iour<106><STEAM_1:0:37571034><>" toggled noclip on "7iour<106><STEAM_1:0:37571034><>"
+L 11/21/2022 - 19:18:20: [funcommands.smx] "7iour<106><STEAM_1:0:37571034><>" toggled noclip on "7iour<106><STEAM_1:0:37571034><>"
+L 11/21/2022 - 19:18:21: [funcommands.smx] "7iour<106><STEAM_1:0:37571034><>" toggled noclip on "7iour<106><STEAM_1:0:37571034><>"
+L 11/21/2022 - 19:18:23: [funcommands.smx] "7iour<106><STEAM_1:0:37571034><>" toggled noclip on "7iour<106><STEAM_1:0:37571034><>"
+L 11/21/2022 - 19:18:24: [funcommands.smx] "7iour<106><STEAM_1:0:37571034><>" toggled noclip on "7iour<106><STEAM_1:0:37571034><>"
+L 11/21/2022 - 19:18:28: [funcommands.smx] "7iour<106><STEAM_1:0:37571034><>" toggled noclip on "7iour<106><STEAM_1:0:37571034><>"
+L 11/21/2022 - 19:18:41: [funcommands.smx] "7iour<106><STEAM_1:0:37571034><>" toggled noclip on "7iour<106><STEAM_1:0:37571034><>"
+L 11/21/2022 - 19:18:46: [funcommands.smx] "7iour<106><STEAM_1:0:37571034><>" toggled noclip on "7iour<106><STEAM_1:0:37571034><>"
+L 11/21/2022 - 19:18:46: [funcommands.smx] "7iour<106><STEAM_1:0:37571034><>" toggled noclip on "7iour<106><STEAM_1:0:37571034><>"
+L 11/21/2022 - 19:18:48: [funcommands.smx] "7iour<106><STEAM_1:0:37571034><>" toggled noclip on "7iour<106><STEAM_1:0:37571034><>"
+L 11/21/2022 - 19:18:48: [funcommands.smx] "7iour<106><STEAM_1:0:37571034><>" toggled noclip on "7iour<106><STEAM_1:0:37571034><>"
+L 11/21/2022 - 19:18:50: [funcommands.smx] "7iour<106><STEAM_1:0:37571034><>" toggled noclip on "7iour<106><STEAM_1:0:37571034><>"
+L 11/21/2022 - 19:18:51: [funcommands.smx] "7iour<106><STEAM_1:0:37571034><>" toggled noclip on "7iour<106><STEAM_1:0:37571034><>"
+L 11/21/2022 - 19:18:52: [funcommands.smx] "7iour<106><STEAM_1:0:37571034><>" toggled noclip on "7iour<106><STEAM_1:0:37571034><>"
+L 11/21/2022 - 19:18:53: [funcommands.smx] "7iour<106><STEAM_1:0:37571034><>" toggled noclip on "7iour<106><STEAM_1:0:37571034><>"
+L 11/21/2022 - 19:18:54: [funcommands.smx] "7iour<106><STEAM_1:0:37571034><>" toggled noclip on "7iour<106><STEAM_1:0:37571034><>"
+L 11/21/2022 - 19:18:54: [funcommands.smx] "7iour<106><STEAM_1:0:37571034><>" toggled noclip on "7iour<106><STEAM_1:0:37571034><>"
+L 11/21/2022 - 20:59:00: -------- Mapchange to de_vertigo --------
+L 11/21/2022 - 20:59:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 11/21/2022 - 20:59:02: [warmod.smx] Current Map: de_vertigo, Warmod Version: 22.10.29.1916
+L 11/21/2022 - 20:59:02: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 11/21/2022 - 20:59:02: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/21/2022 - 21:12:46: [movecommands.smx] "7iour<114><STEAM_1:0:37571034><>" was moved to CT by "7iour<114><STEAM_1:0:37571034><>"
+L 11/21/2022 - 21:36:25: [ServerChangeER.smx] addadmin --STEAM_1:0:110600653
+L 11/21/2022 - 21:36:25: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 11/21/2022 - 21:38:07: [warmod.smx] "force_end" (player "не оставляй меня<108><STEAM_1:1:115461458><>")
+L 11/21/2022 - 21:38:13: [basecommands.smx] "не оставляй меня<108><STEAM_1:1:115461458><>" executed config (file "sm_competitive.cfg")
+L 11/21/2022 - 21:40:24: [basecommands.smx] "не оставляй меня<108><STEAM_1:1:115461458><>" changed map to "mir"
+L 11/21/2022 - 21:40:27: [SM] Changed map to "mir"
+L 11/21/2022 - 21:40:28: -------- Mapchange to de_mirage --------
+L 11/21/2022 - 21:40:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 11/21/2022 - 21:40:30: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 11/21/2022 - 21:40:30: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/21/2022 - 21:42:01: [basebans.smx] "Monster<119><STEAM_1:0:110600653><>" banned "1234<115><STEAM_1:1:129640622><>" (minutes "0") (reason "Abusive")
+L 11/21/2022 - 21:42:16: [basebans.smx] "Monster<119><STEAM_1:0:110600653><>" banned "Crazy<112><STEAM_1:0:84972068><>" (minutes "0") (reason "Abusive")
+L 11/21/2022 - 21:44:08: [basebans.smx] "Monster<119><STEAM_1:0:110600653><>" banned "WASD  HVH<116><STEAM_1:1:559473205><>" (minutes "0") (reason "Abusive")
+L 11/21/2022 - 22:53:49: -------- Mapchange to de_mirage --------
+L 11/21/2022 - 22:53:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 11/21/2022 - 22:53:52: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 11/21/2022 - 22:53:52: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 11/22/2022 - 12:08:04: Log file closed.

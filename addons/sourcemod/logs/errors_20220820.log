@@ -1,0 +1,4 @@
+L 08/20/2022 - 16:55:45: SourceMod error session started
+L 08/20/2022 - 16:55:45: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 16:55:45: [levelsranks.smx] SQL_TransactionFailure (1): Lost connection to MySQL server during query (-1)
+L 08/20/2022 - 16:55:46: Error log file session closed.

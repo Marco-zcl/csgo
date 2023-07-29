@@ -1,0 +1,17 @@
+L 10/10/2022 - 07:17:51: SourceMod error session started
+L 10/10/2022 - 07:17:51: Info (map "de_inferno") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221010.log")
+L 10/10/2022 - 07:17:51: [SM] Exception reported: Script execution timed out
+L 10/10/2022 - 07:18:23: [SM] Exception reported: Script execution timed out
+L 10/10/2022 - 11:54:16: Error log file session closed.
+L 10/10/2022 - 15:11:31: SourceMod error session started
+L 10/10/2022 - 15:11:31: Info (map "de_inferno") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221010.log")
+L 10/10/2022 - 15:11:31: [warmod.smx] Plug-in tEasyFTP.smx required to auto upload demos
+L 10/10/2022 - 15:11:56: Error log file session closed.
+L 10/10/2022 - 15:19:37: SourceMod error session started
+L 10/10/2022 - 15:19:37: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221010.log")
+L 10/10/2022 - 15:19:37: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/10/2022 - 15:19:37: [SM] Blaming: weapon_restrict.smx
+L 10/10/2022 - 15:19:37: [SM] Call stack trace:
+L 10/10/2022 - 15:19:37: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/10/2022 - 15:23:14: [warmod.smx] Plug-in tEasyFTP.smx required to auto upload demos
+L 10/10/2022 - 15:23:43: Error log file session closed.

@@ -1,0 +1,32 @@
+"quickmenu"
+{
+	"title"
+	{
+		"text"	"菜单列表"
+	}
+	"0"
+	{
+		"display"	".r | 准备"
+		"command"	"sm_ready"
+	}
+	"1"
+	{
+		"display"	".ur | 取消准备"
+		"command"	"sm_notready"
+	}
+	"2"
+	{
+		"display"	".s | 设置菜单"
+		"command"	"sm_setup"
+	}
+	"3"
+	{
+		"display"	".fs | 强制开始"
+		"command"	"sm_forcestart"
+	}
+	"4"
+	{
+		"display"	".fe | 强制结束"
+		"command"	"sm_forceend"
+	}
+}

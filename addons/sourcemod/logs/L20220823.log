@@ -1,0 +1,14 @@
+L 08/23/2022 - 20:21:57: SourceMod log file session started (file "/home/csgo/csgo/addons/sourcemod/logs/L20220823.log") (Version "1.12.0.6912")
+L 08/23/2022 - 20:21:57: -------- Mapchange to de_mirage --------
+L 08/23/2022 - 20:21:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/23/2022 - 20:22:00: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/23/2022 - 20:22:00: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/23/2022 - 20:39:29: -------- Mapchange to de_mirage --------
+L 08/23/2022 - 20:39:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/23/2022 - 20:39:32: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/23/2022 - 20:39:32: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/23/2022 - 20:43:41: -------- Mapchange to de_mirage --------
+L 08/23/2022 - 20:43:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/23/2022 - 20:43:43: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/23/2022 - 20:43:43: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/24/2022 - 06:59:41: Log file closed.

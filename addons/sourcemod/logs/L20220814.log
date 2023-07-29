@@ -1,0 +1,73 @@
+L 08/14/2022 - 08:37:33: SourceMod log file session started (file "/home/csgo/csgo/addons/sourcemod/logs/L20220814.log") (Version "1.12.0.6912")
+L 08/14/2022 - 08:37:33: [basecommands.smx] "uR<271><STEAM_1:1:100521373><>" changed cvar (cvar "game_mode") (value "1")
+L 08/14/2022 - 08:37:42: [basecommands.smx] "uR<271><STEAM_1:1:100521373><>" changed map to "mir"
+L 08/14/2022 - 08:37:45: [SM] Changed map to "mir"
+L 08/14/2022 - 08:37:46: -------- Mapchange to de_mirage --------
+L 08/14/2022 - 08:48:03: [basechat.smx] "uR<271><STEAM_1:1:100521373><>" triggered sm_csay (text 下河没妈妈)
+L 08/14/2022 - 09:00:44: [basecommands.smx] "uR<271><STEAM_1:1:100521373><>" changed map to "mir"
+L 08/14/2022 - 09:00:47: [SM] Changed map to "mir"
+L 08/14/2022 - 09:00:48: -------- Mapchange to de_mirage --------
+L 08/14/2022 - 12:50:25: -------- Mapchange to de_mirage --------
+L 08/14/2022 - 12:52:05: [basecommands.smx] "uR<277><STEAM_1:1:100521373><>" changed cvar (cvar "sv_infinite_ammo") (value "1")
+L 08/14/2022 - 12:52:50: [basecommands.smx] "uR<277><STEAM_1:1:100521373><>" changed cvar (cvar "sv_cheats") (value "1")
+L 08/14/2022 - 13:24:23: [basecommands.smx] "uR<277><STEAM_1:1:100521373><>" changed cvar (cvar "game_mode") (value "2")
+L 08/14/2022 - 13:24:28: [basecommands.smx] "uR<277><STEAM_1:1:100521373><>" changed map to "vertigo"
+L 08/14/2022 - 13:24:31: [SM] Changed map to "vertigo"
+L 08/14/2022 - 13:24:32: -------- Mapchange to de_vertigo --------
+L 08/14/2022 - 13:27:03: -------- Mapchange to de_vertigo --------
+L 08/14/2022 - 13:30:27: [basecommands.smx] "uR<277><STEAM_1:1:100521373><>" changed cvar (cvar "mp_maxrounds") (value "16")
+L 08/14/2022 - 13:34:59: [basecommands.smx] "uR<277><STEAM_1:1:100521373><>" changed cvar (cvar "mp_friendlyfire") (value "0")
+L 08/14/2022 - 13:35:40: [basecommands.smx] "uR<277><STEAM_1:1:100521373><>" changed cvar (cvar "mp_friendlyfire") (value "1")
+L 08/14/2022 - 13:40:58: [basecommands.smx] "uR<277><STEAM_1:1:100521373><>" changed map to "pass"
+L 08/14/2022 - 13:41:01: [SM] Changed map to "pass"
+L 08/14/2022 - 13:41:03: -------- Mapchange to de_overpass --------
+L 08/14/2022 - 17:00:48: -------- Mapchange to de_overpass --------
+L 08/14/2022 - 17:05:35: [basecommands.smx] "uR<286><STEAM_1:1:100521373><>" changed cvar (cvar "game_mode") (value "1")
+L 08/14/2022 - 17:05:37: [basecommands.smx] "uR<286><STEAM_1:1:100521373><>" changed map to "mir"
+L 08/14/2022 - 17:05:40: [SM] Changed map to "mir"
+L 08/14/2022 - 17:05:41: -------- Mapchange to de_mirage --------
+L 08/14/2022 - 17:06:53: [basecommands.smx] "uR<286><STEAM_1:1:100521373><>" changed cvar (cvar "sv_infinite_ammo") (value "1")
+L 08/14/2022 - 17:07:01: [basecommands.smx] "uR<286><STEAM_1:1:100521373><>" changed cvar (cvar "SV_CHEATS") (value "1")
+L 08/14/2022 - 17:30:43: [basecommands.smx] "uR<286><STEAM_1:1:100521373><>" changed cvar (cvar "game_mode") (value "2")
+L 08/14/2022 - 17:30:45: [basecommands.smx] "uR<286><STEAM_1:1:100521373><>" changed map to "pass"
+L 08/14/2022 - 17:30:48: [SM] Changed map to "pass"
+L 08/14/2022 - 17:30:49: -------- Mapchange to de_overpass --------
+L 08/14/2022 - 19:16:18: -------- Mapchange to de_overpass --------
+L 08/14/2022 - 19:21:51: [basecommands.smx] "uR<293><STEAM_1:1:100521373><>" changed map to "inf"
+L 08/14/2022 - 19:21:54: [SM] Changed map to "inf"
+L 08/14/2022 - 19:21:55: -------- Mapchange to de_inferno --------
+L 08/14/2022 - 19:23:08: [basecommands.smx] "uR<293><STEAM_1:1:100521373><>" changed cvar (cvar "mp_maxrounds") (value "16")
+L 08/14/2022 - 19:37:59: [basecommands.smx] "uR<293><STEAM_1:1:100521373><>" changed map to "vertigo"
+L 08/14/2022 - 19:38:02: [SM] Changed map to "vertigo"
+L 08/14/2022 - 19:38:03: -------- Mapchange to de_vertigo --------
+L 08/14/2022 - 19:43:37: [basecommands.smx] "uR<294><STEAM_1:1:100521373><>" changed cvar (cvar "mp_maxrounds") (value "16")
+L 08/14/2022 - 20:02:38: [basecommands.smx] "uR<294><STEAM_1:1:100521373><>" changed map to "pass"
+L 08/14/2022 - 20:02:41: [SM] Changed map to "pass"
+L 08/14/2022 - 20:02:42: -------- Mapchange to de_overpass --------
+L 08/14/2022 - 20:06:08: [basecommands.smx] "uR<294><STEAM_1:1:100521373><>" changed cvar (cvar "mp_maxrounds") (value "16")
+L 08/14/2022 - 20:22:28: [basecommands.smx] "uR<294><STEAM_1:1:100521373><>" changed map to "nuke"
+L 08/14/2022 - 20:22:31: [SM] Changed map to "nuke"
+L 08/14/2022 - 20:22:32: -------- Mapchange to de_shortnuke --------
+L 08/14/2022 - 20:23:57: [basecommands.smx] "uR<294><STEAM_1:1:100521373><>" changed cvar (cvar "mp_maxrounds") (value "16")
+L 08/14/2022 - 20:40:05: [basecommands.smx] "uR<294><STEAM_1:1:100521373><>" kicked "SeaStar<297><STEAM_1:0:532402803><>" (reason "")
+L 08/14/2022 - 20:55:07: [basecommands.smx] "uR<294><STEAM_1:1:100521373><>" changed map to "dust"
+L 08/14/2022 - 20:55:10: [SM] Changed map to "dust"
+L 08/14/2022 - 20:55:11: -------- Mapchange to de_shortdust --------
+L 08/14/2022 - 20:55:29: [basecommands.smx] "uR<294><STEAM_1:1:100521373><>" changed cvar (cvar "mp_maxrounds") (value "16")
+L 08/14/2022 - 21:39:57: -------- Mapchange to de_shortdust --------
+L 08/14/2022 - 21:46:52: [basecommands.smx] "35<302><STEAM_1:0:515881234><>" changed map to "mir"
+L 08/14/2022 - 21:46:55: [SM] Changed map to "mir"
+L 08/14/2022 - 21:46:56: -------- Mapchange to de_mirage --------
+L 08/14/2022 - 21:56:09: [basecommands.smx] "35<306><STEAM_1:0:515881234><>" changed map to "over"
+L 08/14/2022 - 21:56:12: [SM] Changed map to "over"
+L 08/14/2022 - 21:56:13: -------- Mapchange to de_overpass --------
+L 08/14/2022 - 21:56:29: [basecommands.smx] "35<306><STEAM_1:0:515881234><>" changed cvar (cvar "game_mode") (value "2")
+L 08/14/2022 - 21:56:43: [basecommands.smx] "35<306><STEAM_1:0:515881234><>" changed cvar (cvar "mp_maxrounds") (value "16")
+L 08/14/2022 - 21:56:54: [basecommands.smx] "35<306><STEAM_1:0:515881234><>" changed map to "over"
+L 08/14/2022 - 21:56:57: [SM] Changed map to "over"
+L 08/14/2022 - 21:56:58: -------- Mapchange to de_overpass --------
+L 08/14/2022 - 22:44:49: -------- Mapchange to de_overpass --------
+L 08/14/2022 - 22:45:33: [basecommands.smx] "www<308><STEAM_1:0:110600653><>" changed cvar (cvar "game_mode") (value "1")
+L 08/14/2022 - 22:45:58: -------- Mapchange to de_mirage --------
+L 08/14/2022 - 23:54:38: -------- Mapchange to de_mirage --------
+L 08/15/2022 - 00:08:27: Log file closed.

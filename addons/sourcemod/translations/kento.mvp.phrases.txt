@@ -1,0 +1,93 @@
+//**********************************************  Valid Colors	********************************************************
+// {NORMAL}, {DARKRED}, {PINK}, {YELLOW}, {GREEN}, {LIGHTGREEN}, {RED}, {GRAY}, {BLUE}, {DARKBLUE}, {PURPLE}, {ORANGE} *
+//**********************************************************************************************************************
+//                                     http://i.imgur.com/q2wb8Cu.png                                                  *
+//{NORMAL} = x01 | {DARKRED} = x02 | {PINK} = x03 | {GREEN} = x04 | {YELLOW} = x09 | {LIGHTGREEN} = x06 | {RED} = x07  *
+//{GRAY} = x08 | {BLUE} = x0B | {DARKBLUE} = x0C | {PURPLE} = x0E|  {ORANGE} = x10                                     *
+//**********************************************************************************************************************
+"Phrases"//阿隆汉化
+{
+	"No MVP"
+	{
+		"#format"		""
+		"en"			"没有MVP音乐"//阿隆更改//QQ1441185781
+		"zho"			"無MVP音樂."
+	}
+	
+	"Vol Menu Title"
+	{
+		"#format"		""
+		"en"			"选择MVP音乐音量"
+		"zho"			"選擇MVP音樂音量"	
+	}
+	
+	"MVP Menu Title"
+	{
+		"#format"		""
+		"en"			"选择MVP音乐"
+		"zho"			"選擇你的MVP音樂"	
+	}
+	
+	"Vol Menu Title 2"
+	{
+		"#format"		"{1:.2f}"
+		"en"			"选择MVP音乐音量\n目前音量:{1}\n使用 !mvpvol 微调"
+		"zho"			"選擇MVP音樂音量\n目前音量:{1}\n使用 !mvpvol 微調"	
+	}
+	
+	"Mute"
+	{
+		"#format"		""
+		"en"			"静音"
+		"zho"			"靜音"	
+	}
+	
+	"MVP Menu Title 2"
+	{
+		"#format"		"{1:s}"
+		"en"			"选择你的MVP音乐\n目前音乐:{1}"
+		"zho"			"選擇你的MVP音樂\n目前音樂:{1}"	
+	}
+	
+	"Setting Menu Title"
+	{
+		"#format"		"{1:s},{2:.2f}"
+		"en"			"MVP 音乐选择\n目前音乐:{1}\n音量:{2}"
+		"zho"			"MVP音樂選單\n目前音樂:{1}\n音量:{2}"	
+	}
+	
+	"MVP"
+	{
+		"#format"		"{1:N},{2:s}"
+		"en"			"正在播放 <font color='#B15BFF'>{1}</font>的MVP音乐 - <font color='#FF0000'>{2}</font>"
+		"zho"			"正在播放<font color='#B15BFF'>{1}</font> 的MVP音樂 \n <font color='#FF0000'>{2}</font>"
+	}
+	
+	"Selected"
+	{
+		"#format"		"{1:s}"
+		"en"			"{GREEN}[MVP] {NORMAL}你的MVP音乐是 {PINK}{1}."
+		"zho"			"{GREEN}[MVP] {NORMAL}你的MVP音樂是{PINK}{1}."
+	}
+	
+	"No Selected"
+	{
+		"#format"		""
+		"en"			"{GREEN}[MVP] {NORMAL}你爹MVP音乐是 {PINK}没有MVP音乐{NORMAL}."
+		"zho"			"{GREEN}[MVP] {NORMAL}你的MVP音樂是{PINK}無MVP音樂{NORMAL}."
+	}
+	
+	"Volume 1"
+	{
+		"#format"		""
+		"en"			"{GREEN}[MVP] {NORMAL}音量大小限制为 {RED}0.0- 1.0"
+		"zho"			"{GREEN}[MVP] {NORMAL}音量大小限制為 {RED}0.0 - 1.0"
+	}
+	
+	"Volume 2"
+	{
+		"#format"		"{1:.2f}"
+		"en"			"{GREEN}[MVP] {NORMAL}音量设置为 {PINK}{1}"
+		"zho"			"{GREEN}[MVP] {NORMAL}音量設定為 {PINK}{1}"
+	}
+}	

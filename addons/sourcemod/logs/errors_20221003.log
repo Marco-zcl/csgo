@@ -1,0 +1,46 @@
+L 10/03/2022 - 06:24:06: SourceMod error session started
+L 10/03/2022 - 06:24:06: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221003.log")
+L 10/03/2022 - 06:24:06: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/03/2022 - 06:24:06: [SM] Blaming: weapon_restrict.smx
+L 10/03/2022 - 06:24:06: [SM] Call stack trace:
+L 10/03/2022 - 06:24:06: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/03/2022 - 06:29:11: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/03/2022 - 06:29:11: [SM] Blaming: weapon_restrict.smx
+L 10/03/2022 - 06:29:11: [SM] Call stack trace:
+L 10/03/2022 - 06:29:11: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/03/2022 - 06:34:52: [warmod.smx] Plug-in tEasyFTP.smx required to auto upload demos
+L 10/03/2022 - 06:35:18: Error log file session closed.
+L 10/03/2022 - 07:22:31: SourceMod error session started
+L 10/03/2022 - 07:22:31: Info (map "de_inferno") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221003.log")
+L 10/03/2022 - 07:22:31: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/03/2022 - 07:22:31: [SM] Blaming: weapon_restrict.smx
+L 10/03/2022 - 07:22:31: [SM] Call stack trace:
+L 10/03/2022 - 07:22:31: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/03/2022 - 07:41:45: Error log file session closed.
+L 10/03/2022 - 12:47:42: SourceMod error session started
+L 10/03/2022 - 12:47:42: Info (map "de_inferno") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221003.log")
+L 10/03/2022 - 12:47:42: [warmod.smx] Plug-in tEasyFTP.smx required to auto upload demos
+L 10/03/2022 - 12:48:06: Error log file session closed.
+L 10/03/2022 - 13:24:31: SourceMod error session started
+L 10/03/2022 - 13:24:31: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221003.log")
+L 10/03/2022 - 13:24:31: [warmod.smx] Plug-in tEasyFTP.smx required to auto upload demos
+L 10/03/2022 - 14:27:46: [SM] Exception reported: Array index out-of-bounds (index 63, limit 55)
+L 10/03/2022 - 14:27:46: [SM] Blaming: weapon_restrict.smx
+L 10/03/2022 - 14:27:46: [SM] Call stack trace:
+L 10/03/2022 - 14:27:46: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/03/2022 - 14:41:58: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/03/2022 - 14:41:58: [SM] Blaming: weapon_restrict.smx
+L 10/03/2022 - 14:41:58: [SM] Call stack trace:
+L 10/03/2022 - 14:41:58: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/03/2022 - 14:42:11: Error log file session closed.
+L 10/03/2022 - 14:42:28: SourceMod error session started
+L 10/03/2022 - 14:42:28: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221003.log")
+L 10/03/2022 - 14:42:28: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/03/2022 - 14:42:28: [SM] Blaming: weapon_restrict.smx
+L 10/03/2022 - 14:42:28: [SM] Call stack trace:
+L 10/03/2022 - 14:42:28: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/03/2022 - 14:42:29: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/03/2022 - 14:42:29: [SM] Blaming: weapon_restrict.smx
+L 10/03/2022 - 14:42:29: [SM] Call stack trace:
+L 10/03/2022 - 14:42:29: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/03/2022 - 15:54:14: Error log file session closed.

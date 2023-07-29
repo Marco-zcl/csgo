@@ -1,0 +1,307 @@
+L 08/09/2022 - 00:15:32: SourceMod error session started
+L 08/09/2022 - 00:15:32: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220809.log")
+L 08/09/2022 - 00:15:32: [SM] Fatal error encountered parsing translation file "movecommands.phrases.txt"
+L 08/09/2022 - 00:15:32: [SM] Error (line 0, column 0): Stream failed to open
+L 08/09/2022 - 00:18:35: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 00:18:35: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 00:18:35: [SM] Call stack trace:
+L 08/09/2022 - 00:18:35: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 00:21:36: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 00:21:36: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 00:21:36: [SM] Call stack trace:
+L 08/09/2022 - 00:21:36: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 00:22:54: [c5_pug.smx] GOTV demo could not be recorded since tv_enable is not set to 1
+L 08/09/2022 - 00:22:57: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 00:22:57: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 00:22:57: [SM] Call stack trace:
+L 08/09/2022 - 00:22:57: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 00:22:57: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 00:22:57: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 00:22:57: [SM] Call stack trace:
+L 08/09/2022 - 00:22:57: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 00:23:46: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 00:23:46: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 00:23:46: [SM] Call stack trace:
+L 08/09/2022 - 00:23:46: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 00:23:56: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 00:23:56: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 00:23:56: [SM] Call stack trace:
+L 08/09/2022 - 00:23:56: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 00:30:28: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 00:30:28: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 00:30:28: [SM] Call stack trace:
+L 08/09/2022 - 00:30:28: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 00:31:09: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 00:31:09: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 00:31:09: [SM] Call stack trace:
+L 08/09/2022 - 00:31:09: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 00:36:08: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 00:36:08: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 00:36:08: [SM] Call stack trace:
+L 08/09/2022 - 00:36:08: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 00:36:57: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 00:36:57: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 00:36:57: [SM] Call stack trace:
+L 08/09/2022 - 00:36:57: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 00:38:24: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 00:38:24: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 00:38:24: [SM] Call stack trace:
+L 08/09/2022 - 00:38:24: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 00:47:07: Error log file session closed.
+L 08/09/2022 - 00:47:07: SourceMod error session started
+L 08/09/2022 - 00:47:07: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220809.log")
+L 08/09/2022 - 00:47:07: [SM] Fatal error encountered parsing translation file "movecommands.phrases.txt"
+L 08/09/2022 - 00:47:07: [SM] Error (line 0, column 0): Stream failed to open
+L 08/09/2022 - 00:47:27: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 00:47:27: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 00:47:27: [SM] Call stack trace:
+L 08/09/2022 - 00:47:27: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 00:47:42: Error log file session closed.
+L 08/09/2022 - 00:47:42: SourceMod error session started
+L 08/09/2022 - 00:47:42: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220809.log")
+L 08/09/2022 - 00:47:42: [SM] Fatal error encountered parsing translation file "movecommands.phrases.txt"
+L 08/09/2022 - 00:47:42: [SM] Error (line 0, column 0): Stream failed to open
+L 08/09/2022 - 00:48:51: [c5_pug.smx] GOTV demo could not be recorded since tv_enable is not set to 1
+L 08/09/2022 - 00:49:42: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 00:49:42: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 00:49:42: [SM] Call stack trace:
+L 08/09/2022 - 00:49:42: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 00:49:47: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 00:49:47: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 00:49:47: [SM] Call stack trace:
+L 08/09/2022 - 00:49:47: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 10:47:30: Error log file session closed.
+L 08/09/2022 - 10:47:30: SourceMod error session started
+L 08/09/2022 - 10:47:30: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220809.log")
+L 08/09/2022 - 10:47:30: [SM] Fatal error encountered parsing translation file "movecommands.phrases.txt"
+L 08/09/2022 - 10:47:30: [SM] Error (line 0, column 0): Stream failed to open
+L 08/09/2022 - 11:01:56: [c5_pug.smx] GOTV demo could not be recorded since tv_enable is not set to 1
+L 08/09/2022 - 11:02:00: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 11:02:00: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 11:02:00: [SM] Call stack trace:
+L 08/09/2022 - 11:02:00: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 11:02:38: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 11:02:38: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 11:02:38: [SM] Call stack trace:
+L 08/09/2022 - 11:02:38: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 11:02:40: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 11:02:40: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 11:02:40: [SM] Call stack trace:
+L 08/09/2022 - 11:02:40: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 11:18:54: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 11:18:54: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 11:18:54: [SM] Call stack trace:
+L 08/09/2022 - 11:18:54: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 11:18:55: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 11:18:55: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 11:18:55: [SM] Call stack trace:
+L 08/09/2022 - 11:18:55: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 11:19:59: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 11:19:59: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 11:19:59: [SM] Call stack trace:
+L 08/09/2022 - 11:19:59: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 11:48:37: Error log file session closed.
+L 08/09/2022 - 11:48:37: SourceMod error session started
+L 08/09/2022 - 11:48:37: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220809.log")
+L 08/09/2022 - 11:48:37: [SM] Fatal error encountered parsing translation file "movecommands.phrases.txt"
+L 08/09/2022 - 11:48:37: [SM] Error (line 0, column 0): Stream failed to open
+L 08/09/2022 - 12:00:17: [c5_pug.smx] GOTV demo could not be recorded since tv_enable is not set to 1
+L 08/09/2022 - 12:01:17: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 12:01:17: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 12:01:17: [SM] Call stack trace:
+L 08/09/2022 - 12:01:17: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 12:01:17: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 12:01:17: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 12:01:17: [SM] Call stack trace:
+L 08/09/2022 - 12:01:17: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 13:55:06: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 13:55:06: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 13:55:06: [SM] Call stack trace:
+L 08/09/2022 - 13:55:06: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 13:56:48: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 13:56:48: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 13:56:48: [SM] Call stack trace:
+L 08/09/2022 - 13:56:48: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 14:26:41: Error log file session closed.
+L 08/09/2022 - 14:26:41: SourceMod error session started
+L 08/09/2022 - 14:26:41: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220809.log")
+L 08/09/2022 - 14:26:41: [SM] Fatal error encountered parsing translation file "movecommands.phrases.txt"
+L 08/09/2022 - 14:26:41: [SM] Error (line 0, column 0): Stream failed to open
+L 08/09/2022 - 14:27:31: [SM] Exception reported: Client 3 is not in game
+L 08/09/2022 - 14:27:31: [SM] Blaming: c5_pug_voteend.smx
+L 08/09/2022 - 14:27:31: [SM] Call stack trace:
+L 08/09/2022 - 14:27:31: [SM]   [0] GetClientTeam
+L 08/09/2022 - 14:27:31: [SM]   [1] Line 56, F:\Code\sourcepawn\addons\sourcemod\scripting\c5_pug_voteend.sp::OnClientDisconnect
+L 08/09/2022 - 14:27:34: [SM] Exception reported: Client 3 is not in game
+L 08/09/2022 - 14:27:34: [SM] Blaming: c5_pug_voteend.smx
+L 08/09/2022 - 14:27:34: [SM] Call stack trace:
+L 08/09/2022 - 14:27:34: [SM]   [0] GetClientTeam
+L 08/09/2022 - 14:27:34: [SM]   [1] Line 56, F:\Code\sourcepawn\addons\sourcemod\scripting\c5_pug_voteend.sp::OnClientDisconnect
+L 08/09/2022 - 14:27:35: [SM] Exception reported: Client 3 is not in game
+L 08/09/2022 - 14:27:35: [SM] Blaming: c5_pug_voteend.smx
+L 08/09/2022 - 14:27:35: [SM] Call stack trace:
+L 08/09/2022 - 14:27:35: [SM]   [0] GetClientTeam
+L 08/09/2022 - 14:27:35: [SM]   [1] Line 56, F:\Code\sourcepawn\addons\sourcemod\scripting\c5_pug_voteend.sp::OnClientDisconnect
+L 08/09/2022 - 14:27:37: [SM] Exception reported: Client 3 is not in game
+L 08/09/2022 - 14:27:37: [SM] Blaming: c5_pug_voteend.smx
+L 08/09/2022 - 14:27:37: [SM] Call stack trace:
+L 08/09/2022 - 14:27:37: [SM]   [0] GetClientTeam
+L 08/09/2022 - 14:27:37: [SM]   [1] Line 56, F:\Code\sourcepawn\addons\sourcemod\scripting\c5_pug_voteend.sp::OnClientDisconnect
+L 08/09/2022 - 14:33:23: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 14:33:23: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 14:33:23: [SM] Call stack trace:
+L 08/09/2022 - 14:33:23: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 14:33:32: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 14:33:32: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 14:33:32: [SM] Call stack trace:
+L 08/09/2022 - 14:33:32: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 14:35:15: [c5_pug.smx] GOTV demo could not be recorded since tv_enable is not set to 1
+L 08/09/2022 - 14:36:27: Error log file session closed.
+L 08/09/2022 - 14:36:27: SourceMod error session started
+L 08/09/2022 - 14:36:27: Info (map "de_inferno") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220809.log")
+L 08/09/2022 - 14:36:27: [SM] Fatal error encountered parsing translation file "movecommands.phrases.txt"
+L 08/09/2022 - 14:36:27: [SM] Error (line 0, column 0): Stream failed to open
+L 08/09/2022 - 14:37:27: Error log file session closed.
+L 08/09/2022 - 14:37:27: SourceMod error session started
+L 08/09/2022 - 14:37:27: Info (map "de_inferno") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220809.log")
+L 08/09/2022 - 14:37:27: [SM] Fatal error encountered parsing translation file "movecommands.phrases.txt"
+L 08/09/2022 - 14:37:27: [SM] Error (line 0, column 0): Stream failed to open
+L 08/09/2022 - 14:38:26: [c5_pug.smx] GOTV demo could not be recorded since tv_enable is not set to 1
+L 08/09/2022 - 14:52:24: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 14:52:24: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 14:52:24: [SM] Call stack trace:
+L 08/09/2022 - 14:52:24: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 14:52:24: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 14:52:24: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 14:52:24: [SM] Call stack trace:
+L 08/09/2022 - 14:52:24: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 15:03:36: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 15:03:36: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 15:03:36: [SM] Call stack trace:
+L 08/09/2022 - 15:03:36: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 15:05:03: [SM] Exception reported: Client 2 is not in game
+L 08/09/2022 - 15:05:03: [SM] Blaming: c5_pug_voteend.smx
+L 08/09/2022 - 15:05:03: [SM] Call stack trace:
+L 08/09/2022 - 15:05:03: [SM]   [0] GetClientTeam
+L 08/09/2022 - 15:05:03: [SM]   [1] Line 56, F:\Code\sourcepawn\addons\sourcemod\scripting\c5_pug_voteend.sp::OnClientDisconnect
+L 08/09/2022 - 15:06:39: [c5_pug.smx] GOTV demo could not be recorded since tv_enable is not set to 1
+L 08/09/2022 - 15:15:15: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 15:15:15: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 15:15:15: [SM] Call stack trace:
+L 08/09/2022 - 15:15:15: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 15:15:23: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 15:15:23: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 15:15:23: [SM] Call stack trace:
+L 08/09/2022 - 15:15:23: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 16:30:08: Error log file session closed.
+L 08/09/2022 - 16:30:08: SourceMod error session started
+L 08/09/2022 - 16:30:08: Info (map "de_inferno") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220809.log")
+L 08/09/2022 - 16:30:08: [SM] Fatal error encountered parsing translation file "movecommands.phrases.txt"
+L 08/09/2022 - 16:30:08: [SM] Error (line 0, column 0): Stream failed to open
+L 08/09/2022 - 17:32:22: Error log file session closed.
+L 08/09/2022 - 17:32:22: SourceMod error session started
+L 08/09/2022 - 17:32:22: Info (map "de_inferno") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220809.log")
+L 08/09/2022 - 17:32:22: [SM] Fatal error encountered parsing translation file "movecommands.phrases.txt"
+L 08/09/2022 - 17:32:22: [SM] Error (line 0, column 0): Stream failed to open
+L 08/09/2022 - 17:39:26: Error log file session closed.
+L 08/09/2022 - 17:39:26: SourceMod error session started
+L 08/09/2022 - 17:39:26: Info (map "de_inferno") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220809.log")
+L 08/09/2022 - 17:39:26: [SM] Fatal error encountered parsing translation file "movecommands.phrases.txt"
+L 08/09/2022 - 17:39:26: [SM] Error (line 0, column 0): Stream failed to open
+L 08/09/2022 - 18:19:02: Error log file session closed.
+L 08/09/2022 - 18:19:02: SourceMod error session started
+L 08/09/2022 - 18:19:02: Info (map "de_inferno") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220809.log")
+L 08/09/2022 - 18:19:02: [SM] Fatal error encountered parsing translation file "movecommands.phrases.txt"
+L 08/09/2022 - 18:19:02: [SM] Error (line 0, column 0): Stream failed to open
+L 08/09/2022 - 18:27:48: Error log file session closed.
+L 08/09/2022 - 18:27:48: SourceMod error session started
+L 08/09/2022 - 18:27:48: Info (map "de_inferno") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220809.log")
+L 08/09/2022 - 18:27:48: [SM] Fatal error encountered parsing translation file "movecommands.phrases.txt"
+L 08/09/2022 - 18:27:48: [SM] Error (line 0, column 0): Stream failed to open
+L 08/09/2022 - 18:28:07: [SM] Exception reported: Client 1 is not in game
+L 08/09/2022 - 18:28:07: [SM] Blaming: c5_pug_voteend.smx
+L 08/09/2022 - 18:28:07: [SM] Call stack trace:
+L 08/09/2022 - 18:28:07: [SM]   [0] GetClientTeam
+L 08/09/2022 - 18:28:07: [SM]   [1] Line 56, F:\Code\sourcepawn\addons\sourcemod\scripting\c5_pug_voteend.sp::OnClientDisconnect
+L 08/09/2022 - 18:57:45: Error log file session closed.
+L 08/09/2022 - 18:57:45: SourceMod error session started
+L 08/09/2022 - 18:57:45: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220809.log")
+L 08/09/2022 - 18:57:45: [SM] Fatal error encountered parsing translation file "movecommands.phrases.txt"
+L 08/09/2022 - 18:57:45: [SM] Error (line 0, column 0): Stream failed to open
+L 08/09/2022 - 19:01:43: [c5_pug.smx] GOTV demo could not be recorded since tv_enable is not set to 1
+L 08/09/2022 - 19:02:45: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 19:02:45: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 19:02:45: [SM] Call stack trace:
+L 08/09/2022 - 19:02:45: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 19:17:16: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 19:17:16: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 19:17:16: [SM] Call stack trace:
+L 08/09/2022 - 19:17:16: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 19:26:48: Error log file session closed.
+L 08/09/2022 - 19:26:48: SourceMod error session started
+L 08/09/2022 - 19:26:48: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220809.log")
+L 08/09/2022 - 19:26:48: [SM] Fatal error encountered parsing translation file "movecommands.phrases.txt"
+L 08/09/2022 - 19:26:48: [SM] Error (line 0, column 0): Stream failed to open
+L 08/09/2022 - 19:28:04: Error log file session closed.
+L 08/09/2022 - 19:28:04: SourceMod error session started
+L 08/09/2022 - 19:28:04: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220809.log")
+L 08/09/2022 - 19:28:04: [SM] Fatal error encountered parsing translation file "movecommands.phrases.txt"
+L 08/09/2022 - 19:28:04: [SM] Error (line 0, column 0): Stream failed to open
+L 08/09/2022 - 19:52:52: Error log file session closed.
+L 08/09/2022 - 19:52:52: SourceMod error session started
+L 08/09/2022 - 19:52:52: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220809.log")
+L 08/09/2022 - 19:52:52: [SM] Fatal error encountered parsing translation file "movecommands.phrases.txt"
+L 08/09/2022 - 19:52:52: [SM] Error (line 0, column 0): Stream failed to open
+L 08/09/2022 - 20:33:27: Error log file session closed.
+L 08/09/2022 - 20:33:27: SourceMod error session started
+L 08/09/2022 - 20:33:27: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220809.log")
+L 08/09/2022 - 20:33:27: [SM] Fatal error encountered parsing translation file "movecommands.phrases.txt"
+L 08/09/2022 - 20:33:27: [SM] Error (line 0, column 0): Stream failed to open
+L 08/09/2022 - 20:49:53: [SM] Exception reported: Client 2 is not in game
+L 08/09/2022 - 20:49:53: [SM] Blaming: c5_pug_voteend.smx
+L 08/09/2022 - 20:49:53: [SM] Call stack trace:
+L 08/09/2022 - 20:49:53: [SM]   [0] GetClientTeam
+L 08/09/2022 - 20:49:53: [SM]   [1] Line 56, F:\Code\sourcepawn\addons\sourcemod\scripting\c5_pug_voteend.sp::OnClientDisconnect
+L 08/09/2022 - 20:49:55: [SM] Exception reported: Client 2 is not in game
+L 08/09/2022 - 20:49:55: [SM] Blaming: c5_pug_voteend.smx
+L 08/09/2022 - 20:49:55: [SM] Call stack trace:
+L 08/09/2022 - 20:49:55: [SM]   [0] GetClientTeam
+L 08/09/2022 - 20:49:55: [SM]   [1] Line 56, F:\Code\sourcepawn\addons\sourcemod\scripting\c5_pug_voteend.sp::OnClientDisconnect
+L 08/09/2022 - 21:02:00: [c5_pug.smx] GOTV demo could not be recorded since tv_enable is not set to 1
+L 08/09/2022 - 21:02:43: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 08/09/2022 - 21:02:43: [SM] Blaming: weapon_restrict.smx
+L 08/09/2022 - 21:02:43: [SM] Call stack trace:
+L 08/09/2022 - 21:02:43: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 08/09/2022 - 21:03:50: Error log file session closed.
+L 08/09/2022 - 21:03:50: SourceMod error session started
+L 08/09/2022 - 21:03:50: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220809.log")
+L 08/09/2022 - 21:03:50: [SM] Fatal error encountered parsing translation file "movecommands.phrases.txt"
+L 08/09/2022 - 21:03:50: [SM] Error (line 0, column 0): Stream failed to open
+L 08/09/2022 - 21:04:33: Error log file session closed.
+L 08/09/2022 - 21:04:33: SourceMod error session started
+L 08/09/2022 - 21:04:33: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220809.log")
+L 08/09/2022 - 21:04:33: [SM] Fatal error encountered parsing translation file "movecommands.phrases.txt"
+L 08/09/2022 - 21:04:33: [SM] Error (line 0, column 0): Stream failed to open
+L 08/09/2022 - 21:05:14: [c5_pug.smx] GOTV demo could not be recorded since tv_enable is not set to 1
+L 08/09/2022 - 21:23:09: [SM] Exception reported: Client 3 is not in game
+L 08/09/2022 - 21:23:09: [SM] Blaming: c5_pug_voteend.smx
+L 08/09/2022 - 21:23:09: [SM] Call stack trace:
+L 08/09/2022 - 21:23:09: [SM]   [0] GetClientTeam
+L 08/09/2022 - 21:23:09: [SM]   [1] Line 56, F:\Code\sourcepawn\addons\sourcemod\scripting\c5_pug_voteend.sp::OnClientDisconnect
+L 08/09/2022 - 21:26:32: Error log file session closed.
+L 08/09/2022 - 21:26:32: SourceMod error session started
+L 08/09/2022 - 21:26:32: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220809.log")
+L 08/09/2022 - 21:26:32: [SM] Fatal error encountered parsing translation file "movecommands.phrases.txt"
+L 08/09/2022 - 21:26:32: [SM] Error (line 0, column 0): Stream failed to open
+L 08/09/2022 - 21:46:17: [c5_pug.smx] GOTV demo could not be recorded since tv_enable is not set to 1
+L 08/09/2022 - 22:56:15: Error log file session closed.
+L 08/09/2022 - 22:56:15: SourceMod error session started
+L 08/09/2022 - 22:56:15: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220809.log")
+L 08/09/2022 - 22:56:15: [SM] Fatal error encountered parsing translation file "movecommands.phrases.txt"
+L 08/09/2022 - 22:56:15: [SM] Error (line 0, column 0): Stream failed to open
+L 08/09/2022 - 23:52:11: Error log file session closed.
+L 08/09/2022 - 23:52:11: SourceMod error session started
+L 08/09/2022 - 23:52:11: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220809.log")
+L 08/09/2022 - 23:52:11: [SM] Fatal error encountered parsing translation file "movecommands.phrases.txt"
+L 08/09/2022 - 23:52:11: [SM] Error (line 0, column 0): Stream failed to open
+L 08/10/2022 - 00:07:41: Error log file session closed.

@@ -1,0 +1,27 @@
+L 10/16/2022 - 06:44:57: SourceMod error session started
+L 10/16/2022 - 06:44:57: Info (map "de_train") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221016.log")
+L 10/16/2022 - 06:44:57: [warmod.smx] Plug-in tEasyFTP.smx required to auto upload demos
+L 10/16/2022 - 06:45:27: Error log file session closed.
+L 10/16/2022 - 06:59:01: SourceMod error session started
+L 10/16/2022 - 06:59:01: Info (map "de_inferno") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221016.log")
+L 10/16/2022 - 06:59:01: [warmod.smx] Plug-in tEasyFTP.smx required to auto upload demos
+L 10/16/2022 - 06:59:34: Error log file session closed.
+L 10/16/2022 - 07:32:01: SourceMod error session started
+L 10/16/2022 - 07:32:01: Info (map "de_dust2") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221016.log")
+L 10/16/2022 - 07:32:01: [warmod.smx] Plug-in tEasyFTP.smx required to auto upload demos
+L 10/16/2022 - 07:32:27: Error log file session closed.
+L 10/16/2022 - 09:13:14: SourceMod error session started
+L 10/16/2022 - 09:13:14: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221016.log")
+L 10/16/2022 - 09:13:14: [warmod.smx] Plug-in tEasyFTP.smx required to auto upload demos
+L 10/16/2022 - 09:24:48: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/16/2022 - 09:24:48: [SM] Blaming: weapon_restrict.smx
+L 10/16/2022 - 09:24:48: [SM] Call stack trace:
+L 10/16/2022 - 09:24:48: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/16/2022 - 09:26:06: Error log file session closed.
+L 10/16/2022 - 16:00:00: SourceMod error session started
+L 10/16/2022 - 16:00:00: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221016.log")
+L 10/16/2022 - 16:00:00: [SM] Exception reported: Array index out-of-bounds (index 63, limit 55)
+L 10/16/2022 - 16:00:00: [SM] Blaming: weapon_restrict.smx
+L 10/16/2022 - 16:00:00: [SM] Call stack trace:
+L 10/16/2022 - 16:00:00: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/17/2022 - 00:55:33: Error log file session closed.

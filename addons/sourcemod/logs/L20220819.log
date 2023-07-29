@@ -1,0 +1,722 @@
+L 08/19/2022 - 02:28:07: SourceMod log file session started (file "/home/csgo/csgo/addons/sourcemod/logs/L20220819.log") (Version "1.12.0.6912")
+L 08/19/2022 - 02:28:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/19/2022 - 02:28:09: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/19/2022 - 02:28:09: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/19/2022 - 06:30:52: -------- Mapchange to de_vertigo --------
+L 08/19/2022 - 06:30:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/19/2022 - 06:30:55: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/19/2022 - 06:30:55: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/19/2022 - 06:40:35: -------- Mapchange to de_vertigo --------
+L 08/19/2022 - 06:40:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/19/2022 - 06:40:38: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/19/2022 - 06:40:38: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/19/2022 - 06:45:53: [basecommands.smx] "Astro<50><STEAM_1:0:110600653><>" executed config (file "sm_competitive.cfg")
+L 08/19/2022 - 06:45:56: [basecommands.smx] "Astro<50><STEAM_1:0:110600653><>" changed map to "mir"
+L 08/19/2022 - 06:45:59: [SM] Changed map to "mir"
+L 08/19/2022 - 06:46:01: -------- Mapchange to de_mirage --------
+L 08/19/2022 - 06:46:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/19/2022 - 06:46:03: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/19/2022 - 06:46:03: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/19/2022 - 07:14:36: [movecommands.smx] "Little orange<56><STEAM_1:0:612260891><>" was moved to Spec by "Astro<50><STEAM_1:0:110600653><>"
+L 08/19/2022 - 07:14:36: [movecommands.smx] "黑色的百花裙<55><STEAM_1:0:707889818><>" was moved to Spec by "Astro<50><STEAM_1:0:110600653><>"
+L 08/19/2022 - 07:19:56: [basecommands.smx] "Astro<50><STEAM_1:0:110600653><>" changed map to "mir"
+L 08/19/2022 - 07:19:59: [SM] Changed map to "mir"
+L 08/19/2022 - 07:20:00: -------- Mapchange to de_mirage --------
+L 08/19/2022 - 07:20:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/19/2022 - 07:20:02: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/19/2022 - 07:20:02: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/19/2022 - 09:18:20: -------- Mapchange to de_mirage --------
+L 08/19/2022 - 09:18:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/19/2022 - 09:18:22: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/19/2022 - 09:18:22: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/19/2022 - 09:27:08: [movecommands.smx] "love river<64><STEAM_1:1:583670379><>" was moved to Spec by "别空了<62><STEAM_1:0:110600653><>"
+L 08/19/2022 - 09:27:09: [movecommands.smx] "nighttime<65><STEAM_1:1:515004150><>" was moved to Spec by "别空了<62><STEAM_1:0:110600653><>"
+L 08/19/2022 - 09:27:34: [movecommands.smx] "Le soleli<66><STEAM_1:0:554871381><>" was moved to Spec by "别空了<62><STEAM_1:0:110600653><>"
+L 08/19/2022 - 09:32:42: [basecommands.smx] "别空了<62><STEAM_1:0:110600653><>" refreshed the admin cache.
+L 08/19/2022 - 09:34:28: [basecommands.smx] "别空了<62><STEAM_1:0:110600653><>" refreshed the admin cache.
+L 08/19/2022 - 09:35:06: [basecommands.smx] "nighttime<65><STEAM_1:1:515004150><>" kicked "Le soleli<67><STEAM_1:0:554871381><>" (reason "")
+L 08/19/2022 - 09:36:27: [basecommands.smx] "nighttime<65><STEAM_1:1:515004150><>" executed config (file "server.cfg")
+L 08/19/2022 - 09:36:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/19/2022 - 09:38:00: [basecommands.smx] "love river<64><STEAM_1:1:583670379><>" executed config (file "sm_practice.cfg")
+L 08/19/2022 - 09:38:42: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<68><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:38:49: [basecommands.smx] "别空了<62><STEAM_1:0:110600653><>" refreshed the admin cache.
+L 08/19/2022 - 09:38:56: [basecommands.smx] "Le soleli<68><STEAM_1:0:554871381><>" refreshed the admin cache.
+L 08/19/2022 - 09:39:37: [playercommands.smx] "Le soleli<68><STEAM_1:0:554871381><>" slapped "nighttime<65><STEAM_1:1:515004150><>" (damage "99")
+L 08/19/2022 - 09:40:37: [basecommands.smx] "nighttime<65><STEAM_1:1:515004150><>" kicked "Le soleli<68><STEAM_1:0:554871381><>" (reason "")
+L 08/19/2022 - 09:40:58: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:34: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:34: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "别空了<62><STEAM_1:0:110600653><>"
+L 08/19/2022 - 09:45:34: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "nighttime<65><STEAM_1:1:515004150><>"
+L 08/19/2022 - 09:45:34: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:35: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "love river<64><STEAM_1:1:583670379><>"
+L 08/19/2022 - 09:45:35: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "♡回到从前//むかしに戻る♡<61><STEAM_1:0:186191751><>"
+L 08/19/2022 - 09:45:35: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:35: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:36: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:51: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:51: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "♡回到从前//むかしに戻る♡<61><STEAM_1:0:186191751><>"
+L 08/19/2022 - 09:45:51: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "别空了<62><STEAM_1:0:110600653><>"
+L 08/19/2022 - 09:45:51: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "love river<64><STEAM_1:1:583670379><>"
+L 08/19/2022 - 09:45:52: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "nighttime<65><STEAM_1:1:515004150><>"
+L 08/19/2022 - 09:45:52: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:52: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:52: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:52: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:52: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:53: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:53: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "♡回到从前//むかしに戻る♡<61><STEAM_1:0:186191751><>"
+L 08/19/2022 - 09:45:53: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:53: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "♡回到从前//むかしに戻る♡<61><STEAM_1:0:186191751><>"
+L 08/19/2022 - 09:45:53: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:53: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:54: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:54: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "♡回到从前//むかしに戻る♡<61><STEAM_1:0:186191751><>"
+L 08/19/2022 - 09:45:54: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:54: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:54: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:54: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:54: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:55: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:55: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:55: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:55: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:55: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:55: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:55: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:56: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:56: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:56: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:56: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "Le soleli<69><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:45:56: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "♡回到从前//むかしに戻る♡<61><STEAM_1:0:186191751><>"
+L 08/19/2022 - 09:45:56: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "别空了<62><STEAM_1:0:110600653><>"
+L 08/19/2022 - 09:45:57: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "love river<64><STEAM_1:1:583670379><>"
+L 08/19/2022 - 09:45:57: [playercommands.smx] "nighttime<65><STEAM_1:1:515004150><>" slayed "nighttime<65><STEAM_1:1:515004150><>"
+L 08/19/2022 - 09:46:09: [basecommands.smx] "love river<64><STEAM_1:1:583670379><>" kicked "nighttime<65><STEAM_1:1:515004150><>" (reason "")
+L 08/19/2022 - 09:46:14: [basecommands.smx] "别空了<62><STEAM_1:0:110600653><>" refreshed the admin cache.
+L 08/19/2022 - 09:47:22: [sbpp_main.smx] "nighttime<71><STEAM_1:1:515004150><>" banned "Le soleli<69><STEAM_1:0:554871381><>" (minutes "10") (reason "Team Killing")
+L 08/19/2022 - 09:54:15: [basecommands.smx] "love river<64><STEAM_1:1:583670379><>" executed config (file "sm_competitive.cfg")
+L 08/19/2022 - 09:55:19: [movecommands.smx] "别空了<72><STEAM_1:0:110600653><>" was moved to Spec by "Le soleli<73><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:55:23: [movecommands.smx] "像在梦里.<74><STEAM_1:0:705022026><>" was moved to Spec by "Le soleli<73><STEAM_1:0:554871381><>"
+L 08/19/2022 - 09:55:34: [basecommands.smx] "nighttime<71><STEAM_1:1:515004150><>" kicked "Le soleli<73><STEAM_1:0:554871381><>" (reason "")
+L 08/19/2022 - 09:56:07: [movecommands.smx] "Le soleli<75><STEAM_1:0:554871381><>" was moved to Spec by "nighttime<71><STEAM_1:1:515004150><>"
+L 08/19/2022 - 09:57:24: [playercommands.smx] "nighttime<71><STEAM_1:1:515004150><>" renamed "别空了<72><STEAM_1:0:110600653><>" (to "���享�")
+L 08/19/2022 - 09:57:55: [playercommands.smx] "nighttime<71><STEAM_1:1:515004150><>" renamed "Le soleli<75><STEAM_1:0:554871381><>" (to "ieisiLLss")
+L 08/19/2022 - 09:57:57: [playercommands.smx] "ieisiLLss<75><STEAM_1:0:554871381><>" renamed "nighttime<71><STEAM_1:1:515004150><>" (to "nntnnettt")
+L 08/19/2022 - 09:57:57: [playercommands.smx] "ieisiLLss<75><STEAM_1:0:554871381><>" renamed "nntnnettt<71><STEAM_1:1:515004150><>" (to "tnennnttt")
+L 08/19/2022 - 09:57:57: [playercommands.smx] "ieisiLLss<75><STEAM_1:0:554871381><>" renamed "tnennnttt<71><STEAM_1:1:515004150><>" (to "etnnetntn")
+L 08/19/2022 - 09:57:58: [playercommands.smx] "ieisiLLss<75><STEAM_1:0:554871381><>" renamed "etnnetntn<71><STEAM_1:1:515004150><>" (to "ttentnnte")
+L 08/19/2022 - 09:57:58: [playercommands.smx] "ieisiLLss<75><STEAM_1:0:554871381><>" renamed "ttentnnte<71><STEAM_1:1:515004150><>" (to "etenntten")
+L 08/19/2022 - 09:57:58: [playercommands.smx] "ieisiLLss<75><STEAM_1:0:554871381><>" renamed "etenntten<71><STEAM_1:1:515004150><>" (to "ttnenntnn")
+L 08/19/2022 - 09:57:58: [playercommands.smx] "ieisiLLss<75><STEAM_1:0:554871381><>" renamed "ttnenntnn<71><STEAM_1:1:515004150><>" (to "ntnnnnnte")
+L 08/19/2022 - 09:57:59: [playercommands.smx] "ieisiLLss<75><STEAM_1:0:554871381><>" renamed "ntnnnnnte<71><STEAM_1:1:515004150><>" (to "ttnnnetnt")
+L 08/19/2022 - 09:57:59: [playercommands.smx] "ieisiLLss<75><STEAM_1:0:554871381><>" renamed "ttnnnetnt<71><STEAM_1:1:515004150><>" (to "tntnnttnn")
+L 08/19/2022 - 09:57:59: [playercommands.smx] "ieisiLLss<75><STEAM_1:0:554871381><>" renamed "tntnnttnn<71><STEAM_1:1:515004150><>" (to "tntnnntnt")
+L 08/19/2022 - 09:57:59: [playercommands.smx] "ieisiLLss<75><STEAM_1:0:554871381><>" renamed "tntnnntnt<71><STEAM_1:1:515004150><>" (to "nttnttnnt")
+L 08/19/2022 - 09:57:59: [playercommands.smx] "ieisiLLss<75><STEAM_1:0:554871381><>" renamed "nttnttnnt<71><STEAM_1:1:515004150><>" (to "tnttttntn")
+L 08/19/2022 - 09:57:59: [playercommands.smx] "ieisiLLss<75><STEAM_1:0:554871381><>" renamed "tnttttntn<71><STEAM_1:1:515004150><>" (to "tntnntntt")
+L 08/19/2022 - 09:58:00: [playercommands.smx] "ieisiLLss<75><STEAM_1:0:554871381><>" renamed "tntnntntt<71><STEAM_1:1:515004150><>" (to "ttnnnttnt")
+L 08/19/2022 - 09:58:00: [playercommands.smx] "ieisiLLss<75><STEAM_1:0:554871381><>" renamed "ttnnnttnt<71><STEAM_1:1:515004150><>" (to "nnttttntn")
+L 08/19/2022 - 09:58:00: [playercommands.smx] "ieisiLLss<75><STEAM_1:0:554871381><>" renamed "nnttttntn<71><STEAM_1:1:515004150><>" (to "nntttttnt")
+L 08/19/2022 - 09:58:00: [playercommands.smx] "ieisiLLss<75><STEAM_1:0:554871381><>" renamed "nntttttnt<71><STEAM_1:1:515004150><>" (to "nntttnttt")
+L 08/19/2022 - 09:58:00: [playercommands.smx] "ieisiLLss<75><STEAM_1:0:554871381><>" renamed "nntttnttt<71><STEAM_1:1:515004150><>" (to "tttntnttn")
+L 08/19/2022 - 09:58:01: [playercommands.smx] "ieisiLLss<75><STEAM_1:0:554871381><>" renamed "tttntnttn<71><STEAM_1:1:515004150><>" (to "tntttttnt")
+L 08/19/2022 - 09:58:01: [playercommands.smx] "ieisiLLss<75><STEAM_1:0:554871381><>" renamed "tntttttnt<71><STEAM_1:1:515004150><>" (to "ttttnnntt")
+L 08/19/2022 - 09:58:01: [playercommands.smx] "ieisiLLss<75><STEAM_1:0:554871381><>" renamed "ttttnnntt<71><STEAM_1:1:515004150><>" (to "nntttnntt")
+L 08/19/2022 - 09:58:01: [playercommands.smx] "ieisiLLss<75><STEAM_1:0:554871381><>" renamed "nntttnntt<71><STEAM_1:1:515004150><>" (to "tntttnntt")
+L 08/19/2022 - 09:58:01: [playercommands.smx] "ieisiLLss<75><STEAM_1:0:554871381><>" renamed "tntttnntt<71><STEAM_1:1:515004150><>" (to "tntttttnt")
+L 08/19/2022 - 09:58:01: [playercommands.smx] "ieisiLLss<75><STEAM_1:0:554871381><>" renamed "tntttttnt<71><STEAM_1:1:515004150><>" (to "tttttnttt")
+L 08/19/2022 - 09:58:02: [playercommands.smx] "ieisiLLss<75><STEAM_1:0:554871381><>" renamed "unnamed<72><STEAM_1:0:110600653><>" (to "enneann")
+L 08/19/2022 - 09:58:02: [playercommands.smx] "ieisiLLss<75><STEAM_1:0:554871381><>" renamed "enneann<72><STEAM_1:0:110600653><>" (to "nennnne")
+L 08/19/2022 - 09:58:08: [playercommands.smx] "ieisiLLss<75><STEAM_1:0:554871381><>" renamed "tttttnttt<71><STEAM_1:1:515004150><>" (to "ttntttttt")
+L 08/19/2022 - 09:58:09: [playercommands.smx] "ieisiLLss<75><STEAM_1:0:554871381><>" renamed "ttntttttt<71><STEAM_1:1:515004150><>" (to "ttttttttt")
+L 08/19/2022 - 09:58:09: [playercommands.smx] "ieisiLLss<75><STEAM_1:0:554871381><>" renamed "ttttttttt<71><STEAM_1:1:515004150><>" (to "ttttttttt")
+L 08/19/2022 - 09:58:09: [playercommands.smx] "ieisiLLss<75><STEAM_1:0:554871381><>" renamed "ttttttttt<71><STEAM_1:1:515004150><>" (to "ttttttttt")
+L 08/19/2022 - 09:58:26: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "ieisiLLss<75><STEAM_1:0:554871381><>" (to "sissiisLe")
+L 08/19/2022 - 09:58:26: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "nennnne<72><STEAM_1:0:110600653><>" (to "nnenenn")
+L 08/19/2022 - 09:58:26: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "ttttttttt<71><STEAM_1:1:515004150><>" (to "ttttttttt")
+L 08/19/2022 - 09:58:26: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "像在梦里.<74><STEAM_1:0:705022026><>" (to "惌�����娇")
+L 08/19/2022 - 09:58:27: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "sissiisLe<75><STEAM_1:0:554871381><>" (to "iesLLiiei")
+L 08/19/2022 - 09:58:27: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "nnenenn<72><STEAM_1:0:110600653><>" (to "nneennn")
+L 08/19/2022 - 09:58:27: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "iesLLiiei<75><STEAM_1:0:554871381><>" (to "iieLseees")
+L 08/19/2022 - 09:58:27: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "nneennn<72><STEAM_1:0:110600653><>" (to "eeeneee")
+L 08/19/2022 - 09:58:27: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "阿災<76><STEAM_1:0:712564076><>" (to "���罽")
+L 08/19/2022 - 09:58:28: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "unnamed<74><STEAM_1:0:705022026><>" (to "nnnnaem")
+L 08/19/2022 - 09:58:28: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "iieLseees<75><STEAM_1:0:554871381><>" (to "eeeeeisse")
+L 08/19/2022 - 09:58:28: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "ttttttttt<71><STEAM_1:1:515004150><>" (to "ttttttttt")
+L 08/19/2022 - 09:58:28: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "eeeeeisse<75><STEAM_1:0:554871381><>" (to "seseeeeee")
+L 08/19/2022 - 09:58:28: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "ttttttttt<71><STEAM_1:1:515004150><>" (to "ttttttttt")
+L 08/19/2022 - 09:58:28: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "unnamed<76><STEAM_1:0:712564076><>" (to "ueunuum")
+L 08/19/2022 - 09:58:28: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "nnnnaem<74><STEAM_1:0:705022026><>" (to "annnnan")
+L 08/19/2022 - 09:58:28: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "ttttttttt<71><STEAM_1:1:515004150><>" (to "ttttttttt")
+L 08/19/2022 - 09:58:29: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "annnnan<74><STEAM_1:0:705022026><>" (to "annnann")
+L 08/19/2022 - 09:58:36: [basecommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" kicked "ueunuum<76><STEAM_1:0:712564076><>" (reason "")
+L 08/19/2022 - 10:04:58: [sbpp_comms.smx] "ttttttttt<71><STEAM_1:1:515004150><>" silenced "seseeeeee<75><STEAM_1:0:554871381><>" (minutes "30") (reason "Inappropriate Language")
+L 08/19/2022 - 10:05:15: [sbpp_comms.smx] "seseeeeee<75><STEAM_1:0:554871381><>" unmuted "seseeeeee<75><STEAM_1:0:554871381><>" (reason "")
+L 08/19/2022 - 10:05:15: [sbpp_comms.smx] "seseeeeee<75><STEAM_1:0:554871381><>" removed mute for STEAM_1:0:554871381 from DB
+L 08/19/2022 - 10:05:24: [movecommands.smx] "love river<77><STEAM_1:1:583670379><>" was moved to Spec by "seseeeeee<75><STEAM_1:0:554871381><>"
+L 08/19/2022 - 10:05:34: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "seseeeeee<75><STEAM_1:0:554871381><>" (to "eseeeeeee")
+L 08/19/2022 - 10:05:34: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "love river<77><STEAM_1:1:583670379><>" (to "oevooeliii")
+L 08/19/2022 - 10:05:34: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "eseeeeeee<75><STEAM_1:0:554871381><>" (to "eeesseeee")
+L 08/19/2022 - 10:05:34: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "ttttttttt<71><STEAM_1:1:515004150><>" (to "ttttttttt")
+L 08/19/2022 - 10:05:34: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "oevooeliii<77><STEAM_1:1:583670379><>" (to "eiioiioeoe")
+L 08/19/2022 - 10:05:35: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "eeesseeee<75><STEAM_1:0:554871381><>" (to "sseeeeses")
+L 08/19/2022 - 10:05:35: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "eeeneee<72><STEAM_1:0:110600653><>" (to "eeneeen")
+L 08/19/2022 - 10:05:35: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "eiioiioeoe<77><STEAM_1:1:583670379><>" (to "ioiieioioe")
+L 08/19/2022 - 10:05:35: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "ttttttttt<71><STEAM_1:1:515004150><>" (to "ttttttttt")
+L 08/19/2022 - 10:05:35: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "sseeeeses<75><STEAM_1:0:554871381><>" (to "essseesss")
+L 08/19/2022 - 10:05:35: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "ttttttttt<71><STEAM_1:1:515004150><>" (to "ttttttttt")
+L 08/19/2022 - 10:05:35: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "eeneeen<72><STEAM_1:0:110600653><>" (to "eeneeee")
+L 08/19/2022 - 10:05:36: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "essseesss<75><STEAM_1:0:554871381><>" (to "seseessss")
+L 08/19/2022 - 10:05:36: [playercommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" renamed "ttttttttt<71><STEAM_1:1:515004150><>" (to "ttttttttt")
+L 08/19/2022 - 10:06:35: [sbpp_comms.smx] "seseessss<75><STEAM_1:0:554871381><>" ungagged "seseessss<75><STEAM_1:0:554871381><>" (reason "")
+L 08/19/2022 - 10:06:35: [sbpp_comms.smx] "seseessss<75><STEAM_1:0:554871381><>" removed gag for STEAM_1:0:554871381 from DB
+L 08/19/2022 - 10:06:59: [basevotes.smx] "ttttttttt<71><STEAM_1:1:515004150><>" initiated a kick vote against "seseessss<75><STEAM_1:0:554871381><>"
+L 08/19/2022 - 10:07:06: [basevotes.smx] Vote kick successful, kicked "seseessss<75><STEAM_1:0:554871381><>" (reason "Votekicked")
+L 08/19/2022 - 10:10:01: [movecommands.smx] "♡回到从前//むかしに戻る♡<78><STEAM_1:0:186191751><>" was moved to Spec by "ttttttttt<71><STEAM_1:1:515004150><>"
+L 08/19/2022 - 10:23:22: [basecommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" executed config (file "sm_competitive2v2.cfg")
+L 08/19/2022 - 10:23:43: [basecommands.smx] "ttttttttt<71><STEAM_1:1:515004150><>" changed map to "de_shortdust"
+L 08/19/2022 - 10:23:46: [SM] Changed map to "de_shortdust"
+L 08/19/2022 - 10:23:47: -------- Mapchange to de_shortdust --------
+L 08/19/2022 - 10:23:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/19/2022 - 10:23:49: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/19/2022 - 10:23:49: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/19/2022 - 10:25:24: [playercommands.smx] "nighttime<71><STEAM_1:1:515004150><>" slayed "像在梦里.<74><STEAM_1:0:705022026><>"
+L 08/19/2022 - 10:27:09: [basecommands.smx] "nighttime<71><STEAM_1:1:515004150><>" changed map to "shortdust"
+L 08/19/2022 - 10:27:12: [SM] Changed map to "shortdust"
+L 08/19/2022 - 10:27:13: -------- Mapchange to de_shortdust --------
+L 08/19/2022 - 10:27:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/19/2022 - 10:27:15: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/19/2022 - 10:27:15: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/19/2022 - 10:27:51: [basecommands.smx] "nighttime<71><STEAM_1:1:515004150><>" executed config (file "sm_competitive2v2.cfg")
+L 08/19/2022 - 10:28:30: [basecommands.smx] "nighttime<71><STEAM_1:1:515004150><>" executed config (file "sm_competitive2v2.cfg")
+L 08/19/2022 - 10:29:53: [basecomm.smx] "love river<77><STEAM_1:1:583670379><>" gagged "nighttime<71><STEAM_1:1:515004150><>"
+L 08/19/2022 - 10:30:03: [sbpp_comms.smx] "nighttime<71><STEAM_1:1:515004150><>" silenced "像在梦里.<74><STEAM_1:0:705022026><>" (minutes "-1") (reason "Insult players")
+L 08/19/2022 - 10:30:37: [basecomm.smx] "nighttime<71><STEAM_1:1:515004150><>" muted "love river<77><STEAM_1:1:583670379><>"
+L 08/19/2022 - 10:31:03: [sbpp_comms.smx] "nighttime<71><STEAM_1:1:515004150><>" ungagged "nighttime<71><STEAM_1:1:515004150><>" (reason "")
+L 08/19/2022 - 10:31:03: [sbpp_comms.smx] "nighttime<71><STEAM_1:1:515004150><>" removed gag for STEAM_1:1:515004150 from DB
+L 08/19/2022 - 10:31:21: [playercommands.smx] "nighttime<71><STEAM_1:1:515004150><>" slapped "love river<77><STEAM_1:1:583670379><>" (damage "0")
+L 08/19/2022 - 10:31:22: [playercommands.smx] "nighttime<71><STEAM_1:1:515004150><>" slapped "love river<77><STEAM_1:1:583670379><>" (damage "0")
+L 08/19/2022 - 10:44:15: [movecommands.smx] "不讲武德<82><STEAM_1:0:240968408><>" was moved to Spec by "nighttime<71><STEAM_1:1:515004150><>"
+L 08/19/2022 - 11:06:33: -------- Mapchange to de_shortdust --------
+L 08/19/2022 - 11:06:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/19/2022 - 11:06:35: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/19/2022 - 11:06:35: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/19/2022 - 11:24:13: -------- Mapchange to de_shortdust --------
+L 08/19/2022 - 11:24:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/19/2022 - 11:24:15: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/19/2022 - 11:24:15: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/19/2022 - 11:31:32: -------- Mapchange to de_shortdust --------
+L 08/19/2022 - 11:31:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/19/2022 - 11:31:35: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/19/2022 - 11:31:35: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/19/2022 - 11:58:49: -------- Mapchange to de_shortdust --------
+L 08/19/2022 - 11:58:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/19/2022 - 11:58:51: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/19/2022 - 11:58:51: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/19/2022 - 12:12:10: -------- Mapchange to de_shortdust --------
+L 08/19/2022 - 12:12:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/19/2022 - 12:12:13: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/19/2022 - 12:12:13: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/19/2022 - 12:12:38: [basecommands.smx] "Ho<94><STEAM_1:1:507599331><>" changed map to "overpass"
+L 08/19/2022 - 12:12:41: [SM] Changed map to "overpass"
+L 08/19/2022 - 12:12:43: -------- Mapchange to de_overpass --------
+L 08/19/2022 - 12:12:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/19/2022 - 12:12:45: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/19/2022 - 12:12:45: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/19/2022 - 12:34:48: Log file closed.
+L 08/19/2022 - 12:38:54: SourceMod log file session started (file "/home/csgo/csgo/addons/sourcemod/logs/L20220819.log") (Version "1.12.0.6912")
+L 08/19/2022 - 12:38:54: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/home/csgo/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 08/19/2022 - 12:38:54: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 08/19/2022 - 12:38:54: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 08/19/2022 - 12:38:54: [auto_steam_update.smx] HUD text is supported on this mod. The persistant timer will display.
+L 08/19/2022 - 12:38:57: [warmod.smx] Current Map: de_mirage, Warmod Version: 19.11.21.2253
+L 08/19/2022 - 12:47:16: -------- Mapchange to de_mirage --------
+L 08/19/2022 - 12:47:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/19/2022 - 12:47:18: [warmod.smx] Current Map: de_mirage, Warmod Version: 19.11.21.2253
+L 08/19/2022 - 12:47:18: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/19/2022 - 12:47:18: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/19/2022 - 12:56:20: -------- Mapchange to de_overpass --------
+L 08/19/2022 - 12:56:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/19/2022 - 12:56:23: [warmod.smx] Current Map: de_overpass, Warmod Version: 19.11.21.2253
+L 08/19/2022 - 12:56:23: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/19/2022 - 12:56:23: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/19/2022 - 12:57:36: [basecommands.smx] "piece<7><STEAM_1:1:515004150><>" changed map to "ar_lunacy"
+L 08/19/2022 - 12:57:39: [SM] Changed map to "ar_lunacy"
+L 08/19/2022 - 12:57:40: -------- Mapchange to ar_lunacy --------
+L 08/19/2022 - 12:57:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/19/2022 - 12:57:42: [warmod.smx] Current Map: ar_lunacy, Warmod Version: 19.11.21.2253
+L 08/19/2022 - 12:57:43: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/19/2022 - 12:57:43: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/19/2022 - 12:58:48: [basecommands.smx] "piece<7><STEAM_1:1:515004150><>" changed map to "de_inferno"
+L 08/19/2022 - 12:58:51: [SM] Changed map to "de_inferno"
+L 08/19/2022 - 12:58:54: -------- Mapchange to de_inferno --------
+L 08/19/2022 - 12:58:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/19/2022 - 12:58:56: [warmod.smx] Current Map: de_inferno, Warmod Version: 19.11.21.2253
+L 08/19/2022 - 12:58:56: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/19/2022 - 12:58:56: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/19/2022 - 12:59:26: [basecommands.smx] "piece<7><STEAM_1:1:515004150><>" executed config (file "sm_competitive2v2.cfg")
+L 08/19/2022 - 12:59:46: [basecommands.smx] "Ho<8><STEAM_1:1:507599331><>" changed map to "mirage"
+L 08/19/2022 - 12:59:49: [SM] Changed map to "mirage"
+L 08/19/2022 - 12:59:50: -------- Mapchange to de_mirage --------
+L 08/19/2022 - 12:59:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/19/2022 - 12:59:53: [warmod.smx] Current Map: de_mirage, Warmod Version: 19.11.21.2253
+L 08/19/2022 - 12:59:53: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/19/2022 - 12:59:53: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/19/2022 - 13:00:14: [basecommands.smx] "Ho<8><STEAM_1:1:507599331><>" changed map to "inferno"
+L 08/19/2022 - 13:00:17: [SM] Changed map to "inferno"
+L 08/19/2022 - 13:00:18: -------- Mapchange to de_inferno --------
+L 08/19/2022 - 13:00:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/19/2022 - 13:00:21: [warmod.smx] Current Map: de_inferno, Warmod Version: 19.11.21.2253
+L 08/19/2022 - 13:00:21: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/19/2022 - 13:00:21: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/19/2022 - 13:03:21: [playercommands.smx] "piece<7><STEAM_1:1:515004150><>" slapped "Ho<8><STEAM_1:1:507599331><>" (damage "0")
+L 08/19/2022 - 13:03:21: [playercommands.smx] "piece<7><STEAM_1:1:515004150><>" slapped "Ho<8><STEAM_1:1:507599331><>" (damage "0")
+L 08/19/2022 - 13:03:22: [playercommands.smx] "piece<7><STEAM_1:1:515004150><>" slapped "Ho<8><STEAM_1:1:507599331><>" (damage "0")
+L 08/19/2022 - 13:03:22: [playercommands.smx] "piece<7><STEAM_1:1:515004150><>" slapped "Ho<8><STEAM_1:1:507599331><>" (damage "0")
+L 08/19/2022 - 13:19:49: [basecommands.smx] "别空了<9><STEAM_1:0:110600653><>" executed config (file "sm_competitive.cfg")
+L 08/19/2022 - 13:19:52: [basecommands.smx] "别空了<9><STEAM_1:0:110600653><>" changed map to "bank"
+L 08/19/2022 - 13:19:55: [SM] Changed map to "bank"
+L 08/19/2022 - 13:19:57: -------- Mapchange to de_bank --------
+L 08/19/2022 - 13:19:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/19/2022 - 13:19:59: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/19/2022 - 13:19:59: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/19/2022 - 13:20:47: [basecommands.smx] "Ho<10><STEAM_1:1:507599331><>" executed config (file "sm_competitive.cfg")
+L 08/19/2022 - 13:20:59: [basecommands.smx] "Ho<10><STEAM_1:1:507599331><>" executed config (file "sm_competitive2v2.cfg")
+L 08/19/2022 - 13:20:59: [warmod.smx] Current Map: de_bank, Warmod Version: 19.11.21.2253
+L 08/19/2022 - 13:21:13: [basecommands.smx] "Ho<10><STEAM_1:1:507599331><>" executed config (file "sm_competitive.cfg")
+L 08/19/2022 - 13:21:24: [basecommands.smx] "别空了<9><STEAM_1:0:110600653><>" executed config (file "sm_competitive2v2.cfg")
+L 08/19/2022 - 13:21:24: [warmod.smx] Current Map: de_bank, Warmod Version: 19.11.21.2253
+L 08/19/2022 - 13:21:33: [warmod.smx] "force_start" (player "别空了<9><STEAM_1:0:110600653><>")
+L 08/19/2022 - 13:22:07: [warmod.smx] "force_start" (player "别空了<9><STEAM_1:0:110600653><>")
+L 08/19/2022 - 13:28:12: [basecommands.smx] "别空了<9><STEAM_1:0:110600653><>" changed map to "mir"
+L 08/19/2022 - 13:28:15: [SM] Changed map to "mir"
+L 08/19/2022 - 13:28:16: -------- Mapchange to de_mirage --------
+L 08/19/2022 - 13:28:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/19/2022 - 13:28:19: [warmod.smx] Current Map: de_mirage, Warmod Version: 19.11.21.2253
+L 08/19/2022 - 13:28:19: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/19/2022 - 13:28:19: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/19/2022 - 13:28:35: [basecommands.smx] "Ho<10><STEAM_1:1:507599331><>" executed config (file "sm_competitive.cfg")
+L 08/19/2022 - 13:41:19: -------- Mapchange to de_mirage --------
+L 08/19/2022 - 13:41:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/19/2022 - 13:41:21: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/19/2022 - 13:41:21: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/19/2022 - 13:43:33: -------- Mapchange to de_mirage --------
+L 08/19/2022 - 13:43:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/19/2022 - 13:43:36: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/19/2022 - 13:43:36: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/19/2022 - 14:23:33: -------- Mapchange to de_mirage --------
+L 08/19/2022 - 14:23:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/19/2022 - 14:23:36: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/19/2022 - 14:23:36: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/19/2022 - 14:32:48: [basecommands.smx] "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" kicked "她还是那么温柔<23><STEAM_1:1:580302693><>" (reason "")
+L 08/19/2022 - 14:34:58: [sbpp_comms.smx] "Voi<22><STEAM_1:1:515004150><>" silenced "dsgxc<20><STEAM_1:0:672438408><>" (minutes "30") (reason "Obscene language")
+L 08/19/2022 - 14:41:29: [basecommands.smx] "Voi<22><STEAM_1:1:515004150><>" kicked "MMYY<28><STEAM_1:0:712699712><>" (reason "")
+L 08/19/2022 - 14:42:04: [basecommands.smx] "需要无敌OP参数+1542574<25><STEAM_1:0:554871381><>" kicked "airflow<29><STEAM_1:0:168047671><>" (reason "")
+L 08/19/2022 - 14:43:15: [sbpp_comms.smx] "Voi<22><STEAM_1:1:515004150><>" silenced "哥的低调，不是你们装B<21><STEAM_1:1:592608876><>" (minutes "30") (reason "Insult players")
+L 08/19/2022 - 14:43:53: [basecomm.smx] "需要无敌OP参数+1542574<25><STEAM_1:0:554871381><>" unmuted "哥的低调，不是你们装B<21><STEAM_1:1:592608876><>"
+L 08/19/2022 - 14:44:05: [basecomm.smx] "需要无敌OP参数+1542574<25><STEAM_1:0:554871381><>" muted "哥的低调，不是你们装B<21><STEAM_1:1:592608876><>"
+L 08/19/2022 - 14:44:27: [sbpp_comms.smx] "Voi<22><STEAM_1:1:515004150><>" unmuted "哥的低调，不是你们装B<21><STEAM_1:1:592608876><>" (reason "")
+L 08/19/2022 - 14:44:27: [sbpp_comms.smx] "Voi<22><STEAM_1:1:515004150><>" ungagged "哥的低调，不是你们装B<21><STEAM_1:1:592608876><>" (reason "")
+L 08/19/2022 - 14:44:27: [sbpp_comms.smx] "Voi<22><STEAM_1:1:515004150><>" unmuted "哥的低调，不是你们装B<21><STEAM_1:1:592608876><>" (reason "")
+L 08/19/2022 - 14:44:27: [sbpp_comms.smx] "Voi<22><STEAM_1:1:515004150><>" removed mute for STEAM_1:1:592608876 from DB
+L 08/19/2022 - 14:44:27: [sbpp_comms.smx] "Voi<22><STEAM_1:1:515004150><>" removed gag for STEAM_1:1:592608876 from DB
+L 08/19/2022 - 14:44:27: [sbpp_comms.smx] "Voi<22><STEAM_1:1:515004150><>" removed mute for STEAM_1:1:592608876 from DB
+L 08/19/2022 - 14:44:38: [sbpp_comms.smx] "Voi<22><STEAM_1:1:515004150><>" unmuted "dsgxc<20><STEAM_1:0:672438408><>" (reason "")
+L 08/19/2022 - 14:44:38: [sbpp_comms.smx] "Voi<22><STEAM_1:1:515004150><>" ungagged "dsgxc<20><STEAM_1:0:672438408><>" (reason "")
+L 08/19/2022 - 14:44:38: [sbpp_comms.smx] "Voi<22><STEAM_1:1:515004150><>" removed mute for STEAM_1:0:672438408 from DB
+L 08/19/2022 - 14:44:38: [sbpp_comms.smx] "Voi<22><STEAM_1:1:515004150><>" removed gag for STEAM_1:0:672438408 from DB
+L 08/19/2022 - 14:45:31: [basecomm.smx] "需要无敌OP参数+1542574<25><STEAM_1:0:554871381><>" muted "哥的低调，不是你们装B<21><STEAM_1:1:592608876><>"
+L 08/19/2022 - 14:46:46: [playercommands.smx] "需要无敌OP参数+1542574<25><STEAM_1:0:554871381><>" slapped "哥的低调，不是你们装B<21><STEAM_1:1:592608876><>" (damage "99")
+L 08/19/2022 - 14:47:12: [basecommands.smx] "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" kicked "需要无敌OP参数+1542574<25><STEAM_1:0:554871381><>" (reason "")
+L 08/19/2022 - 14:56:06: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:06: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:06: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:06: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:06: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:07: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:07: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:07: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:07: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:07: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:07: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:08: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:08: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:08: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:08: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:08: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:08: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:09: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:09: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:09: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:09: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:09: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:09: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:10: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:10: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:10: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:10: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:10: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:10: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:11: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:11: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:11: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:11: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:11: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:11: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:12: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:12: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:12: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:12: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:12: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:12: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:12: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:13: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:13: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:13: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:13: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:13: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:14: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:14: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:14: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:14: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:14: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:14: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:15: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:15: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:15: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:15: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:15: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:16: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:16: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:16: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:16: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "0")
+L 08/19/2022 - 14:56:18: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:18: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:18: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:18: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:18: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:19: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:19: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:19: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:19: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:19: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:19: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:20: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:20: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:20: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:20: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:20: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:21: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:21: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:21: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:21: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:21: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:21: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:22: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:22: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:22: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:22: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:22: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:23: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:23: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:23: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:23: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:23: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:24: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:24: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:24: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:24: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:24: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:24: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:25: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:25: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:25: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:25: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:26: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:27: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:28: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:29: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:29: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:29: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:29: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:30: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:30: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:30: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:30: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:30: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:30: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:31: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:31: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:31: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:31: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:31: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:31: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:31: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:31: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:31: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:32: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:32: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:32: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:32: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:32: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:35: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:36: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:37: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:37: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:37: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:37: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:37: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:37: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:38: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:38: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:38: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:38: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:41: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:41: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:41: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:41: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:41: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:41: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:41: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:42: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:42: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:42: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:42: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:42: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:42: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:42: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:42: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:42: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:42: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:42: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:43: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:43: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:43: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:43: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:43: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:43: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:43: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:43: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:43: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:43: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:44: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:44: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:44: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:44: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:44: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:44: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:44: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:44: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:44: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:45: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:45: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:45: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:45: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:45: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:45: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:45: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:45: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:45: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:45: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:46: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:46: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:46: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:46: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:46: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:46: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:46: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:46: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:46: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:46: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:47: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:47: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:47: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:47: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:47: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:47: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:47: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:47: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:47: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:47: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:48: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (damage "1")
+L 08/19/2022 - 14:56:48: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:48: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:48: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:48: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:48: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:48: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:48: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:49: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:49: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:49: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:56:49: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (damage "1")
+L 08/19/2022 - 14:56:49: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "1")
+L 08/19/2022 - 14:57:12: [funcommands.smx] "Voi<22><STEAM_1:1:515004150><>" ignited "需要无敌参数+1542574<18><STEAM_1:0:110600653><>" (seconds "20.000000")
+L 08/19/2022 - 14:57:12: [funcommands.smx] "Voi<22><STEAM_1:1:515004150><>" ignited "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>" (seconds "20.000000")
+L 08/19/2022 - 14:57:12: [funcommands.smx] "Voi<22><STEAM_1:1:515004150><>" ignited "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (seconds "20.000000")
+L 08/19/2022 - 14:57:18: [funcommands.smx] "Voi<22><STEAM_1:1:515004150><>" drugged "需要无敌参数+1542574<18><STEAM_1:0:110600653><>"
+L 08/19/2022 - 14:57:18: [funcommands.smx] "Voi<22><STEAM_1:1:515004150><>" drugged "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>"
+L 08/19/2022 - 14:57:18: [funcommands.smx] "Voi<22><STEAM_1:1:515004150><>" drugged "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>"
+L 08/19/2022 - 14:57:20: [funcommands.smx] "Voi<22><STEAM_1:1:515004150><>" froze "需要无敌参数+1542574<18><STEAM_1:0:110600653><>"
+L 08/19/2022 - 14:57:21: [funcommands.smx] "Voi<22><STEAM_1:1:515004150><>" froze "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>"
+L 08/19/2022 - 14:57:21: [funcommands.smx] "Voi<22><STEAM_1:1:515004150><>" froze "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>"
+L 08/19/2022 - 14:57:47: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 14:57:47: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 14:57:47: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 14:57:47: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 14:57:47: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 14:57:48: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 14:57:48: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 14:57:48: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 14:57:48: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 14:57:48: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 14:57:49: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 14:57:49: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 14:57:49: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 14:57:49: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 14:57:49: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 14:57:50: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 14:57:50: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 14:57:50: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 14:57:50: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 14:57:50: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 14:57:51: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 14:57:52: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 14:57:52: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slayed "需要无敌参数+1542574<18><STEAM_1:0:110600653><>"
+L 08/19/2022 - 14:57:52: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slayed "Voi<22><STEAM_1:1:515004150><>"
+L 08/19/2022 - 14:57:53: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slayed "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>"
+L 08/19/2022 - 14:57:53: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slayed "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>"
+L 08/19/2022 - 14:59:53: [funcommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" set gravity on "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (amount "0.100000")
+L 08/19/2022 - 15:00:13: [funcommands.smx] "Voi<22><STEAM_1:1:515004150><>" set a TimeBomb on "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>"
+L 08/19/2022 - 15:00:13: [funcommands.smx] "Voi<22><STEAM_1:1:515004150><>" set a TimeBomb on "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>"
+L 08/19/2022 - 15:00:29: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slayed "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>"
+L 08/19/2022 - 15:00:29: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slayed "Voi<22><STEAM_1:1:515004150><>"
+L 08/19/2022 - 15:00:30: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slayed "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>"
+L 08/19/2022 - 15:00:34: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slayed "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>"
+L 08/19/2022 - 15:00:34: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slayed "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>"
+L 08/19/2022 - 15:00:34: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slayed "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>"
+L 08/19/2022 - 15:00:35: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:36: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:36: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:36: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:36: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:36: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:37: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:37: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:37: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:37: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:38: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:38: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:38: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:38: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:38: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:39: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:39: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:39: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:39: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:39: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:40: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:40: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:40: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:40: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:41: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:41: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:41: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:41: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:41: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:42: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:43: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:43: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:43: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:43: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slayed "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>"
+L 08/19/2022 - 15:00:43: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:44: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slayed "Voi<22><STEAM_1:1:515004150><>"
+L 08/19/2022 - 15:00:44: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slayed "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>"
+L 08/19/2022 - 15:00:48: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:48: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:00:48: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:00:48: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:00:50: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:50: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:50: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:50: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:51: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:51: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:51: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:52: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:52: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:52: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:53: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:00:54: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:00:54: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:00:55: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:00:55: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:00:57: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:00:57: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:00:57: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:00:57: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:00:57: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:00:58: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:00:58: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:01:00: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:01:00: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:01:00: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:01:00: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:01:01: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:01:01: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:01:01: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:01:01: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:01:02: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:01:02: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:01:02: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:01:02: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:01:02: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:01:03: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:01:03: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:01:03: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:01:03: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:01:04: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (damage "0")
+L 08/19/2022 - 15:01:05: [playercommands.smx] "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" slapped "Voi<22><STEAM_1:1:515004150><>" (damage "0")
+L 08/19/2022 - 15:08:12: [movecommands.smx] "4mmeqif9q<33><STEAM_1:1:597036256><>" was moved to Spec by "Voi<22><STEAM_1:1:515004150><>"
+L 08/19/2022 - 15:10:17: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slayed "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>"
+L 08/19/2022 - 15:10:17: [playercommands.smx] "Voi<22><STEAM_1:1:515004150><>" slayed "需要无敌狂暴AANL参数+1542574<19><STEAM_1:0:186191751><>"
+L 08/19/2022 - 15:10:33: [sbpp_main.smx] "Voi<22><STEAM_1:1:515004150><>" banned "需要无敌OP参数+1542574<31><STEAM_1:0:554871381><>" (minutes "10") (reason "我草你妈")
+L 08/19/2022 - 15:17:23: SourceMod log file session started (file "/home/csgo/csgo/addons/sourcemod/logs/L20220819.log") (Version "1.12.0.6912")
+L 08/19/2022 - 15:17:23: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/home/csgo/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 08/19/2022 - 15:17:23: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 08/19/2022 - 15:17:23: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 08/19/2022 - 15:17:23: [auto_steam_update.smx] HUD text is supported on this mod. The persistant timer will display.
+L 08/19/2022 - 15:17:26: [warmod.smx] Current Map: de_mirage, Warmod Version: 19.11.21.2253
+L 08/19/2022 - 15:18:00: -------- Mapchange to de_mirage --------
+L 08/19/2022 - 15:18:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/19/2022 - 15:18:02: [warmod.smx] Current Map: de_mirage, Warmod Version: 19.11.21.2253
+L 08/19/2022 - 15:18:02: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/19/2022 - 15:18:02: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/19/2022 - 15:20:20: SourceMod log file session started (file "/home/csgo/csgo/addons/sourcemod/logs/L20220819.log") (Version "1.12.0.6912")
+L 08/19/2022 - 15:20:20: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/home/csgo/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 08/19/2022 - 15:20:20: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 08/19/2022 - 15:20:20: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 08/19/2022 - 15:20:20: [auto_steam_update.smx] HUD text is supported on this mod. The persistant timer will display.
+L 08/19/2022 - 15:20:22: [warmod.smx] Current Map: de_mirage, Warmod Version: 19.11.21.2253
+L 08/19/2022 - 15:23:06: -------- Mapchange to de_mirage --------
+L 08/19/2022 - 15:23:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/19/2022 - 15:23:08: [warmod.smx] Current Map: de_mirage, Warmod Version: 19.11.21.2253
+L 08/19/2022 - 15:23:08: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/19/2022 - 15:23:08: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/19/2022 - 15:58:11: SourceMod log file session started (file "/home/csgo/csgo/addons/sourcemod/logs/L20220819.log") (Version "1.12.0.6912")
+L 08/19/2022 - 15:58:11: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (/home/csgo/csgo/addons/sourcemod/configs/geoip/GeoLite2-City.mmdb)
+L 08/19/2022 - 15:58:11: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 08/19/2022 - 15:58:11: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 08/19/2022 - 15:58:11: [auto_steam_update.smx] HUD text is supported on this mod. The persistant timer will display.
+L 08/19/2022 - 15:58:13: [warmod.smx] Current Map: de_mirage, Warmod Version: 19.11.21.2253
+L 08/19/2022 - 16:12:54: -------- Mapchange to de_mirage --------
+L 08/19/2022 - 16:12:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/19/2022 - 16:12:57: [warmod.smx] Current Map: de_mirage, Warmod Version: 19.11.21.2253
+L 08/19/2022 - 16:12:57: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/19/2022 - 16:12:57: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/19/2022 - 16:25:09: -------- Mapchange to de_mirage --------
+L 08/19/2022 - 16:25:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 08/19/2022 - 16:25:11: [warmod.smx] Current Map: de_mirage, Warmod Version: 19.11.21.2253
+L 08/19/2022 - 16:25:11: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 08/19/2022 - 16:25:11: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 08/20/2022 - 16:55:45: Log file closed.

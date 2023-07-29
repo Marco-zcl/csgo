@@ -1,0 +1,16 @@
+L 07/30/2022 - 14:54:38: SourceMod error session started
+L 07/30/2022 - 14:54:38: Info (map "de_mirage") (file "/home/csgo5/csgo/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 14:54:38: [c5_pug.smx] GOTV demo could not be recorded since tv_enable is not set to 1
+L 07/30/2022 - 16:20:09: Error log file session closed.
+L 07/30/2022 - 16:20:13: SourceMod error session started
+L 07/30/2022 - 16:20:13: Info (map "de_mirage") (file "/home/csgo5/csgo/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 16:20:13: [SM] Exception reported: Client 1 is not in game
+L 07/30/2022 - 16:20:13: [SM] Blaming: c5_pug_voteend.smx
+L 07/30/2022 - 16:20:13: [SM] Call stack trace:
+L 07/30/2022 - 16:20:13: [SM]   [0] GetClientTeam
+L 07/30/2022 - 16:20:13: [SM]   [1] Line 56, F:\Code\sourcepawn\addons\sourcemod\scripting\c5_pug_voteend.sp::OnClientDisconnect
+L 07/30/2022 - 16:24:02: Error log file session closed.
+L 07/30/2022 - 16:24:30: SourceMod error session started
+L 07/30/2022 - 16:24:30: Info (map "de_mirage") (file "/home/csgo5/csgo/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 16:24:30: [c5_pug.smx] GOTV demo could not be recorded since tv_enable is not set to 1
+L 07/30/2022 - 16:34:35: Error log file session closed.

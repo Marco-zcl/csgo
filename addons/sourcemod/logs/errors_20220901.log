@@ -1,0 +1,30 @@
+L 09/01/2022 - 16:04:05: SourceMod error session started
+L 09/01/2022 - 16:04:05: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220901.log")
+L 09/01/2022 - 16:04:05: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/01/2022 - 16:04:05: [SM] Blaming: weapon_restrict.smx
+L 09/01/2022 - 16:04:05: [SM] Call stack trace:
+L 09/01/2022 - 16:04:05: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/01/2022 - 18:32:35: Error log file session closed.
+L 09/01/2022 - 18:35:41: SourceMod error session started
+L 09/01/2022 - 18:35:41: Info (map "de_mirage") (file "/home/csgo/csgo/addons/sourcemod/logs/errors_20220901.log")
+L 09/01/2022 - 18:35:41: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/01/2022 - 18:35:41: [SM] Blaming: weapon_restrict.smx
+L 09/01/2022 - 18:35:41: [SM] Call stack trace:
+L 09/01/2022 - 18:35:41: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/01/2022 - 18:38:01: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/01/2022 - 18:38:01: [SM] Blaming: weapon_restrict.smx
+L 09/01/2022 - 18:38:01: [SM] Call stack trace:
+L 09/01/2022 - 18:38:01: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/01/2022 - 18:40:30: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/01/2022 - 18:40:30: [SM] Blaming: weapon_restrict.smx
+L 09/01/2022 - 18:40:30: [SM] Call stack trace:
+L 09/01/2022 - 18:40:30: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/01/2022 - 18:52:02: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/01/2022 - 18:52:02: [SM] Blaming: weapon_restrict.smx
+L 09/01/2022 - 18:52:02: [SM] Call stack trace:
+L 09/01/2022 - 18:52:02: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/01/2022 - 18:54:14: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/01/2022 - 18:54:14: [SM] Blaming: weapon_restrict.smx
+L 09/01/2022 - 18:54:14: [SM] Call stack trace:
+L 09/01/2022 - 18:54:14: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/01/2022 - 22:13:07: Error log file session closed.

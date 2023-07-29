@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"DamageprintFormat"
+	{
+		"en"		"--> TO{HITS_TO}HITS{DMG_TO}DMG FROM{HITS_FROM}HITS{DMG_FROM}DMG {HEALTH}HP LEFT {NAME}"
+		"chi"		"--> 命中{HITS_TO}次{DMG_TO}伤害 被击中{HITS_FROM}次{DMG_FROM}伤害 剩{HEALTH}HP {NAME}"
+	}
+}

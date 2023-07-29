@@ -1,0 +1,121 @@
+L 08/07/2022 - 01:20:04: SourceMod log file session started (file "/home/csgo/csgo/addons/sourcemod/logs/L20220807.log") (Version "1.12.0.6912")
+L 08/07/2022 - 01:20:04: [basecommands.smx] "11<6><STEAM_1:0:584945062><>" changed cvar (cvar "game_mode") (value "2")
+L 08/07/2022 - 01:20:12: -------- Mapchange to de_vertigo --------
+L 08/07/2022 - 01:22:37: [basecommands.smx] "11<6><STEAM_1:0:584945062><>" changed cvar (cvar "mp_maxrounds") (value "16")
+L 08/07/2022 - 01:32:18: [basecommands.smx] "11<6><STEAM_1:0:584945062><>" changed map to "nuke"
+L 08/07/2022 - 01:32:21: [SM] Changed map to "nuke"
+L 08/07/2022 - 01:32:22: -------- Mapchange to de_shortnuke --------
+L 08/07/2022 - 01:54:08: -------- Mapchange to de_shortnuke --------
+L 08/07/2022 - 03:57:02: -------- Mapchange to de_shortnuke --------
+L 08/07/2022 - 03:57:46: [basecommands.smx] "代出CAPPER NL SK<16><STEAM_1:0:584945062><>" changed cvar (cvar "game_mode") (value "1")
+L 08/07/2022 - 03:57:49: [basecommands.smx] "代出CAPPER NL SK<16><STEAM_1:0:584945062><>" changed map to "mir"
+L 08/07/2022 - 03:57:52: [SM] Changed map to "mir"
+L 08/07/2022 - 03:57:53: -------- Mapchange to de_mirage --------
+L 08/07/2022 - 10:48:16: -------- Mapchange to de_mirage --------
+L 08/07/2022 - 13:39:49: -------- Mapchange to de_mirage --------
+L 08/07/2022 - 14:13:05: -------- Mapchange to de_mirage --------
+L 08/07/2022 - 14:43:17: -------- Mapchange to de_mirage --------
+L 08/07/2022 - 14:48:06: [basecommands.smx] "七十岁hvh土拨申请出战<21><STEAM_1:0:110600653><>" changed cvar (cvar "game_mode") (value "2")
+L 08/07/2022 - 14:48:34: -------- Mapchange to de_inferno --------
+L 08/07/2022 - 15:07:50: [basecommands.smx] "七十岁hvh土拨申请出战<21><STEAM_1:0:110600653><>" changed map to "mir"
+L 08/07/2022 - 15:07:53: [SM] Changed map to "mir"
+L 08/07/2022 - 15:07:54: -------- Mapchange to de_mirage --------
+L 08/07/2022 - 15:37:47: -------- Mapchange to de_mirage --------
+L 08/07/2022 - 15:49:44: -------- Mapchange to de_mirage --------
+L 08/07/2022 - 17:44:21: -------- Mapchange to de_mirage --------
+L 08/07/2022 - 18:04:29: [basecommands.smx] "七十岁hvh土拨申请出战<29><STEAM_1:0:110600653><>" changed map to "mir"
+L 08/07/2022 - 18:04:32: [SM] Changed map to "mir"
+L 08/07/2022 - 18:04:33: -------- Mapchange to de_mirage --------
+L 08/07/2022 - 18:45:24: [basecommands.smx] "七十岁hvh土拨申请出战<29><STEAM_1:0:110600653><>" changed map to "mir"
+L 08/07/2022 - 18:45:27: [SM] Changed map to "mir"
+L 08/07/2022 - 18:45:28: -------- Mapchange to de_mirage --------
+L 08/07/2022 - 18:51:18: [basechat.smx] "七十岁hvh土拨申请出战<29><STEAM_1:0:110600653><>" triggered sm_say (text 蹲着过)
+L 08/07/2022 - 18:51:26: [basechat.smx] "七十岁hvh土拨申请出战<29><STEAM_1:0:110600653><>" triggered sm_say (text 开覆盖)
+L 08/07/2022 - 18:51:39: [basechat.smx] "七十岁hvh土拨申请出战<29><STEAM_1:0:110600653><>" triggered sm_say (text 进包点)
+L 08/07/2022 - 18:51:43: [basechat.smx] "七十岁hvh土拨申请出战<29><STEAM_1:0:110600653><>" triggered sm_say (text 飞)
+L 08/07/2022 - 18:51:49: [basechat.smx] "七十岁hvh土拨申请出战<29><STEAM_1:0:110600653><>" triggered sm_say (text ？)
+L 08/07/2022 - 18:51:51: [basechat.smx] "七十岁hvh土拨申请出战<29><STEAM_1:0:110600653><>" triggered sm_say (text 你闪现啊)
+L 08/07/2022 - 18:51:52: [basechat.smx] "Tea waste<32><STEAM_1:1:606406621><>" triggered sm_say (text 13)
+L 08/07/2022 - 18:52:00: [basechat.smx] "Tea waste<32><STEAM_1:1:606406621><>" triggered sm_say (text 下去)
+L 08/07/2022 - 18:52:07: [basechat.smx] "Tea waste<32><STEAM_1:1:606406621><>" triggered sm_say (text 从那个台子先下去，再飞)
+L 08/07/2022 - 18:53:43: [basechat.smx] "Tea waste<32><STEAM_1:1:606406621><>" triggered sm_say (text 哈哈)
+L 08/07/2022 - 18:53:48: [basechat.smx] "Tea waste<32><STEAM_1:1:606406621><>" triggered sm_say (text 笨比芮子)
+L 08/07/2022 - 18:53:59: [basechat.smx] "你妈死<29><STEAM_1:0:110600653><>" triggered sm_say (text 要不要我来帮你展示他)
+L 08/07/2022 - 18:54:00: [basechat.smx] "Tea waste<32><STEAM_1:1:606406621><>" triggered sm_say (text 666)
+L 08/07/2022 - 18:54:16: [basechat.smx] "你妈死<29><STEAM_1:0:110600653><>" triggered sm_say (text 看见双枪哥就想笑)
+L 08/07/2022 - 18:54:32: [basechat.smx] "你妈死<29><STEAM_1:0:110600653><>" triggered sm_say (text 这么大身子这要是我他已经死无数回了啊哦)
+L 08/07/2022 - 18:55:16: [basechat.smx] "你妈死<29><STEAM_1:0:110600653><>" triggered sm_say (text ......)
+L 08/07/2022 - 18:57:07: [basechat.smx] "你妈死<29><STEAM_1:0:110600653><>" triggered sm_say (text 在这欺负人呢)
+L 08/07/2022 - 18:57:15: [basechat.smx] "Tea waste<32><STEAM_1:1:606406621><>" triggered sm_say (text 巫术说他也想开个服，但是他自己有技术员)
+L 08/07/2022 - 18:57:19: [basechat.smx] "Tea waste<32><STEAM_1:1:606406621><>" triggered sm_say (text 看看他开成啥样子吧)
+L 08/07/2022 - 18:57:26: [basechat.smx] "你妈死<29><STEAM_1:0:110600653><>" triggered sm_say (text 他说开完给我一个OP)
+L 08/07/2022 - 18:57:50: [basechat.smx] "Tea waste<32><STEAM_1:1:606406621><>" triggered sm_say (text 我没给你op是咋的)
+L 08/07/2022 - 18:57:54: [basechat.smx] "Tea waste<32><STEAM_1:1:606406621><>" triggered sm_say (text (流汗黄豆))
+L 08/07/2022 - 18:58:20: [basechat.smx] "你妈死<29><STEAM_1:0:110600653><>" triggered sm_say (text 这指定是换参数了)
+L 08/07/2022 - 18:58:24: [basechat.smx] "你妈死<29><STEAM_1:0:110600653><>" triggered sm_say (text 这AA都变了)
+L 08/07/2022 - 18:59:39: [basechat.smx] "你妈死<29><STEAM_1:0:110600653><>" triggered sm_say (text 芮子是不是换参数了)
+L 08/07/2022 - 19:00:10: [basechat.smx] "你妈死<29><STEAM_1:0:110600653><>" triggered sm_say (text 参数问题)
+L 08/07/2022 - 19:03:50: [basechat.smx] "Tea waste<32><STEAM_1:1:606406621><>" triggered sm_say (text 芮子被电了几次了)
+L 08/07/2022 - 19:03:57: [basechat.smx] "你妈死<29><STEAM_1:0:110600653><>" triggered sm_say (text 挺欺负人的)
+L 08/07/2022 - 19:04:00: [basechat.smx] "你妈死<29><STEAM_1:0:110600653><>" triggered sm_say (text 有一说一)
+L 08/07/2022 - 19:04:19: [basechat.smx] "Tea waste<32><STEAM_1:1:606406621><>" triggered sm_say (text 我可以嘲笑你吗)
+L 08/07/2022 - 19:04:23: [basechat.smx] "Tea waste<32><STEAM_1:1:606406621><>" triggered sm_say (text 芮子)
+L 08/07/2022 - 19:04:34: [basechat.smx] "你妈死<29><STEAM_1:0:110600653><>" triggered sm_say (text 我说话他们听不见)
+L 08/07/2022 - 19:04:37: [basechat.smx] "Tea waste<32><STEAM_1:1:606406621><>" triggered sm_say (text 我偏不)
+L 08/07/2022 - 19:04:39: [basechat.smx] "Tea waste<32><STEAM_1:1:606406621><>" triggered sm_say (text 哈哈哈哈哈哈哈)
+L 08/07/2022 - 19:04:52: [basechat.smx] "你妈死<29><STEAM_1:0:110600653><>" triggered sm_say (text 芮子用的什么cfg)
+L 08/07/2022 - 19:04:56: [basechat.smx] "你妈死<29><STEAM_1:0:110600653><>" triggered sm_say (text 这么吊)
+L 08/07/2022 - 19:05:02: [basechat.smx] "你妈死<29><STEAM_1:0:110600653><>" triggered sm_say (text hhh)
+L 08/07/2022 - 19:05:09: [basechat.smx] "你妈死<29><STEAM_1:0:110600653><>" triggered sm_say (text 看来你还是用不习惯我的)
+L 08/07/2022 - 19:05:15: [basechat.smx] "你妈死<29><STEAM_1:0:110600653><>" triggered sm_say (text 你等我看我跟小D打一把)
+L 08/07/2022 - 19:05:27: [basechat.smx] "你妈死<29><STEAM_1:0:110600653><>" triggered sm_say (text 塔子这个B参数)
+L 08/07/2022 - 19:05:40: [basechat.smx] "你妈死<29><STEAM_1:0:110600653><>" triggered sm_say (text 他站楼梯拿电枪)
+L 08/07/2022 - 19:06:00: [basechat.smx] "你妈死<29><STEAM_1:0:110600653><>" triggered sm_say (text 我都开枪打他头了你不开枪还得覆盖洗)
+L 08/07/2022 - 19:06:31: [basechat.smx] "你妈死<29><STEAM_1:0:110600653><>" triggered sm_say (text ......)
+L 08/07/2022 - 19:06:42: [basechat.smx] "你妈死<29><STEAM_1:0:110600653><>" triggered sm_say (text 希望我一会也能拿小D6分)
+L 08/07/2022 - 19:08:26: [basecommands.smx] "你妈死<29><STEAM_1:0:110600653><>" changed cvar (cvar "game_mode") (value "1")
+L 08/07/2022 - 19:10:05: [basechat.smx] "你妈死<29><STEAM_1:0:110600653><>" triggered sm_say (text 铁头：这个T起码是四毛八水平的)
+L 08/07/2022 - 19:11:04: [basechat.smx] "你妈死<29><STEAM_1:0:110600653><>" triggered sm_say (text T很厉害啊)
+L 08/07/2022 - 19:11:09: [basechat.smx] "你妈死<29><STEAM_1:0:110600653><>" triggered sm_say (text T能不能代出我)
+L 08/07/2022 - 19:14:52: [basechat.smx] "Tea waste<32><STEAM_1:1:606406621><>" triggered sm_say (text 怎么就15:7了)
+L 08/07/2022 - 19:15:08: [basechat.smx] "Tea waste<32><STEAM_1:1:606406621><>" triggered sm_say (text 我刚才在忙着跟做模型的谈你那个翅膀的制作细节)
+L 08/07/2022 - 19:15:22: [basecommands.smx] "你妈死<29><STEAM_1:0:110600653><>" changed map to "inf"
+L 08/07/2022 - 19:15:25: [SM] Changed map to "inf"
+L 08/07/2022 - 19:15:26: -------- Mapchange to de_inferno --------
+L 08/07/2022 - 19:16:38: [basecommands.smx] "你妈死<29><STEAM_1:0:110600653><>" kicked "铁头<35><STEAM_1:1:635526756><>" (reason "")
+L 08/07/2022 - 19:35:46: [basecommands.smx] "你妈死<29><STEAM_1:0:110600653><>" changed map to "mir"
+L 08/07/2022 - 19:35:49: [SM] Changed map to "mir"
+L 08/07/2022 - 19:35:50: -------- Mapchange to de_mirage --------
+L 08/07/2022 - 19:47:40: [basechat.smx] "black pin<37><STEAM_1:0:515881234><>" triggered sm_say (text nl这个挂就这么傻逼)
+L 08/07/2022 - 19:47:44: [basechat.smx] "black pin<37><STEAM_1:0:515881234><>" triggered sm_say (text 看运气的)
+L 08/07/2022 - 19:48:08: [basechat.smx] "black pin<37><STEAM_1:0:515881234><>" triggered sm_say (text nl的确傻逼)
+L 08/07/2022 - 19:49:07: [basechat.smx] "black pin<37><STEAM_1:0:515881234><>" triggered sm_say (text 你这个参数怎么了 怎么失灵了)
+L 08/07/2022 - 19:49:18: [basechat.smx] "black pin<37><STEAM_1:0:515881234><>" triggered sm_say (text 6)
+L 08/07/2022 - 20:04:46: [basecommands.smx] "你妈死<29><STEAM_1:0:110600653><>" changed map to "mir"
+L 08/07/2022 - 20:04:49: [SM] Changed map to "mir"
+L 08/07/2022 - 20:04:50: -------- Mapchange to de_mirage --------
+L 08/07/2022 - 20:12:01: -------- Mapchange to de_mirage --------
+L 08/07/2022 - 20:14:56: [basecommands.smx] "black flash<40><STEAM_1:0:515881234><>" changed map to "inf"
+L 08/07/2022 - 20:14:59: [SM] Changed map to "inf"
+L 08/07/2022 - 20:15:00: -------- Mapchange to de_inferno --------
+L 08/07/2022 - 20:15:56: [basecommands.smx] "你妈死<41><STEAM_1:0:110600653><>" changed cvar (cvar "game_mode") (value "2")
+L 08/07/2022 - 20:16:02: [basecommands.smx] "你妈死<41><STEAM_1:0:110600653><>" changed map to "inf"
+L 08/07/2022 - 20:16:05: [SM] Changed map to "inf"
+L 08/07/2022 - 20:16:06: -------- Mapchange to de_inferno --------
+L 08/07/2022 - 20:56:50: [basecommands.smx] "你妈死<41><STEAM_1:0:110600653><>" changed map to "mir"
+L 08/07/2022 - 20:56:53: [SM] Changed map to "mir"
+L 08/07/2022 - 20:56:54: -------- Mapchange to de_mirage --------
+L 08/07/2022 - 20:57:40: [basecommands.smx] "black flash<40><STEAM_1:0:515881234><>" changed map to "ver"
+L 08/07/2022 - 20:57:43: [SM] Changed map to "ver"
+L 08/07/2022 - 20:57:44: -------- Mapchange to de_vertigo --------
+L 08/07/2022 - 21:06:05: -------- Mapchange to de_nuke --------
+L 08/07/2022 - 21:06:37: [basecommands.smx] "你妈死<41><STEAM_1:0:110600653><>" changed map to "ver"
+L 08/07/2022 - 21:06:40: [SM] Changed map to "ver"
+L 08/07/2022 - 21:06:41: -------- Mapchange to de_vertigo --------
+L 08/07/2022 - 21:44:16: [basecommands.smx] "你妈死<41><STEAM_1:0:110600653><>" changed map to "mir"
+L 08/07/2022 - 21:44:19: [SM] Changed map to "mir"
+L 08/07/2022 - 21:44:20: -------- Mapchange to de_mirage --------
+L 08/07/2022 - 23:43:07: -------- Mapchange to de_mirage --------
+L 08/07/2022 - 23:57:52: -------- Mapchange to de_mirage --------
+L 08/07/2022 - 23:59:32: -------- Mapchange to de_mirage --------
+L 08/08/2022 - 00:00:37: Log file closed.

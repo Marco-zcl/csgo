@@ -1,0 +1,18 @@
+L 09/12/2022 - 06:48:16: SourceMod error session started
+L 09/12/2022 - 06:48:16: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20220912.log")
+L 09/12/2022 - 06:48:16: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/12/2022 - 06:48:16: [SM] Blaming: weapon_restrict.smx
+L 09/12/2022 - 06:48:16: [SM] Call stack trace:
+L 09/12/2022 - 06:48:16: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/12/2022 - 07:20:42: Error log file session closed.
+L 09/12/2022 - 07:36:16: SourceMod error session started
+L 09/12/2022 - 07:36:16: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20220912.log")
+L 09/12/2022 - 07:36:16: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 09/12/2022 - 07:36:16: [SM] Blaming: weapon_restrict.smx
+L 09/12/2022 - 07:36:16: [SM] Call stack trace:
+L 09/12/2022 - 07:36:16: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 09/12/2022 - 07:47:17: Error log file session closed.
+L 09/12/2022 - 13:30:54: SourceMod error session started
+L 09/12/2022 - 13:30:54: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20220912.log")
+L 09/12/2022 - 13:30:54: [warmod.smx] Plug-in tEasyFTP.smx required to auto upload demos
+L 09/12/2022 - 13:54:29: Error log file session closed.

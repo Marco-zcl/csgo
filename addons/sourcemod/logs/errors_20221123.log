@@ -1,0 +1,10 @@
+L 11/23/2022 - 20:38:59: SourceMod error session started
+L 11/23/2022 - 20:38:59: Info (map "de_mirage") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221123.log")
+L 11/23/2022 - 20:38:59: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 11/23/2022 - 20:38:59: [admin-flatfile.smx]  (line 64) Invalid flag detected: x
+L 11/23/2022 - 20:55:29: Error log file session closed.
+L 11/23/2022 - 20:55:29: SourceMod error session started
+L 11/23/2022 - 20:55:29: Info (map "de_mirage") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221123.log")
+L 11/23/2022 - 20:55:29: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 11/23/2022 - 20:55:29: [admin-flatfile.smx]  (line 64) Invalid flag detected: x
+L 11/24/2022 - 11:42:01: Error log file session closed.

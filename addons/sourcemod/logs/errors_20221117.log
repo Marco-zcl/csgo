@@ -1,0 +1,129 @@
+L 11/17/2022 - 11:08:01: SourceMod error session started
+L 11/17/2022 - 11:08:01: Info (map "de_mirage") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221117.log")
+L 11/17/2022 - 11:08:01: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 11/17/2022 - 11:08:01: [SM] Exception reported: Mapcycle Not Found
+L 11/17/2022 - 11:08:01: [SM] Blaming: nextmap.smx
+L 11/17/2022 - 11:08:01: [SM] Call stack trace:
+L 11/17/2022 - 11:08:01: [SM]   [0] SetFailState
+L 11/17/2022 - 11:08:01: [SM]   [1] Line 142, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::FindAndSetNextMap
+L 11/17/2022 - 11:08:01: [SM]   [2] Line 112, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::OnConfigsExecuted
+L 11/17/2022 - 11:11:21: Error log file session closed.
+L 11/17/2022 - 11:11:24: SourceMod error session started
+L 11/17/2022 - 11:11:24: Info (map "de_mirage") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221117.log")
+L 11/17/2022 - 11:11:24: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 11/17/2022 - 11:11:24: [SM] Exception reported: Mapcycle Not Found
+L 11/17/2022 - 11:11:24: [SM] Blaming: nextmap.smx
+L 11/17/2022 - 11:11:24: [SM] Call stack trace:
+L 11/17/2022 - 11:11:24: [SM]   [0] SetFailState
+L 11/17/2022 - 11:11:24: [SM]   [1] Line 142, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::FindAndSetNextMap
+L 11/17/2022 - 11:11:24: [SM]   [2] Line 112, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::OnConfigsExecuted
+L 11/17/2022 - 12:47:32: Error log file session closed.
+L 11/17/2022 - 12:47:34: SourceMod error session started
+L 11/17/2022 - 12:47:34: Info (map "de_mirage") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221117.log")
+L 11/17/2022 - 12:47:34: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 11/17/2022 - 12:47:34: [SM] Exception reported: Mapcycle Not Found
+L 11/17/2022 - 12:47:34: [SM] Blaming: nextmap.smx
+L 11/17/2022 - 12:47:34: [SM] Call stack trace:
+L 11/17/2022 - 12:47:34: [SM]   [0] SetFailState
+L 11/17/2022 - 12:47:34: [SM]   [1] Line 142, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::FindAndSetNextMap
+L 11/17/2022 - 12:47:34: [SM]   [2] Line 112, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::OnConfigsExecuted
+L 11/17/2022 - 13:26:05: Error log file session closed.
+L 11/17/2022 - 13:26:07: SourceMod error session started
+L 11/17/2022 - 13:26:07: Info (map "de_mirage") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221117.log")
+L 11/17/2022 - 13:26:07: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 11/17/2022 - 13:26:07: [SM] Exception reported: Mapcycle Not Found
+L 11/17/2022 - 13:26:07: [SM] Blaming: nextmap.smx
+L 11/17/2022 - 13:26:07: [SM] Call stack trace:
+L 11/17/2022 - 13:26:07: [SM]   [0] SetFailState
+L 11/17/2022 - 13:26:07: [SM]   [1] Line 142, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::FindAndSetNextMap
+L 11/17/2022 - 13:26:07: [SM]   [2] Line 112, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::OnConfigsExecuted
+L 11/17/2022 - 14:05:28: Error log file session closed.
+L 11/17/2022 - 14:05:30: SourceMod error session started
+L 11/17/2022 - 14:05:30: Info (map "de_mirage") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221117.log")
+L 11/17/2022 - 14:05:30: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 11/17/2022 - 14:05:30: [SM] Exception reported: Mapcycle Not Found
+L 11/17/2022 - 14:05:30: [SM] Blaming: nextmap.smx
+L 11/17/2022 - 14:05:30: [SM] Call stack trace:
+L 11/17/2022 - 14:05:30: [SM]   [0] SetFailState
+L 11/17/2022 - 14:05:30: [SM]   [1] Line 142, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::FindAndSetNextMap
+L 11/17/2022 - 14:05:30: [SM]   [2] Line 112, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::OnConfigsExecuted
+L 11/17/2022 - 15:08:46: Error log file session closed.
+L 11/17/2022 - 15:08:48: SourceMod error session started
+L 11/17/2022 - 15:08:48: Info (map "de_mirage") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221117.log")
+L 11/17/2022 - 15:08:48: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 11/17/2022 - 15:08:48: [SM] Exception reported: Mapcycle Not Found
+L 11/17/2022 - 15:08:48: [SM] Blaming: nextmap.smx
+L 11/17/2022 - 15:08:48: [SM] Call stack trace:
+L 11/17/2022 - 15:08:48: [SM]   [0] SetFailState
+L 11/17/2022 - 15:08:48: [SM]   [1] Line 142, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::FindAndSetNextMap
+L 11/17/2022 - 15:08:48: [SM]   [2] Line 112, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::OnConfigsExecuted
+L 11/17/2022 - 16:18:14: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/17/2022 - 16:18:14: [SM] Blaming: weapon_restrict.smx
+L 11/17/2022 - 16:18:14: [SM] Call stack trace:
+L 11/17/2022 - 16:18:14: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/17/2022 - 16:18:19: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/17/2022 - 16:18:19: [SM] Blaming: weapon_restrict.smx
+L 11/17/2022 - 16:18:19: [SM] Call stack trace:
+L 11/17/2022 - 16:18:19: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/17/2022 - 17:00:00: Error log file session closed.
+L 11/17/2022 - 17:00:02: SourceMod error session started
+L 11/17/2022 - 17:00:02: Info (map "de_mirage") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221117.log")
+L 11/17/2022 - 17:00:02: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 11/17/2022 - 17:00:02: [SM] Exception reported: Mapcycle Not Found
+L 11/17/2022 - 17:00:02: [SM] Blaming: nextmap.smx
+L 11/17/2022 - 17:00:02: [SM] Call stack trace:
+L 11/17/2022 - 17:00:02: [SM]   [0] SetFailState
+L 11/17/2022 - 17:00:02: [SM]   [1] Line 142, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::FindAndSetNextMap
+L 11/17/2022 - 17:00:02: [SM]   [2] Line 112, /home/builds/sourcemod/debian9-1.11/build/plugins/nextmap.sp::OnConfigsExecuted
+L 11/17/2022 - 17:04:57: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/17/2022 - 17:04:57: [SM] Blaming: weapon_restrict.smx
+L 11/17/2022 - 17:04:57: [SM] Call stack trace:
+L 11/17/2022 - 17:04:57: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/17/2022 - 17:05:02: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/17/2022 - 17:05:02: [SM] Blaming: weapon_restrict.smx
+L 11/17/2022 - 17:05:02: [SM] Call stack trace:
+L 11/17/2022 - 17:05:02: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/17/2022 - 17:05:03: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/17/2022 - 17:05:03: [SM] Blaming: weapon_restrict.smx
+L 11/17/2022 - 17:05:03: [SM] Call stack trace:
+L 11/17/2022 - 17:05:03: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/17/2022 - 17:10:31: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/17/2022 - 17:10:31: [SM] Blaming: weapon_restrict.smx
+L 11/17/2022 - 17:10:31: [SM] Call stack trace:
+L 11/17/2022 - 17:10:31: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/17/2022 - 17:14:07: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/17/2022 - 17:14:07: [SM] Blaming: weapon_restrict.smx
+L 11/17/2022 - 17:14:07: [SM] Call stack trace:
+L 11/17/2022 - 17:14:07: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/17/2022 - 17:14:07: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/17/2022 - 17:14:07: [SM] Blaming: weapon_restrict.smx
+L 11/17/2022 - 17:14:07: [SM] Call stack trace:
+L 11/17/2022 - 17:14:07: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/17/2022 - 17:16:44: [warmod.smx] Plug-in tEasyFTP.smx required to auto upload demos
+L 11/17/2022 - 17:37:55: Error log file session closed.
+L 11/17/2022 - 22:31:19: SourceMod error session started
+L 11/17/2022 - 22:31:19: Info (map "de_mirage") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221117.log")
+L 11/17/2022 - 22:31:19: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/17/2022 - 22:31:19: [SM] Blaming: weapon_restrict.smx
+L 11/17/2022 - 22:31:19: [SM] Call stack trace:
+L 11/17/2022 - 22:31:19: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/17/2022 - 22:39:00: Error log file session closed.
+L 11/17/2022 - 22:41:17: SourceMod error session started
+L 11/17/2022 - 22:41:17: Info (map "de_stmarc") (file "/csgoserver/server1/csgo/addons/sourcemod/logs/errors_20221117.log")
+L 11/17/2022 - 22:41:17: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/17/2022 - 22:41:17: [SM] Blaming: weapon_restrict.smx
+L 11/17/2022 - 22:41:17: [SM] Call stack trace:
+L 11/17/2022 - 22:41:17: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/17/2022 - 22:41:57: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/17/2022 - 22:41:57: [SM] Blaming: weapon_restrict.smx
+L 11/17/2022 - 22:41:57: [SM] Call stack trace:
+L 11/17/2022 - 22:41:57: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/17/2022 - 22:42:08: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/17/2022 - 22:42:08: [SM] Blaming: weapon_restrict.smx
+L 11/17/2022 - 22:42:08: [SM] Call stack trace:
+L 11/17/2022 - 22:42:08: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/17/2022 - 22:42:42: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/17/2022 - 22:42:42: [SM] Blaming: weapon_restrict.smx
+L 11/17/2022 - 22:42:42: [SM] Call stack trace:
+L 11/17/2022 - 22:42:42: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/18/2022 - 23:04:47: Error log file session closed.

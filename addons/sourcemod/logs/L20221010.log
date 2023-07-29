@@ -1,0 +1,91 @@
+L 10/10/2022 - 03:40:06: SourceMod log file session started (file "/badfupo/server1/csgo/addons/sourcemod/logs/L20221010.log") (Version "1.12.0.6912")
+L 10/10/2022 - 03:40:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/10/2022 - 03:40:11: [warmod.smx] Current Map: de_inferno, Warmod Version: 19.11.21.2253
+L 10/10/2022 - 03:40:12: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/10/2022 - 03:40:12: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/10/2022 - 03:41:18: -------- Mapchange to de_inferno --------
+L 10/10/2022 - 03:41:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/10/2022 - 03:41:24: [warmod.smx] Current Map: de_inferno, Warmod Version: 19.11.21.2253
+L 10/10/2022 - 03:41:25: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/10/2022 - 03:41:25: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/10/2022 - 05:10:15: -------- Mapchange to de_inferno --------
+L 10/10/2022 - 05:10:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/10/2022 - 05:10:21: [warmod.smx] Current Map: de_inferno, Warmod Version: 19.11.21.2253
+L 10/10/2022 - 05:10:22: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/10/2022 - 05:10:22: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/10/2022 - 05:54:08: -------- Mapchange to de_inferno --------
+L 10/10/2022 - 05:54:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/10/2022 - 05:54:13: [warmod.smx] Current Map: de_inferno, Warmod Version: 19.11.21.2253
+L 10/10/2022 - 05:54:15: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/10/2022 - 05:54:15: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/10/2022 - 07:16:49: -------- Mapchange to de_inferno --------
+L 10/10/2022 - 07:18:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/10/2022 - 07:18:29: [warmod.smx] Current Map: de_inferno, Warmod Version: 19.11.21.2253
+L 10/10/2022 - 07:18:31: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/10/2022 - 07:18:31: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/10/2022 - 11:54:16: -------- Mapchange to de_inferno --------
+L 10/10/2022 - 11:54:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/10/2022 - 11:54:22: [warmod.smx] Current Map: de_inferno, Warmod Version: 19.11.21.2253
+L 10/10/2022 - 11:54:24: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/10/2022 - 11:54:24: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/10/2022 - 12:02:10: -------- Mapchange to de_inferno --------
+L 10/10/2022 - 12:02:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/10/2022 - 12:02:16: [warmod.smx] Current Map: de_inferno, Warmod Version: 19.11.21.2253
+L 10/10/2022 - 12:02:18: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/10/2022 - 12:02:18: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/10/2022 - 12:08:18: -------- Mapchange to de_inferno --------
+L 10/10/2022 - 12:08:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/10/2022 - 12:08:24: [warmod.smx] Current Map: de_inferno, Warmod Version: 19.11.21.2253
+L 10/10/2022 - 12:08:26: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/10/2022 - 12:08:26: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/10/2022 - 12:34:08: -------- Mapchange to de_inferno --------
+L 10/10/2022 - 12:34:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/10/2022 - 12:34:14: [warmod.smx] Current Map: de_inferno, Warmod Version: 19.11.21.2253
+L 10/10/2022 - 12:34:16: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/10/2022 - 12:34:16: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/10/2022 - 12:48:58: -------- Mapchange to de_inferno --------
+L 10/10/2022 - 12:48:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/10/2022 - 12:49:04: [warmod.smx] Current Map: de_inferno, Warmod Version: 19.11.21.2253
+L 10/10/2022 - 12:49:05: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/10/2022 - 12:49:05: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/10/2022 - 13:02:40: -------- Mapchange to de_inferno --------
+L 10/10/2022 - 13:02:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/10/2022 - 13:02:45: [warmod.smx] Current Map: de_inferno, Warmod Version: 19.11.21.2253
+L 10/10/2022 - 13:02:47: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/10/2022 - 13:02:47: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/10/2022 - 14:41:45: -------- Mapchange to de_inferno --------
+L 10/10/2022 - 14:41:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/10/2022 - 14:41:51: [warmod.smx] Current Map: de_inferno, Warmod Version: 19.11.21.2253
+L 10/10/2022 - 14:41:52: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/10/2022 - 14:41:52: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/10/2022 - 14:57:44: -------- Mapchange to de_inferno --------
+L 10/10/2022 - 14:57:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/10/2022 - 14:57:50: [warmod.smx] Current Map: de_inferno, Warmod Version: 19.11.21.2253
+L 10/10/2022 - 14:57:52: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/10/2022 - 14:57:52: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/10/2022 - 14:58:39: -------- Mapchange to de_inferno --------
+L 10/10/2022 - 14:58:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/10/2022 - 14:58:45: [warmod.smx] Current Map: de_inferno, Warmod Version: 19.11.21.2253
+L 10/10/2022 - 14:58:46: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/10/2022 - 14:58:46: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/10/2022 - 15:11:56: -------- Mapchange to de_mirage --------
+L 10/10/2022 - 15:11:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/10/2022 - 15:12:02: [warmod.smx] Current Map: de_mirage, Warmod Version: 19.11.21.2253
+L 10/10/2022 - 15:12:03: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/10/2022 - 15:12:03: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/10/2022 - 15:23:43: -------- Mapchange to de_train --------
+L 10/10/2022 - 15:23:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/10/2022 - 15:23:49: [warmod.smx] Current Map: de_train, Warmod Version: 19.11.21.2253
+L 10/10/2022 - 15:23:50: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/10/2022 - 15:23:50: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/10/2022 - 17:42:09: -------- Mapchange to de_train --------
+L 10/10/2022 - 17:42:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/10/2022 - 17:42:15: [warmod.smx] Current Map: de_train, Warmod Version: 19.11.21.2253
+L 10/10/2022 - 17:42:17: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/10/2022 - 17:42:17: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/10/2022 - 22:41:30: -------- Mapchange to de_train --------
+L 10/10/2022 - 22:41:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mapcyclefile") (value "map_custom.txt")
+L 10/10/2022 - 22:41:36: [warmod.smx] Current Map: de_train, Warmod Version: 19.11.21.2253
+L 10/10/2022 - 22:41:37: [chat-processor.smx] Message formats generated for game 'csgo'.
+L 10/10/2022 - 22:41:37: [chat-processor.smx] Successfully hooked a SayText2 chat hook.
+L 10/11/2022 - 04:14:07: Log file closed.

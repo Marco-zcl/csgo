@@ -1,0 +1,29 @@
+L 08/10/2022 - 10:43:20: SourceMod log file session started (file "/home/csgo/csgo/addons/sourcemod/logs/L20220810.log") (Version "1.12.0.6912")
+L 08/10/2022 - 10:43:20: -------- Mapchange to de_mirage --------
+L 08/10/2022 - 13:10:53: -------- Mapchange to de_mirage --------
+L 08/10/2022 - 13:17:06: [basecommands.smx] "35<156><STEAM_1:0:515881234><>" changed map to "inf"
+L 08/10/2022 - 13:17:09: [SM] Changed map to "inf"
+L 08/10/2022 - 13:17:10: -------- Mapchange to de_inferno --------
+L 08/10/2022 - 13:40:18: [basecommands.smx] "35<156><STEAM_1:0:515881234><>" changed map to "ver"
+L 08/10/2022 - 13:40:21: [SM] Changed map to "ver"
+L 08/10/2022 - 13:40:22: -------- Mapchange to de_vertigo --------
+L 08/10/2022 - 15:43:07: -------- Mapchange to de_vertigo --------
+L 08/10/2022 - 19:16:39: -------- Mapchange to de_vertigo --------
+L 08/10/2022 - 19:20:29: [basecommands.smx] "Sadman<160><STEAM_1:0:151680565><>" changed map to "MIR"
+L 08/10/2022 - 19:20:32: [SM] Changed map to "MIR"
+L 08/10/2022 - 19:20:33: -------- Mapchange to de_mirage --------
+L 08/10/2022 - 19:28:07: [funcommands.smx] "Sadman<160><STEAM_1:0:151680565><>" set blind on "不许揪我小耳朵<161><STEAM_1:1:186730316><>" (amount "255")
+L 08/10/2022 - 19:39:03: -------- Mapchange to de_nuke --------
+L 08/10/2022 - 19:48:38: [basecommands.smx] "www<164><STEAM_1:0:110600653><>" changed map to "mir"
+L 08/10/2022 - 19:48:41: [SM] Changed map to "mir"
+L 08/10/2022 - 19:48:42: -------- Mapchange to de_mirage --------
+L 08/10/2022 - 20:19:40: [playercommands.smx] "Sadman<160><STEAM_1:0:151680565><>" slayed "曲終人<168><STEAM_1:1:427103416><>"
+L 08/10/2022 - 20:28:45: [funcommands.smx] "Sadman<160><STEAM_1:0:151680565><>" set a beacon on "Sadman<160><STEAM_1:0:151680565><>"
+L 08/10/2022 - 20:36:29: -------- Mapchange to de_overpass --------
+L 08/10/2022 - 20:37:52: [basecommands.smx] "Sadman<160><STEAM_1:0:151680565><>" changed cvar (cvar "game_mode") (value "1")
+L 08/10/2022 - 20:38:05: -------- Mapchange to de_overpass --------
+L 08/10/2022 - 21:50:35: -------- Mapchange to de_overpass --------
+L 08/10/2022 - 21:53:29: -------- Mapchange to de_overpass --------
+L 08/10/2022 - 21:54:06: -------- Mapchange to de_overpass --------
+L 08/10/2022 - 22:47:43: -------- Mapchange to de_overpass --------
+L 08/11/2022 - 01:29:51: Log file closed.

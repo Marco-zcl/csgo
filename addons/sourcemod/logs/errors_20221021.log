@@ -1,0 +1,353 @@
+L 10/21/2022 - 12:04:58: SourceMod error session started
+L 10/21/2022 - 12:04:58: Info (map "de_nuke") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 12:04:58: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/21/2022 - 12:04:58: [SM] Blaming: weapon_restrict.smx
+L 10/21/2022 - 12:04:58: [SM] Call stack trace:
+L 10/21/2022 - 12:04:58: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/21/2022 - 12:44:43: Error log file session closed.
+L 10/21/2022 - 13:07:47: SourceMod error session started
+L 10/21/2022 - 13:07:47: Info (map "de_nuke") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 13:07:47: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/21/2022 - 13:07:47: [SM] Blaming: weapon_restrict.smx
+L 10/21/2022 - 13:07:47: [SM] Call stack trace:
+L 10/21/2022 - 13:07:47: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/21/2022 - 13:07:58: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/21/2022 - 13:07:58: [SM] Blaming: weapon_restrict.smx
+L 10/21/2022 - 13:07:58: [SM] Call stack trace:
+L 10/21/2022 - 13:07:58: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/21/2022 - 13:08:50: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/21/2022 - 13:08:50: [SM] Blaming: weapon_restrict.smx
+L 10/21/2022 - 13:08:50: [SM] Call stack trace:
+L 10/21/2022 - 13:08:50: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/21/2022 - 13:21:38: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/21/2022 - 13:21:38: [SM] Blaming: weapon_restrict.smx
+L 10/21/2022 - 13:21:38: [SM] Call stack trace:
+L 10/21/2022 - 13:21:38: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/21/2022 - 13:22:36: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/21/2022 - 13:22:36: [SM] Blaming: weapon_restrict.smx
+L 10/21/2022 - 13:22:36: [SM] Call stack trace:
+L 10/21/2022 - 13:22:36: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/21/2022 - 13:30:30: Error log file session closed.
+L 10/21/2022 - 14:07:15: SourceMod error session started
+L 10/21/2022 - 14:07:15: Info (map "de_nuke") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 14:07:15: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/21/2022 - 14:07:15: [SM] Blaming: weapon_restrict.smx
+L 10/21/2022 - 14:07:15: [SM] Call stack trace:
+L 10/21/2022 - 14:07:15: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/21/2022 - 14:07:27: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 10/21/2022 - 14:07:27: [SM] Blaming: weapon_restrict.smx
+L 10/21/2022 - 14:07:27: [SM] Call stack trace:
+L 10/21/2022 - 14:07:27: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 10/21/2022 - 14:50:23: Error log file session closed.
+L 10/21/2022 - 23:09:45: SourceMod error session started
+L 10/21/2022 - 23:09:45: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:09:45: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:10:15: SourceMod error session started
+L 10/21/2022 - 23:10:15: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:10:15: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:10:42: SourceMod error session started
+L 10/21/2022 - 23:10:42: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:10:42: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:11:19: SourceMod error session started
+L 10/21/2022 - 23:11:19: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:11:19: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:11:54: SourceMod error session started
+L 10/21/2022 - 23:11:54: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:11:54: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:12:23: SourceMod error session started
+L 10/21/2022 - 23:12:23: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:12:23: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:12:53: SourceMod error session started
+L 10/21/2022 - 23:12:53: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:12:53: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:13:21: SourceMod error session started
+L 10/21/2022 - 23:13:21: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:13:21: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:13:49: SourceMod error session started
+L 10/21/2022 - 23:13:49: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:13:49: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:14:17: SourceMod error session started
+L 10/21/2022 - 23:14:17: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:14:17: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:14:46: SourceMod error session started
+L 10/21/2022 - 23:14:46: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:14:46: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:15:15: SourceMod error session started
+L 10/21/2022 - 23:15:15: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:15:15: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:15:48: SourceMod error session started
+L 10/21/2022 - 23:15:48: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:15:48: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:16:17: SourceMod error session started
+L 10/21/2022 - 23:16:17: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:16:17: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:16:49: SourceMod error session started
+L 10/21/2022 - 23:16:49: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:16:49: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:17:17: SourceMod error session started
+L 10/21/2022 - 23:17:17: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:17:17: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:17:45: SourceMod error session started
+L 10/21/2022 - 23:17:45: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:17:45: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:18:13: SourceMod error session started
+L 10/21/2022 - 23:18:13: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:18:13: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:18:44: SourceMod error session started
+L 10/21/2022 - 23:18:44: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:18:44: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:19:14: SourceMod error session started
+L 10/21/2022 - 23:19:14: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:19:14: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:19:43: SourceMod error session started
+L 10/21/2022 - 23:19:43: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:19:43: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:20:11: SourceMod error session started
+L 10/21/2022 - 23:20:11: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:20:11: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:20:41: SourceMod error session started
+L 10/21/2022 - 23:20:41: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:20:41: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:21:09: SourceMod error session started
+L 10/21/2022 - 23:21:09: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:21:09: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:21:39: SourceMod error session started
+L 10/21/2022 - 23:21:39: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:21:39: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:22:07: SourceMod error session started
+L 10/21/2022 - 23:22:07: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:22:07: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:22:37: SourceMod error session started
+L 10/21/2022 - 23:22:37: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:22:37: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:23:07: SourceMod error session started
+L 10/21/2022 - 23:23:07: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:23:07: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:23:29: SourceMod error session started
+L 10/21/2022 - 23:23:29: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:23:29: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:23:58: SourceMod error session started
+L 10/21/2022 - 23:23:58: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:23:58: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:24:29: SourceMod error session started
+L 10/21/2022 - 23:24:29: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:24:29: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:24:58: SourceMod error session started
+L 10/21/2022 - 23:24:58: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:24:58: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:25:27: SourceMod error session started
+L 10/21/2022 - 23:25:27: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:25:27: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:25:55: SourceMod error session started
+L 10/21/2022 - 23:25:55: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:25:55: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:26:23: SourceMod error session started
+L 10/21/2022 - 23:26:23: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:26:23: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:26:52: SourceMod error session started
+L 10/21/2022 - 23:26:52: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:26:52: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:27:19: SourceMod error session started
+L 10/21/2022 - 23:27:19: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:27:19: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:27:48: SourceMod error session started
+L 10/21/2022 - 23:27:48: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:27:48: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:28:18: SourceMod error session started
+L 10/21/2022 - 23:28:18: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:28:18: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:28:46: SourceMod error session started
+L 10/21/2022 - 23:28:46: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:28:46: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:29:17: SourceMod error session started
+L 10/21/2022 - 23:29:17: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:29:17: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:29:48: SourceMod error session started
+L 10/21/2022 - 23:29:48: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:29:48: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:30:16: SourceMod error session started
+L 10/21/2022 - 23:30:16: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:30:16: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:30:48: SourceMod error session started
+L 10/21/2022 - 23:30:48: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:30:48: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:31:19: SourceMod error session started
+L 10/21/2022 - 23:31:19: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:31:19: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:31:48: SourceMod error session started
+L 10/21/2022 - 23:31:48: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:31:48: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:32:17: SourceMod error session started
+L 10/21/2022 - 23:32:17: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:32:17: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:32:45: SourceMod error session started
+L 10/21/2022 - 23:32:45: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:32:45: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:33:19: SourceMod error session started
+L 10/21/2022 - 23:33:19: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:33:19: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:33:48: SourceMod error session started
+L 10/21/2022 - 23:33:48: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:33:48: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:34:10: SourceMod error session started
+L 10/21/2022 - 23:34:10: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:34:10: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:34:43: SourceMod error session started
+L 10/21/2022 - 23:34:43: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:34:43: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:35:12: SourceMod error session started
+L 10/21/2022 - 23:35:12: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:35:12: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:35:40: SourceMod error session started
+L 10/21/2022 - 23:35:40: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:35:40: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:36:11: SourceMod error session started
+L 10/21/2022 - 23:36:11: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:36:11: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:36:41: SourceMod error session started
+L 10/21/2022 - 23:36:41: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:36:41: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:37:09: SourceMod error session started
+L 10/21/2022 - 23:37:09: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:37:09: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:37:37: SourceMod error session started
+L 10/21/2022 - 23:37:37: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:37:37: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:38:04: SourceMod error session started
+L 10/21/2022 - 23:38:04: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:38:04: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:38:32: SourceMod error session started
+L 10/21/2022 - 23:38:32: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:38:32: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:39:00: SourceMod error session started
+L 10/21/2022 - 23:39:00: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:39:00: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:39:30: SourceMod error session started
+L 10/21/2022 - 23:39:30: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:39:30: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:40:02: SourceMod error session started
+L 10/21/2022 - 23:40:02: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:40:02: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:40:31: SourceMod error session started
+L 10/21/2022 - 23:40:31: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:40:31: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:40:58: SourceMod error session started
+L 10/21/2022 - 23:40:58: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:40:58: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:41:27: SourceMod error session started
+L 10/21/2022 - 23:41:27: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:41:27: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:41:55: SourceMod error session started
+L 10/21/2022 - 23:41:55: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:41:55: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:42:24: SourceMod error session started
+L 10/21/2022 - 23:42:24: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:42:24: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:42:53: SourceMod error session started
+L 10/21/2022 - 23:42:53: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:42:53: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:43:14: SourceMod error session started
+L 10/21/2022 - 23:43:14: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:43:14: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:43:43: SourceMod error session started
+L 10/21/2022 - 23:43:43: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:43:43: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:44:11: SourceMod error session started
+L 10/21/2022 - 23:44:11: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:44:11: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:44:33: SourceMod error session started
+L 10/21/2022 - 23:44:33: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:44:33: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:45:04: SourceMod error session started
+L 10/21/2022 - 23:45:04: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:45:04: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:45:33: SourceMod error session started
+L 10/21/2022 - 23:45:33: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:45:33: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:46:01: SourceMod error session started
+L 10/21/2022 - 23:46:01: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:46:01: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:46:32: SourceMod error session started
+L 10/21/2022 - 23:46:32: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:46:32: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:47:01: SourceMod error session started
+L 10/21/2022 - 23:47:01: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:47:01: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:47:29: SourceMod error session started
+L 10/21/2022 - 23:47:29: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:47:29: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:47:58: SourceMod error session started
+L 10/21/2022 - 23:47:58: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:47:58: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:48:27: SourceMod error session started
+L 10/21/2022 - 23:48:27: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:48:27: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:48:56: SourceMod error session started
+L 10/21/2022 - 23:48:56: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:48:56: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:49:24: SourceMod error session started
+L 10/21/2022 - 23:49:24: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:49:24: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:49:47: SourceMod error session started
+L 10/21/2022 - 23:49:47: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:49:47: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:50:17: SourceMod error session started
+L 10/21/2022 - 23:50:17: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:50:17: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:50:47: SourceMod error session started
+L 10/21/2022 - 23:50:47: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:50:47: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:51:18: SourceMod error session started
+L 10/21/2022 - 23:51:18: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:51:18: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:51:46: SourceMod error session started
+L 10/21/2022 - 23:51:46: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:51:46: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:52:15: SourceMod error session started
+L 10/21/2022 - 23:52:15: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:52:15: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:52:39: SourceMod error session started
+L 10/21/2022 - 23:52:39: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:52:39: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:53:07: SourceMod error session started
+L 10/21/2022 - 23:53:07: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:53:07: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:53:35: SourceMod error session started
+L 10/21/2022 - 23:53:35: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:53:35: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:54:04: SourceMod error session started
+L 10/21/2022 - 23:54:04: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:54:04: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:54:31: SourceMod error session started
+L 10/21/2022 - 23:54:31: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:54:31: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:55:00: SourceMod error session started
+L 10/21/2022 - 23:55:00: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:55:00: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:55:25: SourceMod error session started
+L 10/21/2022 - 23:55:25: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:55:25: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:56:04: SourceMod error session started
+L 10/21/2022 - 23:56:04: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:56:04: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:56:32: SourceMod error session started
+L 10/21/2022 - 23:56:32: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:56:32: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:57:00: SourceMod error session started
+L 10/21/2022 - 23:57:00: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:57:00: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:57:31: SourceMod error session started
+L 10/21/2022 - 23:57:31: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:57:31: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:58:00: SourceMod error session started
+L 10/21/2022 - 23:58:00: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:58:00: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:58:32: SourceMod error session started
+L 10/21/2022 - 23:58:32: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:58:32: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:59:04: SourceMod error session started
+L 10/21/2022 - 23:59:04: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:59:04: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 10/21/2022 - 23:59:33: SourceMod error session started
+L 10/21/2022 - 23:59:33: Info (map "de_mirage") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221021.log")
+L 10/21/2022 - 23:59:33: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.

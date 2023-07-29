@@ -1,0 +1,34 @@
+L 11/02/2022 - 05:46:24: SourceMod error session started
+L 11/02/2022 - 05:46:24: Info (map "de_dust2") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221102.log")
+L 11/02/2022 - 05:46:24: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/02/2022 - 05:46:24: [SM] Blaming: weapon_restrict.smx
+L 11/02/2022 - 05:46:24: [SM] Call stack trace:
+L 11/02/2022 - 05:46:24: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/02/2022 - 05:47:13: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/02/2022 - 05:47:13: [SM] Blaming: weapon_restrict.smx
+L 11/02/2022 - 05:47:13: [SM] Call stack trace:
+L 11/02/2022 - 05:47:13: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/02/2022 - 05:47:20: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/02/2022 - 05:47:20: [SM] Blaming: weapon_restrict.smx
+L 11/02/2022 - 05:47:20: [SM] Call stack trace:
+L 11/02/2022 - 05:47:20: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/02/2022 - 05:48:52: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/02/2022 - 05:48:52: [SM] Blaming: weapon_restrict.smx
+L 11/02/2022 - 05:48:52: [SM] Call stack trace:
+L 11/02/2022 - 05:48:52: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/02/2022 - 05:49:32: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/02/2022 - 05:49:32: [SM] Blaming: weapon_restrict.smx
+L 11/02/2022 - 05:49:32: [SM] Call stack trace:
+L 11/02/2022 - 05:49:32: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/02/2022 - 11:22:14: Error log file session closed.
+L 11/02/2022 - 12:10:56: SourceMod error session started
+L 11/02/2022 - 12:10:56: Info (map "de_dust2") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221102.log")
+L 11/02/2022 - 12:10:56: [SM] Exception reported: Array index out-of-bounds (index 64, limit 55)
+L 11/02/2022 - 12:10:56: [SM] Blaming: weapon_restrict.smx
+L 11/02/2022 - 12:10:56: [SM] Call stack trace:
+L 11/02/2022 - 12:10:56: [SM]   [1] Line 202, restrictinc/events.sp::CS_OnBuyCommand
+L 11/02/2022 - 12:33:24: Error log file session closed.
+L 11/02/2022 - 13:15:23: SourceMod error session started
+L 11/02/2022 - 13:15:23: Info (map "de_dust2") (file "/badfupo/server1/csgo/addons/sourcemod/logs/errors_20221102.log")
+L 11/02/2022 - 13:15:23: [warmod.smx] Plug-in tEasyFTP.smx required to auto upload demos
+L 11/02/2022 - 13:15:51: Error log file session closed.
