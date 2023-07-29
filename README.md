@@ -1,2 +1,2 @@
-# csgo
+##csgo
 csgo下载站
